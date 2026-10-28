@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Apparel root -->
-  <Cinder_ErodedExo.root.children.0.children.0.debugLabel>Apparel root</Cinder_ErodedExo.root.children.0.children.0.debugLabel>
-  <!-- EN: Weapon/carried thing -->
-  <Cinder_ErodedExo.root.children.1.debugLabel>Weapon/carried thing</Cinder_ErodedExo.root.children.1.debugLabel>
+  <Cinder_ErodedExo.root.children.0.children.0.debugLabel>корневой узел одежды</Cinder_ErodedExo.root.children.0.children.0.debugLabel>
+  <Cinder_ErodedExo.root.children.1.debugLabel>оружие / переносимый предмет</Cinder_ErodedExo.root.children.1.debugLabel>
 </LanguageData>

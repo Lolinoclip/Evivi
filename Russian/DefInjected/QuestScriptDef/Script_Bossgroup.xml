@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:
-    <li>bossDefeatedLetterLabel->[escortees0_label] defeated</li>
-    <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
-    <li>bossDefeatedLetterText->[defeated][manufacture]</li>
-    <li>defeated->The hostile [escortees0_label] has been defeated and has dropped a [reward_label]!</li>
-    <li>manufacture->\n\nThis armor plate can be worn by anyone, providing defense against bullets.</li>
-    <li>study->\n\nYou can unlock subsequent technologies by studying [reward_label].</li>
-  -->
   <Cinder_Boss.questContentRules.rulesStrings>
-    <li>bossDefeatedLetterLabel->[escortees0_label] defeated</li>
+    <li>bossDefeatedLetterLabel->Победа над целью: [escortees0_label]</li>
     <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
     <li>bossDefeatedLetterText->[defeated][manufacture]</li>
-    <li>defeated->The hostile [escortees0_label] has been defeated and has dropped a [reward_label]!</li>
-    <li>manufacture->\n\nThis armor plate can be worn by anyone, providing defense against bullets.</li>
-    <li>study->\n\nYou can unlock subsequent technologies by studying [reward_label].</li>
+    <li>defeated->Вражеская цель [escortees0_label] уничтожена! Получена награда: [reward_label].</li>
+    <li>manufacture->\n\nЭту бронепластину может носить любой, получая защиту от пуль.</li>
+    <li>study->\n\nИзучение предмета «[reward_label]» откроет доступ к дальнейшим исследованиям.</li>
   </Cinder_Boss.questContentRules.rulesStrings>
-  <!-- EN:
-    <li>questDescription->bossgroup</li>
-  -->
   <Cinder_Boss.questDescriptionRules.rulesStrings>
-    <li>questDescription->bossgroup</li>
+    <li>questDescription->Боевая группа</li>
   </Cinder_Boss.questDescriptionRules.rulesStrings>
-  <!-- EN:
-    <li>questName->bossgroup</li>
-  -->
   <Cinder_Boss.questNameRules.rulesStrings>
-    <li>questName->bossgroup</li>
+    <li>questName->Боевая группа</li>
   </Cinder_Boss.questNameRules.rulesStrings>
-  <!-- EN: Combat unit is approaching. -->
-  <Cinder_Boss.root.AlertBossgroupIncoming>Combat unit is approaching.</Cinder_Boss.root.AlertBossgroupIncoming>
-  <!-- EN: Combat unit is approaching. -->
-  <Cinder_Boss.root.AlertBossgroupIncomingDesc>Combat unit is approaching.</Cinder_Boss.root.AlertBossgroupIncomingDesc>
-  <!-- EN: combat unit arrived！ -->
-  <Cinder_Boss.root.LetterBossgroupArrived>combat unit arrived！</Cinder_Boss.root.LetterBossgroupArrived>
-  <!-- EN: Your forged signal has been sent out, and the combat unit is about to arrive,please prepare for battle. -->
-  <Cinder_Boss.root.LetterBossgroupSummoned>Your forged signal has been sent out, and the combat unit is about to arrive,please prepare for battle.</Cinder_Boss.root.LetterBossgroupSummoned>
-  <!-- EN: combat unit arrived. -->
-  <Cinder_Boss.root.LetterLabelBossgroupArrived>combat unit arrived.</Cinder_Boss.root.LetterLabelBossgroupArrived>
-  <!-- EN: The combat unit has been summoned -->
-  <Cinder_Boss.root.LetterLabelBossgroupSummoned>The combat unit has been summoned</Cinder_Boss.root.LetterLabelBossgroupSummoned>
+  <Cinder_Boss.root.AlertBossgroupIncoming>Приближается боевая единица.</Cinder_Boss.root.AlertBossgroupIncoming>
+  <Cinder_Boss.root.AlertBossgroupIncomingDesc>Приближается боевая единица.</Cinder_Boss.root.AlertBossgroupIncomingDesc>
+  <Cinder_Boss.root.LetterBossgroupArrived>Боевая единица прибыла!</Cinder_Boss.root.LetterBossgroupArrived>
+  <Cinder_Boss.root.LetterBossgroupSummoned>Ваш поддельный сигнал отправлен. Боевая единица скоро прибудет. Приготовьтесь к бою.</Cinder_Boss.root.LetterBossgroupSummoned>
+  <Cinder_Boss.root.LetterLabelBossgroupArrived>Боевая единица прибыла</Cinder_Boss.root.LetterLabelBossgroupArrived>
+  <Cinder_Boss.root.LetterLabelBossgroupSummoned>Боевая единица вызвана</Cinder_Boss.root.LetterLabelBossgroupSummoned>
 </LanguageData>

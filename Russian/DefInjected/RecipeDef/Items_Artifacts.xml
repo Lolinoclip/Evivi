@@ -1,39 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: make erosion agent -->
-  <Make_Cinder_ErosionAgent.label>make erosion agent</Make_Cinder_ErosionAgent.label>
-  <!-- EN: Make erosion agent. -->
-  <Make_Cinder_ErosionAgent.description>Make erosion agent.</Make_Cinder_ErosionAgent.description>
-  <!-- EN: Making erosion agent. -->
-  <Make_Cinder_ErosionAgent.jobString>Making erosion agent.</Make_Cinder_ErosionAgent.jobString>
-  <!-- EN: make regenerated enhanced serum -->
-  <Make_Cinder_RegeneratedEnhancedSerum.label>make regenerated enhanced serum</Make_Cinder_RegeneratedEnhancedSerum.label>
-  <!-- EN: Make regenerated enhanced serum. -->
-  <Make_Cinder_RegeneratedEnhancedSerum.description>Make regenerated enhanced serum.</Make_Cinder_RegeneratedEnhancedSerum.description>
-  <!-- EN: Making regenerated enhanced serum. -->
-  <Make_Cinder_RegeneratedEnhancedSerum.jobString>Making regenerated enhanced serum.</Make_Cinder_RegeneratedEnhancedSerum.jobString>
-  <!-- EN: make regenerated enhanced serum from mech serum -->
-  <Make_5Cinder_RegeneratedEnhancedSerum.label>make regenerated enhanced serum from mech serum</Make_5Cinder_RegeneratedEnhancedSerum.label>
-  <!-- EN: Make regenerated enhanced serum from mech serum. -->
-  <Make_5Cinder_RegeneratedEnhancedSerum.description>Make regenerated enhanced serum from mech serum.</Make_5Cinder_RegeneratedEnhancedSerum.description>
-  <!-- EN: Making regenerated enhanced serum from mech serum. -->
-  <Make_5Cinder_RegeneratedEnhancedSerum.jobString>Making regenerated enhanced serum from mech serum.</Make_5Cinder_RegeneratedEnhancedSerum.jobString>
-  <!-- EN: make extra armour plates -->
-  <Make_Cinder_ExtraArmour.label>make extra armour plates</Make_Cinder_ExtraArmour.label>
-  <!-- EN: Make extra armour plates. -->
-  <Make_Cinder_ExtraArmour.description>Make extra armour plates.</Make_Cinder_ExtraArmour.description>
-  <!-- EN: Making extra armour plates. -->
-  <Make_Cinder_ExtraArmour.jobString>Making extra armour plates.</Make_Cinder_ExtraArmour.jobString>
-  <!-- EN: make extra armour plates -->
-  <Make_Cinder_HeavyExtraArmour.label>make extra armour plates</Make_Cinder_HeavyExtraArmour.label>
-  <!-- EN: Make extra armour plates. -->
-  <Make_Cinder_HeavyExtraArmour.description>Make extra armour plates.</Make_Cinder_HeavyExtraArmour.description>
-  <!-- EN: Making extra armour plates. -->
-  <Make_Cinder_HeavyExtraArmour.jobString>Making extra armour plates.</Make_Cinder_HeavyExtraArmour.jobString>
-  <!-- EN: Chop amorphous polymer to obtain burnt strange meat -->
-  <Make_Cinder_BurntStrangeMeat.label>Chop amorphous polymer to obtain burnt strange meat</Make_Cinder_BurntStrangeMeat.label>
-  <!-- EN: Separate burnt strange meat from amorphous polymer. -->
-  <Make_Cinder_BurntStrangeMeat.description>Separate burnt strange meat from amorphous polymer.</Make_Cinder_BurntStrangeMeat.description>
-  <!-- EN: Separating burnt strange meat from amorphous polymer. -->
-  <Make_Cinder_BurntStrangeMeat.jobString>Separating burnt strange meat from amorphous polymer.</Make_Cinder_BurntStrangeMeat.jobString>
+  <Make_Cinder_ErosionAgent.label>изготовить препарат искажения</Make_Cinder_ErosionAgent.label>
+  <Make_Cinder_ErosionAgent.description>Изготовить препарат искажения.</Make_Cinder_ErosionAgent.description>
+  <Make_Cinder_ErosionAgent.jobString>Изготавливает препарат искажения.</Make_Cinder_ErosionAgent.jobString>
+  <Make_Cinder_RegeneratedEnhancedSerum.label>изготовить сыворотку усиленной регенерации</Make_Cinder_RegeneratedEnhancedSerum.label>
+  <Make_Cinder_RegeneratedEnhancedSerum.description>Изготовить сыворотку усиленной регенерации.</Make_Cinder_RegeneratedEnhancedSerum.description>
+  <Make_Cinder_RegeneratedEnhancedSerum.jobString>Изготавливает сыворотку усиленной регенерации.</Make_Cinder_RegeneratedEnhancedSerum.jobString>
+  <Make_5Cinder_RegeneratedEnhancedSerum.label>изготовить сыворотку усиленной регенерации из мехсыворотки</Make_5Cinder_RegeneratedEnhancedSerum.label>
+  <Make_5Cinder_RegeneratedEnhancedSerum.description>Изготовить сыворотку усиленной регенерации из мехсыворотки.</Make_5Cinder_RegeneratedEnhancedSerum.description>
+  <Make_5Cinder_RegeneratedEnhancedSerum.jobString>Изготавливает сыворотку усиленной регенерации из мехсыворотки.</Make_5Cinder_RegeneratedEnhancedSerum.jobString>
+  <Make_Cinder_ExtraArmour.label>изготовить дополнительные бронепластины</Make_Cinder_ExtraArmour.label>
+  <Make_Cinder_ExtraArmour.description>Изготовить дополнительные бронепластины.</Make_Cinder_ExtraArmour.description>
+  <Make_Cinder_ExtraArmour.jobString>Изготавливает дополнительные бронепластины.</Make_Cinder_ExtraArmour.jobString>
+  <Make_Cinder_HeavyExtraArmour.label>изготовить дополнительные бронепластины</Make_Cinder_HeavyExtraArmour.label>
+  <Make_Cinder_HeavyExtraArmour.description>Изготовить дополнительные бронепластины.</Make_Cinder_HeavyExtraArmour.description>
+  <Make_Cinder_HeavyExtraArmour.jobString>Изготавливает дополнительные бронепластины.</Make_Cinder_HeavyExtraArmour.jobString>
+  <Make_Cinder_BurntStrangeMeat.label>разделать аморфный полимер на обожжённое странное мясо</Make_Cinder_BurntStrangeMeat.label>
+  <Make_Cinder_BurntStrangeMeat.description>Отделить обожжённое странное мясо от аморфного полимера.</Make_Cinder_BurntStrangeMeat.description>
+  <Make_Cinder_BurntStrangeMeat.jobString>Отделяет обожжённое странное мясо от аморфного полимера.</Make_Cinder_BurntStrangeMeat.jobString>
 </LanguageData>

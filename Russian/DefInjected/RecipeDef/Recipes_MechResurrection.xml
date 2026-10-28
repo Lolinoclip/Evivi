@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_ResurrectUltraheavyMech.label>resurrect war walkers</Cinder_ResurrectUltraheavyMech.label>
-  <Cinder_ResurrectUltraheavyMech.description>Resurrect a friendly  war walkers of the ultraheavy weight class. So long as the  war walker's body is not completely destroyed, it can be resurrected.</Cinder_ResurrectUltraheavyMech.description>
-  <Cinder_ResurrectUltraheavyMech.jobString>Resurrecting mech.</Cinder_ResurrectUltraheavyMech.jobString>
+  <Cinder_ResurrectUltraheavyMech.label>воскресить боевого шагохода</Cinder_ResurrectUltraheavyMech.label>
+  <Cinder_ResurrectUltraheavyMech.description>Воскресить дружественного боевого шагохода сверхтяжёлого класса. Шагохода можно воскресить, пока его тело не уничтожено полностью.</Cinder_ResurrectUltraheavyMech.description>
+  <Cinder_ResurrectUltraheavyMech.jobString>Воскрешает меха.</Cinder_ResurrectUltraheavyMech.jobString>
 </LanguageData>
