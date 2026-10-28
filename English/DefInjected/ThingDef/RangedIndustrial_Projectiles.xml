@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Multiple bullet -->
+  <Cinder_Bullet_308APE.label>Multiple bullet</Cinder_Bullet_308APE.label>
+  <!-- EN: Energy gathering bomb -->
+  <Cinder_Bullet_RPG.label>Energy gathering bomb</Cinder_Bullet_RPG.label>
+  <!-- EN: .50 bullet -->
+  <Cinder_Bullet_50APE.label>.50 bullet</Cinder_Bullet_50APE.label>
+  <!-- EN: needle bullet -->
+  <Cinder_Bullet_PDW.label>needle bullet</Cinder_Bullet_PDW.label>
+  <!-- EN: Flechette blast -->
+  <Cinder_Bullet_Flechette.label>Flechette blast</Cinder_Bullet_Flechette.label>
+</LanguageData>
