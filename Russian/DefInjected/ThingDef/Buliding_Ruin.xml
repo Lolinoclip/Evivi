@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Amorphous wall -->
-  <Cinder_AmorphousWall.label>Amorphous wall</Cinder_AmorphousWall.label>
-  <!-- EN: An indescribable amorphous tentacle mixed with a lump of metal, emitting a burnt odor. -->
-  <Cinder_AmorphousWall.description>An indescribable amorphous tentacle mixed with a lump of metal, emitting a burnt odor.</Cinder_AmorphousWall.description>
-  <!-- EN: eroded EXO(Not Started) -->
-  <Cinder_ErodedEXOBuliding.label>eroded EXO(Not Started)</Cinder_ErodedEXOBuliding.label>
-  <!-- EN: A three meter high mass-produced main attack armored mecha, used to fill the gap between infantry and tanks, carrying many weapons and anti tank missiles, and is a component of the armored torrent.\n\nNeed a Mechanitor to activate it. -->
-  <Cinder_ErodedEXOBuliding.description>A three meter high mass-produced main attack armored mecha, used to fill the gap between infantry and tanks, carrying many weapons and anti tank missiles, and is a component of the armored torrent.\n\nNeed a Mechanitor to activate it.</Cinder_ErodedEXOBuliding.description>
-  <!-- EN: Activate the unit -->
-  <Cinder_ErodedEXOBuliding.comps.CompUsable.useLabel>Activate the unit</Cinder_ErodedEXOBuliding.comps.CompUsable.useLabel>
-  <!-- EN: war attacker(Not Started) -->
-  <Cinder_WarAttackerBuliding.label>war attacker(Not Started)</Cinder_WarAttackerBuliding.label>
-  <!-- EN: A three meter high heavy armored assault walking machine with astonishing ammunition carrying capacity, like a walking armed helicopter, capable of leveling enemy positions with eight Hellfire missiles.\n\nNeed a Mechanitor to activate it. -->
-  <Cinder_WarAttackerBuliding.description>A three meter high heavy armored assault walking machine with astonishing ammunition carrying capacity, like a walking armed helicopter, capable of leveling enemy positions with eight Hellfire missiles.\n\nNeed a Mechanitor to activate it.</Cinder_WarAttackerBuliding.description>
-  <!-- EN: Activate the unit -->
-  <Cinder_WarAttackerBuliding.comps.CompUsable.useLabel>Activate the unit</Cinder_WarAttackerBuliding.comps.CompUsable.useLabel>
-  <!-- EN: war sweeper(Not Started) -->
-  <Cinder_WarSweeperBuliding.label>war sweeper(Not Started)</Cinder_WarSweeperBuliding.label>
-  <!-- EN: A heavy armored anti-aircraft walking machine on the order of three meters high, equipped with anti-aircraft firepower of different calibers and abundant ammunition to accompany infantry in anti-aircraft operations.\n\nNeed a Mechanitor to activate it. -->
-  <Cinder_WarSweeperBuliding.description>A heavy armored anti-aircraft walking machine on the order of three meters high, equipped with anti-aircraft firepower of different calibers and abundant ammunition to accompany infantry in anti-aircraft operations.\n\nNeed a Mechanitor to activate it.</Cinder_WarSweeperBuliding.description>
-  <!-- EN: Activate the unit -->
-  <Cinder_WarSweeperBuliding.comps.CompUsable.useLabel>Activate the unit</Cinder_WarSweeperBuliding.comps.CompUsable.useLabel>
-  <!-- EN: eroded krepost(Not Started) -->
-  <Cinder_erodedKrepostBuliding.label>eroded krepost(Not Started)</Cinder_erodedKrepostBuliding.label>
-  <!-- EN: 6M41 / BR-6 "Krepost" NATO nicknamed "TankHead". Huge and bulky walker, used as a bridgehead and mobile battery to maintain frontal battlefield firepower, Krepost is equipped with several active protection system and reactive armors to resist incoming projectiles. Even if the shields are exhausted, its huge size and weapon systems are sufficient at holding off incoming enemies until reinforcements arrive.\n\nNeed a Mechanitor to activate it. -->
-  <Cinder_erodedKrepostBuliding.description>6M41 / BR-6 "Krepost" NATO nicknamed "TankHead". Huge and bulky walker, used as a bridgehead and mobile battery to maintain frontal battlefield firepower, Krepost is equipped with several active protection system and reactive armors to resist incoming projectiles. Even if the shields are exhausted, its huge size and weapon systems are sufficient at holding off incoming enemies until reinforcements arrive.\n\nNeed a Mechanitor to activate it.</Cinder_erodedKrepostBuliding.description>
-  <!-- EN: Activate the unit -->
-  <Cinder_erodedKrepostBuliding.comps.CompUsable.useLabel>Activate the unit</Cinder_erodedKrepostBuliding.comps.CompUsable.useLabel>
-  <!-- EN: Amorphous trap -->
-  <Cinder_TrapIED_HighExplosive.label>Amorphous trap</Cinder_TrapIED_HighExplosive.label>
-  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <Cinder_TrapIED_HighExplosive.description>A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</Cinder_TrapIED_HighExplosive.description>
-  <!-- EN: tentacle -->
-  <Cinder_BlackTentacle.label>tentacle</Cinder_BlackTentacle.label>
-  <!-- EN: Tentacle trap -->
-  <Cinder_TentacleTrap.label>Tentacle trap</Cinder_TentacleTrap.label>
-  <!-- EN: / -->
+  <Cinder_AmorphousWall.label>аморфная стена</Cinder_AmorphousWall.label>
+  <Cinder_AmorphousWall.description>Неописуемое аморфное щупальце, смешанное с комом металла и источающее запах гари.</Cinder_AmorphousWall.description>
+  <Cinder_ErodedEXOBuliding.label>искажённый экзоскелет (не активирован)</Cinder_ErodedEXOBuliding.label>
+  <Cinder_ErodedEXOBuliding.description>Серийный бронированный штурмовой мех высотой три метра, занимающий промежуточное место между пехотой и танками. Несёт разнообразное вооружение и противотанковые ракеты, составляя часть бронированного наступающего потока.\n\nДля активации нужен механитор.</Cinder_ErodedEXOBuliding.description>
+  <Cinder_ErodedEXOBuliding.comps.CompUsable.useLabel>Активировать боевую единицу</Cinder_ErodedEXOBuliding.comps.CompUsable.useLabel>
+  <Cinder_WarAttackerBuliding.label>штурмовая машина (не активирована)</Cinder_WarAttackerBuliding.label>
+  <Cinder_WarAttackerBuliding.description>Тяжелобронированная штурмовая шагающая машина высотой три метра с внушительным боезапасом. Подобно шагающему боевому вертолёту, способна сравнять вражеские позиции с землёй восемью ракетами «Адское пламя».\n\nДля активации нужен механитор.</Cinder_WarAttackerBuliding.description>
+  <Cinder_WarAttackerBuliding.comps.CompUsable.useLabel>Активировать боевую единицу</Cinder_WarAttackerBuliding.comps.CompUsable.useLabel>
+  <Cinder_WarSweeperBuliding.label>зенитная машина (не активирована)</Cinder_WarSweeperBuliding.label>
+  <Cinder_WarSweeperBuliding.description>Тяжелобронированная зенитная шагающая машина высотой около трёх метров. Оснащена зенитным вооружением разных калибров и большим боезапасом для сопровождения пехоты и обеспечения противовоздушной обороны.\n\nДля активации нужен механитор.</Cinder_WarSweeperBuliding.description>
+  <Cinder_WarSweeperBuliding.comps.CompUsable.useLabel>Активировать боевую единицу</Cinder_WarSweeperBuliding.comps.CompUsable.useLabel>
+  <Cinder_erodedKrepostBuliding.label>искажённая «Крепость» (не активирована)</Cinder_erodedKrepostBuliding.label>
+  <Cinder_erodedKrepostBuliding.description>6M41 / BR-6 «Крепость», по классификации НАТО — «Танкоголов». Огромный неповоротливый шагоход, служащий передовым опорным пунктом и мобильной батареей для огневой поддержки на передовой. Оснащён несколькими системами активной защиты и динамической защитой для противодействия подлетающим снарядам. Даже после истощения щитов его размеры и вооружение позволяют сдерживать врага до прибытия подкреплений.\n\nДля активации нужен механитор.</Cinder_erodedKrepostBuliding.description>
+  <Cinder_erodedKrepostBuliding.comps.CompUsable.useLabel>Активировать боевую единицу</Cinder_erodedKrepostBuliding.comps.CompUsable.useLabel>
+  <Cinder_TrapIED_HighExplosive.label>аморфная ловушка</Cinder_TrapIED_HighExplosive.label>
+  <Cinder_TrapIED_HighExplosive.description>Пара фугасных снарядов, соединённых со взрывателем, срабатывающим при касании или попадании пули. Ловушка скрыта в окружающей местности, поэтому её нельзя размещать вплотную к другим ловушкам. Спокойные животные способны её почувствовать.</Cinder_TrapIED_HighExplosive.description>
+  <Cinder_BlackTentacle.label>щупальце</Cinder_BlackTentacle.label>
+  <Cinder_TentacleTrap.label>щупальцевая ловушка</Cinder_TentacleTrap.label>
   <Cinder_TentacleTrap.description>/</Cinder_TentacleTrap.description>
-  <!-- EN: erosion trap -->
-  <CinderTrapIED_Erosion.label>erosion trap</CinderTrapIED_Erosion.label>
-  <!-- EN: A pair of erosion shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <CinderTrapIED_Erosion.description>A pair of erosion shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</CinderTrapIED_Erosion.description>
+  <CinderTrapIED_Erosion.label>ловушка искажения</CinderTrapIED_Erosion.label>
+  <CinderTrapIED_Erosion.description>Пара снарядов искажения, соединённых со взрывателем, срабатывающим при касании или попадании пули. Ловушка скрыта в окружающей местности, поэтому её нельзя размещать вплотную к другим ловушкам. Спокойные животные способны её почувствовать.</CinderTrapIED_Erosion.description>
 </LanguageData>
