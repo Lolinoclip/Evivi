@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: eternal fear -->
-  <Cinder_EternalFear.label>eternal fear</Cinder_EternalFear.label>
+  <Cinder_EternalFear.label>первородный ужас</Cinder_EternalFear.label>
   <!-- EN: {0} is no longer escaping. -->
-  <Cinder_EternalFear.recoveryMessage>{0} is no longer escaping.</Cinder_EternalFear.recoveryMessage>
+  <Cinder_EternalFear.recoveryMessage>{0} больше не пытается спастись бегством.</Cinder_EternalFear.recoveryMessage>
   <!-- EN: escaping -->
-  <Cinder_EternalFear.beginLetterLabel>escaping</Cinder_EternalFear.beginLetterLabel>
+  <Cinder_EternalFear.beginLetterLabel>Бегство</Cinder_EternalFear.beginLetterLabel>
   <!-- EN: {0} seeing the true essence through the surface of the world, {PAWN_pronoun} spirit has been greatly impacted， {PAWN_pronoun} began to run away in panic. -->
-  <Cinder_EternalFear.beginLetter>{0} seeing the true essence through the surface of the world, {PAWN_pronoun} spirit has been greatly impacted， {PAWN_pronoun} began to run away in panic.</Cinder_EternalFear.beginLetter>
+  <Cinder_EternalFear.beginLetter>{0} видит истинную сущность, скрытую за оболочкой мира. Это зрелище потрясает сознание и заставляет в панике спасаться бегством.</Cinder_EternalFear.beginLetter>
   <!-- EN: Mental state: Eternal Fear -->
-  <Cinder_EternalFear.baseInspectLine>Mental state: Eternal Fear</Cinder_EternalFear.baseInspectLine>
+  <Cinder_EternalFear.baseInspectLine>Психическое состояние: первородный ужас</Cinder_EternalFear.baseInspectLine>
 </LanguageData>

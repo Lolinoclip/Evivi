@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_BreakUnit.label>break through unit</Cinder_BreakUnit.label>
-  <Cinder_CasterUnit.label>Caster unit</Cinder_CasterUnit.label>
-  <Cinder_Colonist.label>colonist</Cinder_Colonist.label>
-  <Cinder_Cult.label>cult follower</Cinder_Cult.label>
-  <Cinder_EliteCult.label>cult guard</Cinder_EliteCult.label>
-  <Cinder_EliteGhoul.label>ghoul unit</Cinder_EliteGhoul.label>
-  <Cinder_Ghoul.label>ghoul unit</Cinder_Ghoul.label>
-  <Cinder_Grenadier.label>grenadier</Cinder_Grenadier.label>
-  <Cinder_HeavySoliderUnit.label>Bombing unit</Cinder_HeavySoliderUnit.label>
-  <Cinder_Leader.label>Lantern Bearer</Cinder_Leader.label>
-  <Cinder_Outlander.label>Frontline troops</Cinder_Outlander.label>
-  <Cinder_OutlanderCivilan.label>Civilan</Cinder_OutlanderCivilan.label>
-  <Cinder_OutlanderElite.label>shock troops</Cinder_OutlanderElite.label>
-  <Cinder_OutlanderSecond.label>Logistics troops</Cinder_OutlanderSecond.label>
-  <Cinder_SoliderUnit.label>solider unit</Cinder_SoliderUnit.label>
-  <Cinder_SupplyOfficer.label>supply officer</Cinder_SupplyOfficer.label>
+  <Cinder_BreakUnit.label>боец прорыва</Cinder_BreakUnit.label>
+  <Cinder_CasterUnit.label>заклинатель</Cinder_CasterUnit.label>
+  <Cinder_Colonist.label>колонист</Cinder_Colonist.label>
+  <Cinder_Cult.label>последователь культа</Cinder_Cult.label>
+  <Cinder_EliteCult.label>страж культа</Cinder_EliteCult.label>
+  <Cinder_EliteGhoul.label>гуль</Cinder_EliteGhoul.label>
+  <Cinder_Ghoul.label>гуль</Cinder_Ghoul.label>
+  <Cinder_Grenadier.label>гренадер</Cinder_Grenadier.label>
+  <Cinder_HeavySoliderUnit.label>бомбардир</Cinder_HeavySoliderUnit.label>
+  <Cinder_Leader.label>Носитель фонаря</Cinder_Leader.label>
+  <Cinder_Outlander.label>фронтовик</Cinder_Outlander.label>
+  <Cinder_OutlanderCivilan.label>гражданский</Cinder_OutlanderCivilan.label>
+  <Cinder_OutlanderElite.label>штурмовик</Cinder_OutlanderElite.label>
+  <Cinder_OutlanderSecond.label>боец тылового обеспечения</Cinder_OutlanderSecond.label>
+  <Cinder_SoliderUnit.label>солдат</Cinder_SoliderUnit.label>
+  <Cinder_SupplyOfficer.label>офицер снабжения</Cinder_SupplyOfficer.label>
 </LanguageData>
