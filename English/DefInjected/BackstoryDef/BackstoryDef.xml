@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cinder_DustColonist.title>colonist</Cinder_DustColonist.title>
+  <Cinder_DustColonist.titleShort>colonist</Cinder_DustColonist.titleShort>
+  <Cinder_DustColonist.description>[PAWN_nameDef] is a colonist, and [PAWN_possessive] story is yet to unfold</Cinder_DustColonist.description>
+  <Cinder_AdultColonist.title>colonist</Cinder_AdultColonist.title>
+  <Cinder_AdultColonist.titleShort>colonist</Cinder_AdultColonist.titleShort>
+  <Cinder_AdultColonist.description>[PAWN_nameDef] is a colonist, and [PAWN_possessive] story is yet to unfold</Cinder_AdultColonist.description>
+  <Cinder_DustFogRefugee.title>dust fog refugee</Cinder_DustFogRefugee.title>
+  <Cinder_DustFogRefugee.titleShort>refugee</Cinder_DustFogRefugee.titleShort>
+  <Cinder_DustFogRefugee.description>[PAWN_nameDef] is a refugee child struggling to survive in the continuous dust fog climate disasters.\nThe adults who were protecting the refugees have all been killed by the ghouls that emerged from the dust fog.\n[PAWN_pronoun] can only hide in an abandoned underground facility, barely surviving by eating wild mushrooms.</Cinder_DustFogRefugee.description>
+  <Cinder_Dying.title>dying child</Cinder_Dying.title>
+  <Cinder_Dying.titleShort>dying child</Cinder_Dying.titleShort>
+  <Cinder_Dying.description>[PAWN_nameDef] is the child of refugees struggling to survive in the cracks of war. [PAWN_pronoun] followed [PAWN_possessive] parents around, hiding until they were blown to pieces while trying to protect [PAWN_objective]. The young [PAWN_nameDef] was left with half of his body burned, collapsing in the desolate ruins.\nEventually, hunger and severe injuries forced [PAWN_objective] to eat [PAWN_possessive] parents' bodies. This left [PAWN_objective] with deep psychological trauma.</Cinder_Dying.description>
+  <Cinder_Victim.title>Victim of warfare</Cinder_Victim.title>
+  <Cinder_Victim.titleShort>victim</Cinder_Victim.titleShort>
+  <Cinder_Victim.description>[PAWN_nameDef] was unfortunately ravaged by biological warfare weapons deployed by an enemy nation on the battlefield.\nEven after being rescued, [PAWN_possessive] body fortunately suffered no disabilities,but the fear of witnessing fellow compatriots being implanted with embryos still prevents [PAWN_nameDef] from facing other animals calmly.</Cinder_Victim.description>
+  <Cinder_Navigator.title>Refugee ship navigator</Cinder_Navigator.title>
+  <Cinder_Navigator.titleShort>navigator</Cinder_Navigator.titleShort>
+  <Cinder_Navigator.description>After the obscured area dissipated, in order to avoid being completely destroyed by the attack of data intelligence,survivors launched a starship carrying refugees to escape from their home planet.\nHowever, before reaching their target planet, they encountered DI's assault battle fleet, and the starship was destroyed, leaving [PAWN_nameDef] as the sole survivor by a stroke of luck.</Cinder_Navigator.description>
+  <Cinder_ReserveGrain.title>reserve grain</Cinder_ReserveGrain.title>
+  <Cinder_ReserveGrain.titleShort>reserve grain</Cinder_ReserveGrain.titleShort>
+  <Cinder_ReserveGrain.description>[PAWN_nameDef] is treated as reserve grain by the adults in the shelter under the Defense Council.\nThey usually feed [PAWN_objective] moss, insects, or moldy rations. During times of famine, the adults would kill [PAWN_objective] to eat.</Cinder_ReserveGrain.description>
+  <Cinder_FallenYouth.title>fallen youth</Cinder_FallenYouth.title>
+  <Cinder_FallenYouth.titleShort>fallen youth</Cinder_FallenYouth.titleShort>
+  <Cinder_FallenYouth.description>[PAWN_nameDef] was once a fallen scion of a bureaucratic family. [PAWN_possessive] parents often boasted in front of [PAWN_objective] about their ancestors' former positions.\n[PAWN_pronoun] frequently flaunted ancient food packaging to [PAWN_possessive] peers, but these stories did not earn [PAWN_objective] respect in the shelter; instead, they made [PAWN_objective] look like a joke.</Cinder_FallenYouth.description>
+  <Cinder_MushroomSerf.title>mushroom serf</Cinder_MushroomSerf.title>
+  <Cinder_MushroomSerf.titleShort>serf</Cinder_MushroomSerf.titleShort>
+  <Cinder_MushroomSerf.description>[PAWN_nameDef] cultivates mushrooms in the dark, sunless underground farm of the shelter, but [PAWN_pronoun] never gets to eat the mushrooms [PAWN_pronoun] grows. These mushrooms are reserved for the soldiers of the Defense Council.\nInstead, [PAWN_nameDef] can only consume putrid nutrient paste. If [PAWN_pronoun] dies, [PAWN_possessive] body will be used as new fertilizer for the mushrooms.</Cinder_MushroomSerf.description>
+  <Cinder_GestationPod.title>gestation pod</Cinder_GestationPod.title>
+  <Cinder_GestationPod.titleShort>gestation pod</Cinder_GestationPod.titleShort>
+  <Cinder_GestationPod.description>[PAWN_nameDef] is used by the Defense Council as a gestation pod for breeding the population.\n[PAWN_pronoun] is forced to reproduce with various outstanding soldiers in the factory. However, when the factory is destroyed during the war, [PAWN_pronoun] escapes from it.</Cinder_GestationPod.description>
+  <Cinder_HibernatingChild.title>hibernating child</Cinder_HibernatingChild.title>
+  <Cinder_HibernatingChild.titleShort>hibernating child</Cinder_HibernatingChild.titleShort>
+  <Cinder_HibernatingChild.description>After the disaster, [PAWN_nameDef] was forced to live in the bunker of the National Defense Council.\nHere, [PAWN_pronoun] learned how to swallow sugar-free cockroach moss nutrient paste and was thrown into the hibernation pod due to illness, frozen as reserve food.</Cinder_HibernatingChild.description>
+  <Cinder_KitchenHelper.title>Kitchen helper</Cinder_KitchenHelper.title>
+  <Cinder_KitchenHelper.titleShort>Kitchen helper</Cinder_KitchenHelper.titleShort>
+  <Cinder_KitchenHelper.description>[PAWN_nameDef] is a kitchen assistant for the nutritional paste in a bunker within the Defense Council's territory. Since [PAWN_pronoun] can remember, [PAWN_pronoun] has hardly left this stinky kitchen.\n[PAWN_possessive] job involves roughly chopping up moss, cockroaches, earthworms, the bodies of fallen soldiers, or any children trying to escape, making it easier to feed them into the nutritional paste supply chute.</Cinder_KitchenHelper.description>
+  <Cinder_ChildLabourer.title>shelters child labourer</Cinder_ChildLabourer.title>
+  <Cinder_ChildLabourer.titleShort>child labourer</Cinder_ChildLabourer.titleShort>
+  <Cinder_ChildLabourer.description>[PAWN_nameDef] was born in a shelter that forbade [PAWN_objective] from knowing who [PAWN_possessive] parents were. [PAWN_possessive] education from birth involved producing components on underground machines, and [PAWN_pronoun] has never seen sunlight.</Cinder_ChildLabourer.description>
+  <Cinder_Cleaner.title>camera cleaner</Cinder_Cleaner.title>
+  <Cinder_Cleaner.titleShort>cleaner</Cinder_Cleaner.titleShort>
+  <Cinder_Cleaner.description>[PAWN_nameDef] was born in a shelter run by the Defense Council. [PAWN_pronoun] has never received an education, only following the orders of the adults in charge of [PAWN_objective].\nDuring the lulls between bombings, [PAWN_pronoun] crawls to the surface to clean the cameras obscured by blood. If [PAWN_pronoun] does well, [PAWN_pronoun] might be rewarded with a plate of raw mushrooms.</Cinder_Cleaner.description>
+  <Cinder_Offspring.title>officials' offspring</Cinder_Offspring.title>
+  <Cinder_Offspring.titleShort>successor</Cinder_Offspring.titleShort>
+  <Cinder_Offspring.description>[PAWN_nameDef] is the child of a member of the Defense Council. From a young age, [PAWN_pronoun] enjoyed privileges that others did not, including, but not limited to, industrial food left over from before the war, and film recordings.\n[PAWN_pronoun] was designated as the heir by [PAWN_possessive] parents, but [PAWN_pronoun] showed no interest in these things; instead, [PAWN_pronoun] was passionate about biological science research.</Cinder_Offspring.description>
+  <Cinder_Traveler.title>delivery traveler</Cinder_Traveler.title>
+  <Cinder_Traveler.titleShort>traveler</Cinder_Traveler.titleShort>
+  <Cinder_Traveler.description>[PAWN_nameDef] always had confidence in [PAWN_possessive] legs, which is why [PAWN_nameDef] was selected by the Defense Council as a delivery person to conserve precious vehicle hours.\n[PAWN_nameDef] managed to transport crucial spare parts across the terrifying battlefield. This continued for a long time until [PAWN_possessive] pride was shattered by the massive figure emerging from the smoke and the incoming missiles.</Cinder_Traveler.description>
+  <Cinder_CleaningWorker.title>Pipeline cleaner</Cinder_CleaningWorker.title>
+  <Cinder_CleaningWorker.titleShort>cleaner</Cinder_CleaningWorker.titleShort>
+  <Cinder_CleaningWorker.description>[PAWN_nameDef] was born in an old bunker belonging to the Defense Council. There, children like [PAWN_nameDef] were sent into narrow pipelines for simple clearing tasks. Frequently, [PAWN_pronoun] would drag out friends who had been lively just days before, or traitors who had been baked by the heated pipes.\nThese days continued until [PAWN_nameDef] crawled along the pipeline to reach a place [PAWN_pronoun] had never seen before—“the outside.”</Cinder_CleaningWorker.description>
+  <Cinder_GhoulHunter.title>ghoul hunter</Cinder_GhoulHunter.title>
+  <Cinder_GhoulHunter.titleShort>ghoul hunter</Cinder_GhoulHunter.titleShort>
+  <Cinder_GhoulHunter.description>Controlled by the Economic Security Department for Special Periods through data intelligence, ghouls are often deployed to sweep through underground facilities for survivors. They are the most dehumanized products.\nThe Defense Council has trained a group of hunters specifically targeting these ghouls, and [PAWN_nameDef] is one of them. [PAWN_pronoun] will continue to fight against the ghouls until [PAWN_pronoun] becomes one of them.</Cinder_GhoulHunter.description>
+  <Cinder_FleeingEngineer.title>fleeing engineer</Cinder_FleeingEngineer.title>
+  <Cinder_FleeingEngineer.titleShort>engineer</Cinder_FleeingEngineer.titleShort>
+  <Cinder_FleeingEngineer.description>In [PAWN_nameDef] was a military mechanical engineer before the bunker was captured.\nAfter that, [PAWN_nameDef] fell into an endless hiding until [PAWN_pronoun] and [PAWN_possessive] companion robot were captured by the ghoul unit.</Cinder_FleeingEngineer.description>
+  <Cinder_Porter.title>factory porter</Cinder_Porter.title>
+  <Cinder_Porter.titleShort>porter</Cinder_Porter.titleShort>
+  <Cinder_Porter.description>[PAWN_nameDef] has long forgotten when [PAWN_pronoun] entered the factory for moving ammunition on the assembly line of the National Defense Council's underground factory.\n[PAWN_possessive] tentacles have been modified into sturdy transport frames, day after day, endlessly moving ammunition for those war machines.</Cinder_Porter.description>
+  <Cinder_Follower.title>underground follower</Cinder_Follower.title>
+  <Cinder_Follower.titleShort>follower</Cinder_Follower.titleShort>
+  <Cinder_Follower.description>[PAWN_nameDef] lost all [PAWN_possessive] comrades while serving as a soldier in the Defense Council during the war. [PAWN_pronoun] suffered severe psychological trauma that left [PAWN_objective] unable to lift a gun.\nJudged as worthless, [PAWN_pronoun] was sent to a labor prison, where [PAWN_pronoun] discovered illegal literature promoting underground propaganda. Following this, [PAWN_pronoun] devised a large-scale prison break uprising.</Cinder_Follower.description>
+  <Cinder_HolySon.title>holy son of the cult</Cinder_HolySon.title>
+  <Cinder_HolySon.titleShort>holy son</Cinder_HolySon.titleShort>
+  <Cinder_HolySon.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_possessive] father was a high-ranking official in the shelter, while [PAWN_possessive] mother, driven mad by the brutal war, had joined the cult.\n[PAWN_pronoun] was revered by the cult as the “Holy Son,” participating in wicked blood rituals in an attempt to pray for the end of the war. The cult's cruel actions drove [PAWN_nameDef] to madness, yet after everyone was sacrificed in the blood ritual, nothing happened.</Cinder_HolySon.description>
+  <Cinder_CultChild.title>escaping cult child</Cinder_CultChild.title>
+  <Cinder_CultChild.titleShort>cult child</Cinder_CultChild.titleShort>
+  <Cinder_CultChild.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] did not know who [PAWN_possessive] parents were and grew up under the influence of the cult.\nHowever, when the cult began incessant blood rituals, [PAWN_possessive] survival instinct drove [PAWN_nameDef] to fearfully escape the shelter.</Cinder_CultChild.description>
+  <Cinder_Fanatic.title>cult fanatic</Cinder_Fanatic.title>
+  <Cinder_Fanatic.titleShort>fanatic</Cinder_Fanatic.titleShort>
+  <Cinder_Fanatic.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] was extremely loyal and fervent towards the cult, believing that the sacrifices made to the cult had restored [PAWN_possessive] leg,\nwhich had been damaged by a grenade. However, [PAWN_pronoun] did not realize that this was due to [PAWN_possessive] own regenerative abilities.</Cinder_Fanatic.description>
+  <Cinder_ChosenOne.title>cult chosen one</Cinder_ChosenOne.title>
+  <Cinder_ChosenOne.titleShort>chosen one</Cinder_ChosenOne.titleShort>
+  <Cinder_ChosenOne.description>[PAWN_nameDef] was born in a shelter controlled by a cult that operated under the Defense Council. [PAWN_pronoun] was chosen by the cult to drink strange serum potions to attain enlightenment.\n[PAWN_pronoun] gained some bizarre abilities and took pride in them, until [PAWN_pronoun] witnessed the process of how these potions were made.</Cinder_ChosenOne.description>
+  <Cinder_SadBeliever.title>sad believer</Cinder_SadBeliever.title>
+  <Cinder_SadBeliever.titleShort>sad believer</Cinder_SadBeliever.titleShort>
+  <Cinder_SadBeliever.description>[PAWN_nameDef] struggles to raise [PAWN_possessive] children alone. Although searching for supplies in abandoned buildings leaves [PAWN_possessive] limbs battered, [PAWN_pronoun] manages to maintain a simple life. This simple existence is shattered by an unfamiliar "flu."\n[PAWN_possessive] children develop high fevers, and despite spending [PAWN_possessive] meager savings to seek medical help, [PAWN_pronoun] is unable to prevent them from dying one by one.\nWhen [PAWN_pronoun] watches the last of [PAWN_possessive] children die in [PAWN_possessive] arms, [PAWN_pronoun] goes mad. Soon, [PAWN_pronoun] is approached by cultists in the bunker, who convince [PAWN_objective] that only blood sacrifice can change this sorrowful world.</Cinder_SadBeliever.description>
+  <Cinder_EscapeBeliever.title>escape believer</Cinder_EscapeBeliever.title>
+  <Cinder_EscapeBeliever.titleShort>escape believer</Cinder_EscapeBeliever.titleShort>
+  <Cinder_EscapeBeliever.description>[PAWN_nameDef] was supposed to be conscripted as a soldier to fight, but when [PAWN_pronoun] got lost and stumbled into the kitchen of the shelter, [PAWN_pronoun] saw the dismembered bodies of dead soldiers.\nThis sight filled [PAWN_objective] with tremendous fear of going to war. Consequently, [PAWN_pronoun] forged [PAWN_possessive] age and hid within the cult, ensuring that no one who knew [PAWN_objective] could find [PAWN_objective].</Cinder_EscapeBeliever.description>
+  <Cinder_Priest.title>cult priest</Cinder_Priest.title>
+  <Cinder_Priest.titleShort>priest</Cinder_Priest.titleShort>
+  <Cinder_Priest.description>[PAWN_nameDef] was once a junior commander in the Defense Council, engaged in a prolonged battle against the inhuman legions controlled by DI. After serving as a scapegoat for a failed operation, [PAWN_pronoun] lost faith in everything and secretly joined a newly formed branch of the local cult.\nFollowing the blood sacrifice of the previous priest, [PAWN_pronoun] was elevated to the position of the new priest.</Cinder_Priest.description>
+  <Cinder_CrazyBeliever.title>crazy believer</Cinder_CrazyBeliever.title>
+  <Cinder_CrazyBeliever.titleShort>crazy believer</Cinder_CrazyBeliever.titleShort>
+  <Cinder_CrazyBeliever.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] was once used as a gestation pod, but during a raid on the shelter by the Economic Security Department for Special Periods, [PAWN_pronoun] and [PAWN_possessive] infant were trapped in the wreckage.\nBy the time others found them, [PAWN_possessive] infant had already died from illness. In [PAWN_possessive] madness, [PAWN_pronoun] sacrificed [PAWN_possessive] own arm to the cult in exchange for [PAWN_possessive] child's life. In the end, all [PAWN_pronoun] received was a rag doll.</Cinder_CrazyBeliever.description>
+  <Cinder_ArchiveGuard.title>archive guard</Cinder_ArchiveGuard.title>
+  <Cinder_ArchiveGuard.titleShort>guard</Cinder_ArchiveGuard.titleShort>
+  <Cinder_ArchiveGuard.description>[PAWN_nameDef] is responsible for guarding documents in a library within a bunker of the Defense Council. This job should be performed by adults, but all the adults in the shelter have been sent to war as soldiers. In principle, [PAWN_pronoun] shouldn't look at the contents, but [PAWN_possessive] curiosity led [PAWN_objective] to make a mistake.\n[PAWN_pronoun] came across criticisms of totalitarian states from before the disaster, and even the most terrifying regimes in history seemed to [PAWN_objective] like an ideal state. This prompted [PAWN_objective] to start contemplating the definition of what is right.</Cinder_ArchiveGuard.description>
+  <Cinder_UndergroundAgitator.title>Underground agitator</Cinder_UndergroundAgitator.title>
+  <Cinder_UndergroundAgitator.titleShort>activist</Cinder_UndergroundAgitator.titleShort>
+  <Cinder_UndergroundAgitator.description>Having undergone true reflection and survived the brutal war, [PAWN_nameDef] no longer believes in the Defense Council's grotesque rule that spares no effort for meaningless war. [PAWN_pronoun] begins secretly copying articles underground and spreading these illegal writings within the shelter.\n[PAWN_pronoun] is convinced that [PAWN_pronoun] can do better than the faceless bureaucrats, and more and more people are beginning to help [PAWN_objective].</Cinder_UndergroundAgitator.description>
+</LanguageData>
