@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CinderMote_HellfireMissile_Aim.label>Mote</CinderMote_HellfireMissile_Aim.label>
-  <CinderMote_HellfireMissile_Charge.label>Mote</CinderMote_HellfireMissile_Charge.label>
-  <CinderMote_HellfireMissile_Target.label>Mote</CinderMote_HellfireMissile_Target.label>
+  <CinderMote_HellfireMissile_Aim.label>частица эффекта</CinderMote_HellfireMissile_Aim.label>
+  <CinderMote_HellfireMissile_Charge.label>частица эффекта</CinderMote_HellfireMissile_Charge.label>
+  <CinderMote_HellfireMissile_Target.label>частица эффекта</CinderMote_HellfireMissile_Target.label>
 </LanguageData>

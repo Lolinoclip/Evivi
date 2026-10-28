@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: eroded walker debris -->
-  <Cinder_ChunkSlag.label>eroded walker debris</Cinder_ChunkSlag.label>
+  <Cinder_ChunkSlag.label>обломки искажённого шагохода</Cinder_ChunkSlag.label>
   <!-- EN: The remains of a destoryed eroded walker. While useless in its current form, it can be smelted to recover resources. -->
-  <Cinder_ChunkSlag.description>The remains of a destoryed eroded walker. While useless in its current form, it can be smelted to recover resources.</Cinder_ChunkSlag.description>
+  <Cinder_ChunkSlag.description>Останки уничтоженного искажённого шагохода. В нынешнем виде бесполезны, но их можно переплавить для извлечения ресурсов.</Cinder_ChunkSlag.description>
 </LanguageData>
