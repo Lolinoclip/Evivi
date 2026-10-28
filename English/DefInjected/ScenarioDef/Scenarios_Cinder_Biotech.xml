@@ -2,6 +2,7 @@
 <LanguageData>
   <!-- Biotech: BiotechPatch.xml -->
   <Cinder_Scenario.scenario.parts.ConfigurePawnsXenotypes.customSummary>Start with three cinders.</Cinder_Scenario.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <Cinder_Scenario.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>non-baby Cinder</Cinder_Scenario.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
   <Cinder_ScenarioB.scenario.parts.ConfigurePawnsXenotypes.customSummary>Start with one cinders.</Cinder_ScenarioB.scenario.parts.ConfigurePawnsXenotypes.customSummary>
-  <!-- Also in BiotechPatch (xenotypeCounts description, both scenarios): non-baby Cinder -->
+  <Cinder_ScenarioB.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>non-baby Cinder</Cinder_ScenarioB.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
 </LanguageData>
