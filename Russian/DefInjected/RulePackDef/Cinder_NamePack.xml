@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cinder_Cradle.rulePack.rulesStrings>
-    <li>r_name->[BrigadeType] [complex]</li>
-    <li>complex->Cradle</li>
-    <li>complex->Garden</li>
-    <li>BrigadeType->Withering</li>
-    <li>BrigadeType->Ember</li>
-    <li>BrigadeType->Ashe</li>
-    <li>BrigadeType->Tranquil</li>
+    <li>r_name->[complex] [BrigadeType]</li>
+    <li>complex->Колыбель</li>
+    <li>complex->Сад</li>
+    <li>BrigadeType->увядания</li>
+    <li>BrigadeType->тлеющих углей</li>
+    <li>BrigadeType->пепла</li>
+    <li>BrigadeType->покоя</li>
   </Cinder_Cradle.rulePack.rulesStrings>
   <Cinder_LanternFleet.rulePack.rulesStrings>
-    <li>r_name-> [BrigadeNum0][BrigadeNum1][BrigadeNum2] [BrigadeType] [complex]</li>
-    <li>complex->Division</li>
-    <li>complex->Convoy</li>
-    <li>complex->Fleet</li>
-    <li>BrigadeType->Assault</li>
-    <li>BrigadeType->Explore</li>
-    <li>BrigadeType->Transport</li>
-    <li>BrigadeType->Logistic</li>
+    <li>r_name->[complex] № [BrigadeNum0][BrigadeNum1][BrigadeNum2]</li>
+    <li>complex->Штурмовая дивизия</li>
+    <li>complex->Исследовательская дивизия</li>
+    <li>complex->Транспортная дивизия</li>
+    <li>complex->Дивизия снабжения</li>
+    <li>complex->Штурмовой конвой</li>
+    <li>complex->Исследовательский конвой</li>
+    <li>complex->Транспортный конвой</li>
+    <li>complex->Конвой снабжения</li>
+    <li>complex->Штурмовой флот</li>
+    <li>complex->Исследовательский флот</li>
+    <li>complex->Транспортный флот</li>
+    <li>complex->Флот снабжения</li>
     <li>BrigadeNum0->1</li>
     <li>BrigadeNum0->2</li>
     <li>BrigadeNum0->3</li>
@@ -37,36 +42,36 @@
     <li>BrigadeNum1->7</li>
     <li>BrigadeNum1->8</li>
     <li>BrigadeNum1->9</li>
-    <li>BrigadeNum2->0th</li>
-    <li>BrigadeNum2->1st</li>
-    <li>BrigadeNum2->2nd</li>
-    <li>BrigadeNum2->3rd</li>
-    <li>BrigadeNum2->4th</li>
-    <li>BrigadeNum2->5th</li>
-    <li>BrigadeNum2->6th</li>
-    <li>BrigadeNum2->7th</li>
-    <li>BrigadeNum2->8th</li>
-    <li>BrigadeNum2->9th</li>
+    <li>BrigadeNum2->0</li>
+    <li>BrigadeNum2->1</li>
+    <li>BrigadeNum2->2</li>
+    <li>BrigadeNum2->3</li>
+    <li>BrigadeNum2->4</li>
+    <li>BrigadeNum2->5</li>
+    <li>BrigadeNum2->6</li>
+    <li>BrigadeNum2->7</li>
+    <li>BrigadeNum2->8</li>
+    <li>BrigadeNum2->9</li>
   </Cinder_LanternFleet.rulePack.rulesStrings>
   <Cinder_LanternFleetBase.rulePack.rulesStrings>
-    <li>r_name->[Number][Number] [complexAdj] [Type]</li>
-    <li>Type->Assault Ship</li>
-    <li>Type->Recon Ship</li>
-    <li>Type->Bomber Ship</li>
-    <li>Type->Supply Ship</li>
-    <li>Type->Covert Ops</li>
-    <li>Type->Heavy Interdictor</li>
-    <li>Type->Carrier</li>
-    <li>Type->Dreadnought</li>
-    <li>Type->Ironclad</li>
-    <li>Type->Industrial flagship</li>
-    <li>complexAdj->secret</li>
-    <li>complexAdj->ancient</li>
-    <li>complexAdj->old</li>
-    <li>complexAdj->hidden</li>
-    <li>complexAdj->dusty</li>
-    <li>complexAdj->dangerous</li>
-    <li>complexAdj->hidden</li>
+    <li>r_name->[complexAdj] [Type] № [Number][Number]</li>
+    <li>Type->штурмовой корабль</li>
+    <li>Type->разведывательный корабль</li>
+    <li>Type->корабль-бомбардировщик</li>
+    <li>Type->корабль снабжения</li>
+    <li>Type->корабль тайных операций</li>
+    <li>Type->тяжёлый перехватчик</li>
+    <li>Type->авианосец</li>
+    <li>Type->дредноут</li>
+    <li>Type->броненосец</li>
+    <li>Type->промышленный флагман</li>
+    <li>complexAdj->секретный</li>
+    <li>complexAdj->древний</li>
+    <li>complexAdj->старый</li>
+    <li>complexAdj->скрытый</li>
+    <li>complexAdj->пыльный</li>
+    <li>complexAdj->опасный</li>
+    <li>complexAdj->скрытый</li>
     <li>Number->0</li>
     <li>Number->1</li>
     <li>Number->2</li>
@@ -79,27 +84,35 @@
   </Cinder_LanternFleetBase.rulePack.rulesStrings>
   <Cinder_NamerIdeo.rulePack.rulesStrings>
     <li>r_ideoName->[CinderIdeoFirst]</li>
-    <li>CinderIdeoFirst->lights</li>
-    <li>CinderIdeoFirst->Redemption</li>
-    <li>CinderIdeoFirst->Afterglow</li>
-    <li>CinderIdeoFirst->Ember</li>
-    <li>CinderIdeoFirst->Starlight</li>
-    <li>CinderIdeoFirst->Spark</li>
-    <li>CinderIdeoFirst->Charcoal fire</li>
-    <li>CinderIdeoFirst->Glow</li>
-    <li>CinderIdeoFirst->Shimmer</li>
-    <li>r_ideoAdjective->[CinderIdeoFirst]ic</li>
-    <li>hyphenPrefix->Depleted</li>
-    <li>r_memberName->Follower</li>
-    <li>r_memberName->Believer</li>
+    <li>CinderIdeoFirst->Огни</li>
+    <li>CinderIdeoFirst->Искупление</li>
+    <li>CinderIdeoFirst->Послесвечение</li>
+    <li>CinderIdeoFirst->Тлеющий уголь</li>
+    <li>CinderIdeoFirst->Звёздный свет</li>
+    <li>CinderIdeoFirst->Искра</li>
+    <li>CinderIdeoFirst->Угольный огонь</li>
+    <li>CinderIdeoFirst->Сияние</li>
+    <li>CinderIdeoFirst->Мерцание</li>
+    <li>r_ideoAdjective->огненный</li>
+    <li>r_ideoAdjective->искупительный</li>
+    <li>r_ideoAdjective->светозарный</li>
+    <li>r_ideoAdjective->тлеющий</li>
+    <li>r_ideoAdjective->звёздный</li>
+    <li>r_ideoAdjective->искристый</li>
+    <li>r_ideoAdjective->угольный</li>
+    <li>r_ideoAdjective->сияющий</li>
+    <li>r_ideoAdjective->мерцающий</li>
+    <li>hyphenPrefix->истощённый</li>
+    <li>r_memberName->последователь</li>
+    <li>r_memberName->верующий</li>
   </Cinder_NamerIdeo.rulePack.rulesStrings>
   <Cinder_NamerLeader.rulePack.rulesStrings>
     <li>r_leaderTitle->[CinderLeader]</li>
-    <li>CinderLeader->Instigator</li>
-    <li>CinderLeader->Lantern Bearer</li>
-    <li>CinderLeader->Navigator</li>
-    <li>CinderLeader->Fire Keeper</li>
-    <li>CinderLeader->Torchbearer</li>
-    <li>CinderLeader->Redeemer</li>
+    <li>CinderLeader->Подстрекатель</li>
+    <li>CinderLeader->Носитель фонаря</li>
+    <li>CinderLeader->Навигатор</li>
+    <li>CinderLeader->Хранитель огня</li>
+    <li>CinderLeader->Факелоносец</li>
+    <li>CinderLeader->Искупитель</li>
   </Cinder_NamerLeader.rulePack.rulesStrings>
 </LanguageData>

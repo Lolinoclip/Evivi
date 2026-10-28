@@ -1,121 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN:
-    <li>r_weapon_name(p=2)->[weapon_adjective] [weapon_noun]</li>
-    <li>r_weapon_name(p=0.5)->The [weapon_type] of [badass_concept]</li>
-    <li>r_weapon_name(p=0.5)->The [weapon_adjective] [weapon_type]</li>
-    <li>r_weapon_name(p=0.5)->[badass_concept]'s [weapon_type]</li>
-    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_noun]</li>
-    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_adjective] [weapon_noun]</li>
-    <li>r_weapon_name(p=0.3)->The [badass_concept] of [ANYPAWN_nameIndef]</li>
-    <li>weapon_noun(p=2)->[weapon_type]</li>
-    <li>weapon_noun->[badass_noun]</li>
-    <li>weapon_noun->[badass_concept]</li>
-    <li>weapon_adjective(p=2)->[trait_adjective]</li>
-    <li>weapon_adjective->[badass_adjective]</li>
-    <li>badass_adjective->grim</li>
-    <li>badass_adjective->eternal</li>
-    <li>badass_adjective->night</li>
-    <li>badass_adjective->grave</li>
-    <li>badass_adjective->exceptional</li>
-    <li>badass_adjective->deadly</li>
-    <li>badass_adjective->infamous</li>
-    <li>badass_adjective->custom</li>
-    <li>badass_adjective->deadly</li>
-    <li>badass_adjective->thunderous</li>
-    <li>badass_adjective->cursed</li>
-    <li>badass_adjective->great</li>
-    <li>badass_noun->reaper</li>
-    <li>badass_noun->end</li>
-    <li>badass_noun->howl</li>
-    <li>badass_noun->tempest</li>
-    <li>badass_noun->phantom</li>
-    <li>badass_noun->widow</li>
-    <li>badass_noun->titan</li>
-    <li>badass_noun->juggernaut</li>
-    <li>badass_noun->serpent</li>
-    <li>badass_noun->anvil</li>
-    <li>badass_noun->killer</li>
-    <li>badass_noun->lover</li>
-    <li>badass_noun->beast</li>
-    <li>badass_noun->fang</li>
-    <li>badass_noun->arm</li>
-    <li>badass_noun->horn</li>
-    <li>badass_concept->justice</li>
-    <li>badass_concept->revenge</li>
-    <li>badass_concept->vengeance</li>
-    <li>badass_concept->pain</li>
-    <li>badass_concept->agony</li>
-    <li>badass_concept->torment</li>
-    <li>badass_concept->legend</li>
-    <li>badass_concept->delight</li>
-    <li>badass_concept->regret</li>
-    <li>badass_concept->pride</li>
-    <li>badass_concept->conceit</li>
-    <li>badass_concept->honor</li>
-    <li>badass_concept->fury</li>
-    <li>badass_concept->reckoning</li>
-    <li>badass_concept->serenity</li>
-    <li>badass_concept->love</li>
-    <li>badass_concept->laughter</li>
-  -->
   <Cinder_NamerUniqueWeapon.rulePack.rulesStrings>
-    <li>r_weapon_name(p=2)->[weapon_adjective] [weapon_noun]</li>
-    <li>r_weapon_name(p=0.5)->The [weapon_type] of [badass_concept]</li>
-    <li>r_weapon_name(p=0.5)->The [weapon_adjective] [weapon_type]</li>
-    <li>r_weapon_name(p=0.5)->[badass_concept]'s [weapon_type]</li>
-    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_noun]</li>
-    <li>r_weapon_name(p=0.3)->[ANYPAWN_nameIndef]'s [weapon_adjective] [weapon_noun]</li>
-    <li>r_weapon_name(p=0.3)->The [badass_concept] of [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=2)->«[weapon_noun]» — [weapon_type]</li>
+    <li>r_weapon_name(p=0.5)->«[badass_concept]» — [weapon_type]</li>
+    <li>r_weapon_name(p=0.5)->«[weapon_adjective]» — [weapon_type]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_type] под именем «[badass_concept]»</li>
+    <li>r_weapon_name(p=0.3)->«[weapon_noun]» — оружие владельца [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->«[weapon_adjective]» — оружие владельца [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->«[badass_concept]» — оружие владельца [ANYPAWN_nameIndef]</li>
     <li>weapon_noun(p=2)->[weapon_type]</li>
     <li>weapon_noun->[badass_noun]</li>
     <li>weapon_noun->[badass_concept]</li>
     <li>weapon_adjective(p=2)->[trait_adjective]</li>
     <li>weapon_adjective->[badass_adjective]</li>
-    <li>badass_adjective->grim</li>
-    <li>badass_adjective->eternal</li>
-    <li>badass_adjective->night</li>
-    <li>badass_adjective->grave</li>
-    <li>badass_adjective->exceptional</li>
-    <li>badass_adjective->deadly</li>
-    <li>badass_adjective->infamous</li>
-    <li>badass_adjective->custom</li>
-    <li>badass_adjective->deadly</li>
-    <li>badass_adjective->thunderous</li>
-    <li>badass_adjective->cursed</li>
-    <li>badass_adjective->great</li>
-    <li>badass_noun->reaper</li>
-    <li>badass_noun->end</li>
-    <li>badass_noun->howl</li>
-    <li>badass_noun->tempest</li>
-    <li>badass_noun->phantom</li>
-    <li>badass_noun->widow</li>
-    <li>badass_noun->titan</li>
-    <li>badass_noun->juggernaut</li>
-    <li>badass_noun->serpent</li>
-    <li>badass_noun->anvil</li>
-    <li>badass_noun->killer</li>
-    <li>badass_noun->lover</li>
-    <li>badass_noun->beast</li>
-    <li>badass_noun->fang</li>
-    <li>badass_noun->arm</li>
-    <li>badass_noun->horn</li>
-    <li>badass_concept->justice</li>
-    <li>badass_concept->revenge</li>
-    <li>badass_concept->vengeance</li>
-    <li>badass_concept->pain</li>
-    <li>badass_concept->agony</li>
-    <li>badass_concept->torment</li>
-    <li>badass_concept->legend</li>
-    <li>badass_concept->delight</li>
-    <li>badass_concept->regret</li>
-    <li>badass_concept->pride</li>
-    <li>badass_concept->conceit</li>
-    <li>badass_concept->honor</li>
-    <li>badass_concept->fury</li>
-    <li>badass_concept->reckoning</li>
-    <li>badass_concept->serenity</li>
-    <li>badass_concept->love</li>
-    <li>badass_concept->laughter</li>
+    <li>badass_adjective->мрачный</li>
+    <li>badass_adjective->вечный</li>
+    <li>badass_adjective->ночной</li>
+    <li>badass_adjective->могильный</li>
+    <li>badass_adjective->исключительный</li>
+    <li>badass_adjective->смертоносный</li>
+    <li>badass_adjective->печально известный</li>
+    <li>badass_adjective->заказной</li>
+    <li>badass_adjective->смертоносный</li>
+    <li>badass_adjective->громовой</li>
+    <li>badass_adjective->проклятый</li>
+    <li>badass_adjective->великий</li>
+    <li>badass_noun->жнец</li>
+    <li>badass_noun->конец</li>
+    <li>badass_noun->вой</li>
+    <li>badass_noun->буря</li>
+    <li>badass_noun->призрак</li>
+    <li>badass_noun->вдова</li>
+    <li>badass_noun->титан</li>
+    <li>badass_noun->джаггернаут</li>
+    <li>badass_noun->змей</li>
+    <li>badass_noun->наковальня</li>
+    <li>badass_noun->убийца</li>
+    <li>badass_noun->любовник</li>
+    <li>badass_noun->зверь</li>
+    <li>badass_noun->клык</li>
+    <li>badass_noun->рука</li>
+    <li>badass_noun->рог</li>
+    <li>badass_concept->справедливость</li>
+    <li>badass_concept->месть</li>
+    <li>badass_concept->возмездие</li>
+    <li>badass_concept->боль</li>
+    <li>badass_concept->агония</li>
+    <li>badass_concept->мучение</li>
+    <li>badass_concept->легенда</li>
+    <li>badass_concept->восторг</li>
+    <li>badass_concept->сожаление</li>
+    <li>badass_concept->гордость</li>
+    <li>badass_concept->самомнение</li>
+    <li>badass_concept->честь</li>
+    <li>badass_concept->ярость</li>
+    <li>badass_concept->расплата</li>
+    <li>badass_concept->безмятежность</li>
+    <li>badass_concept->любовь</li>
+    <li>badass_concept->смех</li>
   </Cinder_NamerUniqueWeapon.rulePack.rulesStrings>
 </LanguageData>
