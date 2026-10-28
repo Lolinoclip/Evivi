@@ -46,4 +46,23 @@
   <Cinder_Erosion_Bullet.description>This person's body has been eroded.</Cinder_Erosion_Bullet.description>
   <Cinder_ExtraArmourPlate.label>armour Plates</Cinder_ExtraArmourPlate.label>
   <Cinder_ExtraArmourPlate.description>Installed additional amorphous polymer armor plates to protect users from injury.\n\nAlthough it is an excellent protective armor, it must be completely replaced once damaged.</Cinder_ExtraArmourPlate.description>
+  <Cinder_ExtraArmourPlateII.label>heavy armour Plates</Cinder_ExtraArmourPlateII.label>
+  <Cinder_ExtraArmourPlateII.description>Installed additional amorphous polymer armor plates to protect users from injury.\n\nAlthough it is an excellent protective armor, it must be completely replaced once damaged.</Cinder_ExtraArmourPlateII.description>
+  <Cinder_ERA.label>ERA</Cinder_ERA.label>
+  <Cinder_ERA.description>Heavy reactive armor, capable of effectively resisting explosive damage.</Cinder_ERA.description>
+  <Cinder_MusicStopper.label>stop music when downed</Cinder_MusicStopper.label>
+  <Cinder_MusicStopper.description>Hidden hediff that stops current boss music when downed or dead. Should be invisible and remove on activation.</Cinder_MusicStopper.description>
+  <Cinder_ArtificiaLife.label>artificial life</Cinder_ArtificiaLife.label>
+  <Cinder_ArtificiaLife.description>Unable to conceive.</Cinder_ArtificiaLife.description>
+  <Cinder_IntrinsicPropertiesOfPolymers.label>Intrinsic properties of polymers</Cinder_IntrinsicPropertiesOfPolymers.label>
+  <Cinder_IntrinsicPropertiesOfPolymers.labelNoun>Intrinsic properties of polymers</Cinder_IntrinsicPropertiesOfPolymers.labelNoun>
+  <Cinder_IntrinsicPropertiesOfPolymers.description>The inherent properties of amorphous polymers are that they cannot be directly cut in any way, and can be processed by projectiles or slow movements with kinetic energy at a certain threshold.</Cinder_IntrinsicPropertiesOfPolymers.description>
+  <Cinder_SrangeSolution.label>strange solution</Cinder_SrangeSolution.label>
+  <Cinder_SrangeSolution.description>A harmless medication that often distracts people and makes them feel uncontrollable libido.</Cinder_SrangeSolution.description>
+  <Cinder_SrangeSolution.descriptionCached>A harmless medication that often distracts people and makes them feel uncontrollable libido.</Cinder_SrangeSolution.descriptionCached>
+  <Cinder_NeuralCrystallizationDissociation.label>neural crystallization dissociation</Cinder_NeuralCrystallizationDissociation.label>
+  <Cinder_NeuralCrystallizationDissociation.description>The crystalline polymer that reshapes the body gradually begins to undergo phase transition, but there are still some crystals remaining throughout the body. The nerves reshaped by amorphous polymers are not yet fully effective, so this person is currently unable to control their body and emotions.</Cinder_NeuralCrystallizationDissociation.description>
+  <Cinder_EyeRegenInhibited.label>eye regen inhibited</Cinder_EyeRegenInhibited.label>
+  <Cinder_EyeRegenInhibited.labelNoun>eye regen inhibited</Cinder_EyeRegenInhibited.labelNoun>
+  <Cinder_EyeRegenInhibited.description>Blind Ritual took away this person's eyes. The attempt to resonate with psylink blocked eye regeneration.</Cinder_EyeRegenInhibited.description>
 </LanguageData>
