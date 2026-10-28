@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Tombstone -->
+  <Cinder_Mech_Krepost.label>Tombstone</Cinder_Mech_Krepost.label>
+  <!-- EN: Twisted, ferocious, and terrifying war weapons, as well as abnormal objects residing in the remains of the weapons. That was once a partner on the same side, but now there is only one aircraft that can cause significant casualties to the armed exploration team. They are eroded fortresses, stumbling and marching slowly, with deadly tombstones.. -->
+  <Cinder_Mech_Krepost.description>Twisted, ferocious, and terrifying war weapons, as well as abnormal objects residing in the remains of the weapons. That was once a partner on the same side, but now there is only one aircraft that can cause significant casualties to the armed exploration team. They are eroded fortresses, stumbling and marching slowly, with deadly tombstones..</Cinder_Mech_Krepost.description>
+  <!-- EN: Front tentacle -->
+  <Cinder_Mech_Krepost.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_Krepost.tools.Front_tentacle.label>
+  <!-- EN: Left Leg -->
+  <Cinder_Mech_Krepost.tools.Left_Leg.label>Left Leg</Cinder_Mech_Krepost.tools.Left_Leg.label>
+  <!-- EN: Right Leg -->
+  <Cinder_Mech_Krepost.tools.Right_Leg.label>Right Leg</Cinder_Mech_Krepost.tools.Right_Leg.label>
+  <!-- EN: Imitation Tombstone -->
+  <Cinder_Mech_Tombstone.label>Imitation Tombstone</Cinder_Mech_Tombstone.label>
+  <!-- EN: Twisted, ferocious, and terrifying war weapons, as well as abnormal objects residing in the remains of the weapons. That was once a partner on the same side, but now there is only one aircraft that can cause significant casualties to the armed exploration team. They are eroded fortresses, stumbling and marching slowly, with deadly tombstones.This version of the tombstone is an imperfect mass-produced replica, and its actual performance is difficult to satisfy. -->
+  <Cinder_Mech_Tombstone.description>Twisted, ferocious, and terrifying war weapons, as well as abnormal objects residing in the remains of the weapons. That was once a partner on the same side, but now there is only one aircraft that can cause significant casualties to the armed exploration team. They are eroded fortresses, stumbling and marching slowly, with deadly tombstones.This version of the tombstone is an imperfect mass-produced replica, and its actual performance is difficult to satisfy.</Cinder_Mech_Tombstone.description>
+  <!-- EN: Front tentacle -->
+  <Cinder_Mech_Tombstone.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_Tombstone.tools.Front_tentacle.label>
+  <!-- EN: Left Leg -->
+  <Cinder_Mech_Tombstone.tools.Left_Leg.label>Left Leg</Cinder_Mech_Tombstone.tools.Left_Leg.label>
+  <!-- EN: Right Leg -->
+  <Cinder_Mech_Tombstone.tools.Right_Leg.label>Right Leg</Cinder_Mech_Tombstone.tools.Right_Leg.label>
+</LanguageData>

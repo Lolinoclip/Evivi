@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Tombstone -->
+  <Cinder_Mech_Krepost.label>Tombstone</Cinder_Mech_Krepost.label>
+  <!-- EN: Imitation Tombstone -->
+  <Cinder_Mech_Tombstone.label>Imitation Tombstone</Cinder_Mech_Tombstone.label>
+  <!-- EN: Mass production Tombstone -->
+  <Cinder_Mech_MPTombstone.label>Mass production Tombstone</Cinder_Mech_MPTombstone.label>
+</LanguageData>
