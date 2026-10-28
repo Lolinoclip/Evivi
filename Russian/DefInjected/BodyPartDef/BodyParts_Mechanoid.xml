@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: armored chassis -->
-  <Cinder_MechanicalThorax.label>armored chassis</Cinder_MechanicalThorax.label>
-  <!-- EN: armored chassis -->
-  <Cinder_MechanicalThoraxB.label>armored chassis</Cinder_MechanicalThoraxB.label>
-  <!-- EN: neural spine -->
-  <Cinder_NeuralSpine.label>neural spine</Cinder_NeuralSpine.label>
-  <!-- EN: Armored seat ring -->
-  <Cinder_ArmoredRing.label>Armored seat ring</Cinder_ArmoredRing.label>
-  <!-- EN: tentacle -->
-  <Cinder_Tentacle.label>tentacle</Cinder_Tentacle.label>
-  <!-- EN: armour plate -->
-  <Cinder_ArmourPlate.label>armour plate</Cinder_ArmourPlate.label>
-  <!-- EN: integrated sensors -->
-  <Cinder_IntegratedSensors.label>integrated sensors</Cinder_IntegratedSensors.label>
-  <!-- EN: armored core -->
-  <Cinder_ArtificialBrain.label>armored core</Cinder_ArtificialBrain.label>
-  <!-- EN: fluid ganglion -->
-  <Cinder_Ganglion.label>fluid ganglion</Cinder_Ganglion.label>
-  <!-- EN: Tentacle leg -->
-  <Cinder_TentacleLeg.label>Tentacle leg</Cinder_TentacleLeg.label>
+  <Cinder_MechanicalThorax.label>бронированное шасси</Cinder_MechanicalThorax.label>
+  <Cinder_MechanicalThoraxB.label>бронированное шасси</Cinder_MechanicalThoraxB.label>
+  <Cinder_NeuralSpine.label>нейронный позвоночник</Cinder_NeuralSpine.label>
+  <Cinder_ArmoredRing.label>бронированное опорное кольцо</Cinder_ArmoredRing.label>
+  <Cinder_Tentacle.label>щупальце</Cinder_Tentacle.label>
+  <Cinder_ArmourPlate.label>бронепластина</Cinder_ArmourPlate.label>
+  <Cinder_IntegratedSensors.label>встроенные сенсоры</Cinder_IntegratedSensors.label>
+  <Cinder_ArtificialBrain.label>бронированное ядро</Cinder_ArtificialBrain.label>
+  <Cinder_Ganglion.label>жидкий нервный узел</Cinder_Ganglion.label>
+  <Cinder_TentacleLeg.label>щупальцевая нога</Cinder_TentacleLeg.label>
 </LanguageData>
