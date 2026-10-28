@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Hellfire Missile -->
+  <Cinder_LaunchHellfireMissile.label>Hellfire Missile</Cinder_LaunchHellfireMissile.label>
+  <!-- EN: Launch Missile -->
+  <Cinder_LaunchHellfireMissile.description>Launch Missile</Cinder_LaunchHellfireMissile.description>
+  <!-- EN: Hellfire Missile -->
+  <Cinder_LaunchHellfireMissileB.label>Hellfire Missile</Cinder_LaunchHellfireMissileB.label>
+  <!-- EN: Launch Missile -->
+  <Cinder_LaunchHellfireMissileB.description>Launch Missile</Cinder_LaunchHellfireMissileB.description>
+  <!-- EN: Transformation -->
+  <Ability_Transformation_TacticalTurret.label>Transformation</Ability_Transformation_TacticalTurret.label>
+  <!-- EN: Transform to a turret. -->
+  <Ability_Transformation_TacticalTurret.description>Transform to a turret.</Ability_Transformation_TacticalTurret.description>
+  <!-- EN: Transformation -->
+  <Ability_Transformation_Cannon.label>Transformation</Ability_Transformation_Cannon.label>
+  <!-- EN: Transform to a turret. -->
+  <Ability_Transformation_Cannon.description>Transform to a turret.</Ability_Transformation_Cannon.description>
+  <!-- EN: Transformation -->
+  <Ability_Transformation_Sniper.label>Transformation</Ability_Transformation_Sniper.label>
+  <!-- EN: Transform to a turret. -->
+  <Ability_Transformation_Sniper.description>Transform to a turret.</Ability_Transformation_Sniper.description>
+  <!-- EN: Transformation -->
+  <Ability_Transformation_Rocket.label>Transformation</Ability_Transformation_Rocket.label>
+  <!-- EN: Transform to a turret. -->
+  <Ability_Transformation_Rocket.description>Transform to a turret.</Ability_Transformation_Rocket.description>
+  <!-- EN: burn hemostasis -->
+  <Cinder_BurnHemostasis.label>burn hemostasis</Cinder_BurnHemostasis.label>
+  <!-- EN: Use burnt tentacles to stop bleeding from wounds on the target's body. -->
+  <Cinder_BurnHemostasis.description>Use burnt tentacles to stop bleeding from wounds on the target's body.</Cinder_BurnHemostasis.description>
+  <!-- EN: suffocating whispers -->
+  <Cinder_SuffocatingWhispers.label>suffocating whispers</Cinder_SuffocatingWhispers.label>
+  <!-- EN: Entangles the target with tentacles, causing temporary suffocation and coma. -->
+  <Cinder_SuffocatingWhispers.description>Entangles the target with tentacles, causing temporary suffocation and coma.</Cinder_SuffocatingWhispers.description>
+  <!-- EN: eternal fear -->
+  <Cinder_EternalFearAbility.label>eternal fear</Cinder_EternalFearAbility.label>
+  <!-- EN: Erodes the spirit of the target, detach it from the protection of reason, and make them fall into the state of fear. -->
+  <Cinder_EternalFearAbility.description>Erodes the spirit of the target, detach it from the protection of reason, and make them fall into the state of fear.</Cinder_EternalFearAbility.description>
+  <!-- EN: fear pulse -->
+  <Cinder_FearPulse.label>fear pulse</Cinder_FearPulse.label>
+  <!-- EN: Erodes the spirit of nearby animals, causing them to fall into the state of fear. -->
+  <Cinder_FearPulse.description>Erodes the spirit of nearby animals, causing them to fall into the state of fear.</Cinder_FearPulse.description>
+  <!-- EN: erosion skip -->
+  <Cinder_ErosionSkip.label>erosion skip</Cinder_ErosionSkip.label>
+  <!-- EN: Forcefully teleporting the target from a location to a random distance, and make them fall into the state of fear. Objects above a certain size cannot be teleported. -->
+  <Cinder_ErosionSkip.description>Forcefully teleporting the target from a location to a random distance, and make them fall into the state of fear. Objects above a certain size cannot be teleported.</Cinder_ErosionSkip.description>
+  <!-- EN: amorphous wall -->
+  <Cinder_AmorphousWall.label>amorphous wall</Cinder_AmorphousWall.label>
+  <!-- EN: Summon a sturdy tentacle wall from underground. -->
+  <Cinder_AmorphousWall.description>Summon a sturdy tentacle wall from underground.</Cinder_AmorphousWall.description>
+  <!-- EN: amorphous IED -->
+  <Cinder_AmorphousIED.label>amorphous IED</Cinder_AmorphousIED.label>
+  <!-- EN: Summon a bomb trap from underground, which will automatically reload. -->
+  <Cinder_AmorphousIED.description>Summon a bomb trap from underground, which will automatically reload.</Cinder_AmorphousIED.description>
+  <!-- EN: amorphous winding -->
+  <Cinder_AmorphousWinding.label>amorphous winding</Cinder_AmorphousWinding.label>
+  <!-- EN: Summon a vast tentacle terrain and entangle anyone walking on it. -->
+  <Cinder_AmorphousWinding.description>Summon a vast tentacle terrain and entangle anyone walking on it.</Cinder_AmorphousWinding.description>
+  <!-- EN: eroded bomb -->
+  <Cinder_ErodedBomb.label>eroded bomb</Cinder_ErodedBomb.label>
+  <!-- EN: Throws a eroded bomb -->
+  <Cinder_ErodedBomb.description>Throws a eroded bomb</Cinder_ErodedBomb.description>
+</LanguageData>
