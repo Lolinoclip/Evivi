@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Amorphous polymer -->
-  <Cinder_AmorphousPolymer.label>Amorphous polymer</Cinder_AmorphousPolymer.label>
-  <!-- EN: A hard material with a strange burnt smell and rough biological tentacle tissue attached, resembling coke but completely non flammable.This material almost completely blocks psychic flows unless processed in a special way. -->
-  <Cinder_AmorphousPolymer.description>A hard material with a strange burnt smell and rough biological tentacle tissue attached, resembling coke but completely non flammable.This material almost completely blocks psychic flows unless processed in a special way.</Cinder_AmorphousPolymer.description>
-  <!-- EN: Burnt strange meat -->
-  <Cinder_BurntStrangeMeat.label>Burnt strange meat</Cinder_BurntStrangeMeat.label>
-  <!-- EN: A burnt tentacle meat separated from amorphous polymer, edible and without strange taste, but usually used as a material for some serum. -->
-  <Cinder_BurntStrangeMeat.description>A burnt tentacle meat separated from amorphous polymer, edible and without strange taste, but usually used as a material for some serum.</Cinder_BurntStrangeMeat.description>
-  <!-- EN: Analyze the burnt strange meat. -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateDescString>Analyze the burnt strange meat.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateDescString>
-  <!-- EN: Analyze... -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateLabelString>Analyze...</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateLabelString>
-  <!-- EN: By studying the burnt strange meat, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the burnt strange meat, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetter>
-  <!-- EN: Burnt strange meat studied: {RESEARCH} unlocked -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Burnt strange meat studied: {RESEARCH} unlocked</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-  <!-- EN: Choose who should analyze this -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.guiLabelString>Choose who should analyze this</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.guiLabelString>
-  <!-- EN: Can be analyzed by a colonist. -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.inspectString>Can be analyzed by a colonist.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.inspectString>
-  <!-- EN: analyze burnt strange meat -->
-  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.jobString>analyze burnt strange meat</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.jobString>
+  <Cinder_AmorphousPolymer.label>аморфный полимер</Cinder_AmorphousPolymer.label>
+  <Cinder_AmorphousPolymer.description>Твёрдый материал со странным запахом гари и остатками грубой живой ткани щупалец. Напоминает кокс, но совершенно не горит. Без специальной обработки почти полностью блокирует пси-потоки.</Cinder_AmorphousPolymer.description>
+  <Cinder_BurntStrangeMeat.label>обожжённое странное мясо</Cinder_BurntStrangeMeat.label>
+  <Cinder_BurntStrangeMeat.description>Обожжённое мясо щупалец, отделённое от аморфного полимера. Съедобно и не имеет необычного вкуса, но обычно используется как ингредиент для сывороток.</Cinder_BurntStrangeMeat.description>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateDescString>Проанализировать обожжённое странное мясо.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateLabelString>Проанализировать…</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetter>Изучая обожжённое странное мясо, {PAWN_labelShort} получает знания, необходимые для исследований: {RESEARCH}.\n\nТеперь ваши исследователи могут приступить к изучению практического применения этой технологии за исследовательскими столами.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Обожжённое странное мясо изучено: доступны исследования {RESEARCH}</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.guiLabelString>Выберите, кто проведёт анализ</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.inspectString>Колонист может провести анализ.</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.inspectString>
+  <Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.jobString>анализирует обожжённое странное мясо</Cinder_BurntStrangeMeat.comps.CompAnalyzableUnlockResearch.jobString>
 </LanguageData>

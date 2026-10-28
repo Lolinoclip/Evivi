@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: erosion shell -->
-  <CinderShell_Erosion.label>erosion shell</CinderShell_Erosion.label>
-  <!-- EN: A type of explosive shell that uses amorphous polymers as charges, which will erode the armor of affected enemies during explosion, causing them to suffer higher subsequent damage. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <CinderShell_Erosion.description>A type of explosive shell that uses amorphous polymers as charges, which will erode the armor of affected enemies during explosion, causing them to suffer higher subsequent damage. Can be fired from mortars or installed as a trap. Explodes when damaged.</CinderShell_Erosion.description>
-  <!-- EN: erosion shell -->
-  <CinderBullet_Shell_Erosion.label>erosion shell</CinderBullet_Shell_Erosion.label>
+  <CinderShell_Erosion.label>снаряд искажения</CinderShell_Erosion.label>
+  <CinderShell_Erosion.description>Разрывной снаряд с зарядом из аморфного полимера. При взрыве искажает броню поражённых врагов, повышая получаемый ими последующий урон. Можно использовать в миномётах или устанавливать как ловушку. Взрывается при повреждении.</CinderShell_Erosion.description>
+  <CinderBullet_Shell_Erosion.label>снаряд искажения</CinderBullet_Shell_Erosion.label>
 </LanguageData>

@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: impact breaker -->
-  <Cinder_ImpactBreaker.label>impact breaker</Cinder_ImpactBreaker.label>
-  <!-- EN: A breaking hammer used for heavy armored targets and can also be used to smash stones. -->
-  <Cinder_ImpactBreaker.description>A breaking hammer used for heavy armored targets and can also be used to smash stones.</Cinder_ImpactBreaker.description>
-  <!-- EN: head -->
-  <Cinder_ImpactBreaker.tools.head.label>head</Cinder_ImpactBreaker.tools.head.label>
-  <!-- EN: electric scythe -->
-  <Cinder_ElectricScythe.label>electric scythe</Cinder_ElectricScythe.label>
-  <!-- EN: An electric ultrasonic sickle used for rapid cutting of flesh and blood, and can also be used for harvesting crops. -->
-  <Cinder_ElectricScythe.description>An electric ultrasonic sickle used for rapid cutting of flesh and blood, and can also be used for harvesting crops.</Cinder_ElectricScythe.description>
-  <!-- EN: point -->
-  <Cinder_ElectricScythe.tools.point.label>point</Cinder_ElectricScythe.tools.point.label>
-  <!-- EN: edge -->
-  <Cinder_ElectricScythe.tools.edge.label>edge</Cinder_ElectricScythe.tools.edge.label>
-  <!-- EN: high frequency saw -->
-  <Cinder_HighFrequencySaw.label>high frequency saw</Cinder_HighFrequencySaw.label>
-  <!-- EN: A lightweight, sturdy, and sharp high-frequency vibration saw is a small power weapon used in warfare and a handy tool. The saw body is made of amorphous polymer and can withstand strong chopping. The saw blade will cut open light armor when swung. -->
-  <Cinder_HighFrequencySaw.description>A lightweight, sturdy, and sharp high-frequency vibration saw is a small power weapon used in warfare and a handy tool. The saw body is made of amorphous polymer and can withstand strong chopping. The saw blade will cut open light armor when swung.</Cinder_HighFrequencySaw.description>
-  <!-- EN: point -->
-  <Cinder_HighFrequencySaw.tools.point.label>point</Cinder_HighFrequencySaw.tools.point.label>
-  <!-- EN: edge -->
-  <Cinder_HighFrequencySaw.tools.edge.label>edge</Cinder_HighFrequencySaw.tools.edge.label>
+  <Cinder_ImpactBreaker.label>отбойный молот</Cinder_ImpactBreaker.label>
+  <Cinder_ImpactBreaker.description>Ударный молот для поражения тяжелобронированных целей. Также подходит для дробления камня.</Cinder_ImpactBreaker.description>
+  <Cinder_ImpactBreaker.tools.head.label>боёк</Cinder_ImpactBreaker.tools.head.label>
+  <Cinder_ElectricScythe.label>электрокоса</Cinder_ElectricScythe.label>
+  <Cinder_ElectricScythe.description>Электрическая ультразвуковая коса для быстрого рассечения живой плоти. Также подходит для сбора урожая.</Cinder_ElectricScythe.description>
+  <Cinder_ElectricScythe.tools.point.label>остриё</Cinder_ElectricScythe.tools.point.label>
+  <Cinder_ElectricScythe.tools.edge.label>лезвие</Cinder_ElectricScythe.tools.edge.label>
+  <Cinder_HighFrequencySaw.label>высокочастотная пила</Cinder_HighFrequencySaw.label>
+  <Cinder_HighFrequencySaw.description>Лёгкая, прочная и острая пила с высокочастотной вибрацией. Компактное механизированное оружие и удобный инструмент. Корпус из аморфного полимера выдерживает сильные рубящие удары, а полотно при взмахе разрезает лёгкую броню.</Cinder_HighFrequencySaw.description>
+  <Cinder_HighFrequencySaw.tools.point.label>остриё</Cinder_HighFrequencySaw.tools.point.label>
+  <Cinder_HighFrequencySaw.tools.edge.label>лезвие</Cinder_HighFrequencySaw.tools.edge.label>
 </LanguageData>
