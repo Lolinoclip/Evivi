@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: damaged scarf -->
+  <Cinder_HeadGear_DamagedScarf.label>damaged scarf</Cinder_HeadGear_DamagedScarf.label>
+  <!-- EN: A scarf with burnt edges and metal chain armor wrapped inside can provide some protection for the neck. -->
+  <Cinder_HeadGear_DamagedScarf.description>A scarf with burnt edges and metal chain armor wrapped inside can provide some protection for the neck.</Cinder_HeadGear_DamagedScarf.description>
+  <!-- EN: ghost veil -->
+  <Cinder_HeadGear_GhostVeil.label>ghost veil</Cinder_HeadGear_GhostVeil.label>
+  <!-- EN: A strange ghost veil that looks like some kind of Halloween costume. -->
+  <Cinder_HeadGear_GhostVeil.description>A strange ghost veil that looks like some kind of Halloween costume.</Cinder_HeadGear_GhostVeil.description>
+  <!-- EN: exotic veil -->
+  <Cinder_HeadGear_ExoticVeil.label>exotic veil</Cinder_HeadGear_ExoticVeil.label>
+  <!-- EN: A faintly visible dancer's veil, paired with a golden headpiece, evokes vivid imagination. -->
+  <Cinder_HeadGear_ExoticVeil.description>A faintly visible dancer's veil, paired with a golden headpiece, evokes vivid imagination.</Cinder_HeadGear_ExoticVeil.description>
+  <!-- EN: night service veil -->
+  <Cinder_HeadGear_NightServiceVeil.label>night service veil</Cinder_HeadGear_NightServiceVeil.label>
+  <!-- EN: A silver crown and silk veil, evokes vivid imagination. -->
+  <Cinder_HeadGear_NightServiceVeil.description>A silver crown and silk veil, evokes vivid imagination.</Cinder_HeadGear_NightServiceVeil.description>
+  <!-- EN: maid headwear -->
+  <Cinder_HeadGear_MaidHeadwear.label>maid headwear</Cinder_HeadGear_MaidHeadwear.label>
+  <!-- EN: A delicate maid headpiece. -->
+  <Cinder_HeadGear_MaidHeadwear.description>A delicate maid headpiece.</Cinder_HeadGear_MaidHeadwear.description>
+  <!-- EN: projection visor -->
+  <Cinder_HeadGear_ProjectionVisor.label>projection visor</Cinder_HeadGear_ProjectionVisor.label>
+  <!-- EN: A sturdy mask that covers the user's mouth. -->
+  <Cinder_HeadGear_ProjectionVisor.description>A sturdy mask that covers the user's mouth.</Cinder_HeadGear_ProjectionVisor.description>
+  <!-- EN: assault helmet -->
+  <Cinder_HeadGear_AssaultHelmet.label>assault helmet</Cinder_HeadGear_AssaultHelmet.label>
+  <!-- EN: A bulletproof helmet for assault missions, reinforced with plasteel, heavy but capable of providing effective defense. -->
+  <Cinder_HeadGear_AssaultHelmet.description>A bulletproof helmet for assault missions, reinforced with plasteel, heavy but capable of providing effective defense.</Cinder_HeadGear_AssaultHelmet.description>
+  <!-- EN: assault helmet tan -->
+  <Cinder_HeadGear_AssaultHelmetTan.label>assault helmet tan</Cinder_HeadGear_AssaultHelmetTan.label>
+  <!-- EN: A helmet made entirely of amorphous polymer as a bulletproof material.It can completely blocks psychic flows to prevent the user from being affected by psycast. -->
+  <Cinder_HeadGear_AssaultHelmetTan.description>A helmet made entirely of amorphous polymer as a bulletproof material.It can completely blocks psychic flows to prevent the user from being affected by psycast.</Cinder_HeadGear_AssaultHelmetTan.description>
+  <!-- EN: ghoul unit helmet -->
+  <Cinder_HeadGear_GhoulUnitHelmet.label>ghoul unit helmet</Cinder_HeadGear_GhoulUnitHelmet.label>
+  <!-- EN: The thermal imaging helmet used by the Ghoul unit can scan targets in complex tunnels. -->
+  <Cinder_HeadGear_GhoulUnitHelmet.description>The thermal imaging helmet used by the Ghoul unit can scan targets in complex tunnels.</Cinder_HeadGear_GhoulUnitHelmet.description>
+  <!-- EN: fully enclosed mask -->
+  <Cinder_HeadGear_FullyEnclosedMask.label>fully enclosed mask</Cinder_HeadGear_FullyEnclosedMask.label>
+  <!-- EN: A fully covered heavy-duty bulletproof mask reinforced with amorphous polymer, capable of providing protection for the entire head and resisting toxic environments. But its field of view is limited, affecting shooting accuracy. -->
+  <Cinder_HeadGear_FullyEnclosedMask.description>A fully covered heavy-duty bulletproof mask reinforced with amorphous polymer, capable of providing protection for the entire head and resisting toxic environments. But its field of view is limited, affecting shooting accuracy.</Cinder_HeadGear_FullyEnclosedMask.description>
+  <!-- EN: broken mask -->
+  <Cinder_HeadGear_BrokenMask.label>broken mask</Cinder_HeadGear_BrokenMask.label>
+  <!-- EN: The damaged mask recovered from the battlefield is already worn out, but there is still a little protective ability. -->
+  <Cinder_HeadGear_BrokenMask.description>The damaged mask recovered from the battlefield is already worn out, but there is still a little protective ability.</Cinder_HeadGear_BrokenMask.description>
+</LanguageData>
