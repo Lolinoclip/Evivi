@@ -1,165 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_DustColonist.title>colonist</Cinder_DustColonist.title>
-  <Cinder_DustColonist.titleShort>colonist</Cinder_DustColonist.titleShort>
-  <Cinder_DustColonist.description>[PAWN_nameDef] is a colonist, and [PAWN_possessive] story is yet to unfold</Cinder_DustColonist.description>
-  <Cinder_AdultColonist.title>colonist</Cinder_AdultColonist.title>
-  <Cinder_AdultColonist.titleShort>colonist</Cinder_AdultColonist.titleShort>
-  <Cinder_AdultColonist.description>[PAWN_nameDef] is a colonist, and [PAWN_possessive] story is yet to unfold</Cinder_AdultColonist.description>
-  <Cinder_DustFogRefugee.title>dust fog refugee</Cinder_DustFogRefugee.title>
-  <Cinder_DustFogRefugee.titleShort>refugee</Cinder_DustFogRefugee.titleShort>
-  <Cinder_DustFogRefugee.description>[PAWN_nameDef] is a refugee child struggling to survive in the continuous dust fog climate disasters.\nThe adults who were protecting the refugees have all been killed by the ghouls that emerged from the dust fog.\n[PAWN_pronoun] can only hide in an abandoned underground facility, barely surviving by eating wild mushrooms.</Cinder_DustFogRefugee.description>
-  <Cinder_Dying.title>dying child</Cinder_Dying.title>
-  <Cinder_Dying.titleShort>dying child</Cinder_Dying.titleShort>
-  <Cinder_Dying.description>[PAWN_nameDef] is the child of refugees struggling to survive in the cracks of war. [PAWN_pronoun] followed [PAWN_possessive] parents around, hiding until they were blown to pieces while trying to protect [PAWN_objective]. The young [PAWN_nameDef] was left with half of his body burned, collapsing in the desolate ruins.\nEventually, hunger and severe injuries forced [PAWN_objective] to eat [PAWN_possessive] parents' bodies. This left [PAWN_objective] with deep psychological trauma.</Cinder_Dying.description>
-  <Cinder_Victim.title>Victim of warfare</Cinder_Victim.title>
-  <Cinder_Victim.titleShort>victim</Cinder_Victim.titleShort>
-  <Cinder_Victim.description>[PAWN_nameDef] was unfortunately ravaged by biological warfare weapons deployed by an enemy nation on the battlefield.\nEven after being rescued, [PAWN_possessive] body fortunately suffered no disabilities,but the fear of witnessing fellow compatriots being implanted with embryos still prevents [PAWN_nameDef] from facing other animals calmly.</Cinder_Victim.description>
-  <Cinder_Navigator.title>Refugee ship navigator</Cinder_Navigator.title>
-  <Cinder_Navigator.titleShort>navigator</Cinder_Navigator.titleShort>
-  <Cinder_Navigator.description>After the obscured area dissipated, in order to avoid being completely destroyed by the attack of data intelligence,survivors launched a starship carrying refugees to escape from their home planet.\nHowever, before reaching their target planet, they encountered DI's assault battle fleet, and the starship was destroyed, leaving [PAWN_nameDef] as the sole survivor by a stroke of luck.</Cinder_Navigator.description>
-  <Cinder_ReserveGrain.title>reserve grain</Cinder_ReserveGrain.title>
-  <Cinder_ReserveGrain.titleShort>reserve grain</Cinder_ReserveGrain.titleShort>
-  <Cinder_ReserveGrain.description>[PAWN_nameDef] is treated as reserve grain by the adults in the shelter under the Defense Council.\nThey usually feed [PAWN_objective] moss, insects, or moldy rations. During times of famine, the adults would kill [PAWN_objective] to eat.</Cinder_ReserveGrain.description>
-  <Cinder_FallenYouth.title>fallen youth</Cinder_FallenYouth.title>
-  <Cinder_FallenYouth.titleShort>fallen youth</Cinder_FallenYouth.titleShort>
-  <Cinder_FallenYouth.description>[PAWN_nameDef] was once a fallen scion of a bureaucratic family. [PAWN_possessive] parents often boasted in front of [PAWN_objective] about their ancestors' former positions.\n[PAWN_pronoun] frequently flaunted ancient food packaging to [PAWN_possessive] peers, but these stories did not earn [PAWN_objective] respect in the shelter; instead, they made [PAWN_objective] look like a joke.</Cinder_FallenYouth.description>
-  <Cinder_MushroomSerf.title>mushroom serf</Cinder_MushroomSerf.title>
-  <Cinder_MushroomSerf.titleShort>serf</Cinder_MushroomSerf.titleShort>
-  <Cinder_MushroomSerf.description>[PAWN_nameDef] cultivates mushrooms in the dark, sunless underground farm of the shelter, but [PAWN_pronoun] never gets to eat the mushrooms [PAWN_pronoun] grows. These mushrooms are reserved for the soldiers of the Defense Council.\nInstead, [PAWN_nameDef] can only consume putrid nutrient paste. If [PAWN_pronoun] dies, [PAWN_possessive] body will be used as new fertilizer for the mushrooms.</Cinder_MushroomSerf.description>
-  <Cinder_GestationPod.title>gestation pod</Cinder_GestationPod.title>
-  <Cinder_GestationPod.titleShort>gestation pod</Cinder_GestationPod.titleShort>
-  <Cinder_GestationPod.description>[PAWN_nameDef] is used by the Defense Council as a gestation pod for breeding the population.\n[PAWN_pronoun] is forced to reproduce with various outstanding soldiers in the factory. However, when the factory is destroyed during the war, [PAWN_pronoun] escapes from it.</Cinder_GestationPod.description>
-  <Cinder_HibernatingChild.title>hibernating child</Cinder_HibernatingChild.title>
-  <Cinder_HibernatingChild.titleShort>hibernating child</Cinder_HibernatingChild.titleShort>
-  <Cinder_HibernatingChild.description>After the disaster, [PAWN_nameDef] was forced to live in the bunker of the National Defense Council.\nHere, [PAWN_pronoun] learned how to swallow sugar-free cockroach moss nutrient paste and was thrown into the hibernation pod due to illness, frozen as reserve food.</Cinder_HibernatingChild.description>
-  <Cinder_KitchenHelper.title>Kitchen helper</Cinder_KitchenHelper.title>
-  <Cinder_KitchenHelper.titleShort>Kitchen helper</Cinder_KitchenHelper.titleShort>
-  <Cinder_KitchenHelper.description>[PAWN_nameDef] is a kitchen assistant for the nutritional paste in a bunker within the Defense Council's territory. Since [PAWN_pronoun] can remember, [PAWN_pronoun] has hardly left this stinky kitchen.\n[PAWN_possessive] job involves roughly chopping up moss, cockroaches, earthworms, the bodies of fallen soldiers, or any children trying to escape, making it easier to feed them into the nutritional paste supply chute.</Cinder_KitchenHelper.description>
-  <Cinder_ChildLabourer.title>shelters child labourer</Cinder_ChildLabourer.title>
-  <Cinder_ChildLabourer.titleShort>child labourer</Cinder_ChildLabourer.titleShort>
-  <Cinder_ChildLabourer.description>[PAWN_nameDef] was born in a shelter that forbade [PAWN_objective] from knowing who [PAWN_possessive] parents were. [PAWN_possessive] education from birth involved producing components on underground machines, and [PAWN_pronoun] has never seen sunlight.</Cinder_ChildLabourer.description>
-  <Cinder_Cleaner.title>camera cleaner</Cinder_Cleaner.title>
-  <Cinder_Cleaner.titleShort>cleaner</Cinder_Cleaner.titleShort>
-  <Cinder_Cleaner.description>[PAWN_nameDef] was born in a shelter run by the Defense Council. [PAWN_pronoun] has never received an education, only following the orders of the adults in charge of [PAWN_objective].\nDuring the lulls between bombings, [PAWN_pronoun] crawls to the surface to clean the cameras obscured by blood. If [PAWN_pronoun] does well, [PAWN_pronoun] might be rewarded with a plate of raw mushrooms.</Cinder_Cleaner.description>
-  <Cinder_Offspring.title>officials' offspring</Cinder_Offspring.title>
-  <Cinder_Offspring.titleShort>successor</Cinder_Offspring.titleShort>
-  <Cinder_Offspring.description>[PAWN_nameDef] is the child of a member of the Defense Council. From a young age, [PAWN_pronoun] enjoyed privileges that others did not, including, but not limited to, industrial food left over from before the war, and film recordings.\n[PAWN_pronoun] was designated as the heir by [PAWN_possessive] parents, but [PAWN_pronoun] showed no interest in these things; instead, [PAWN_pronoun] was passionate about biological science research.</Cinder_Offspring.description>
-  <Cinder_Traveler.title>delivery traveler</Cinder_Traveler.title>
-  <Cinder_Traveler.titleShort>traveler</Cinder_Traveler.titleShort>
-  <Cinder_Traveler.description>[PAWN_nameDef] always had confidence in [PAWN_possessive] legs, which is why [PAWN_nameDef] was selected by the Defense Council as a delivery person to conserve precious vehicle hours.\n[PAWN_nameDef] managed to transport crucial spare parts across the terrifying battlefield. This continued for a long time until [PAWN_possessive] pride was shattered by the massive figure emerging from the smoke and the incoming missiles.</Cinder_Traveler.description>
-  <Cinder_CleaningWorker.title>Pipeline cleaner</Cinder_CleaningWorker.title>
-  <Cinder_CleaningWorker.titleShort>cleaner</Cinder_CleaningWorker.titleShort>
-  <Cinder_CleaningWorker.description>[PAWN_nameDef] was born in an old bunker belonging to the Defense Council. There, children like [PAWN_nameDef] were sent into narrow pipelines for simple clearing tasks. Frequently, [PAWN_pronoun] would drag out friends who had been lively just days before, or traitors who had been baked by the heated pipes.\nThese days continued until [PAWN_nameDef] crawled along the pipeline to reach a place [PAWN_pronoun] had never seen before—“the outside.”</Cinder_CleaningWorker.description>
-  <Cinder_GhoulHunter.title>ghoul hunter</Cinder_GhoulHunter.title>
-  <Cinder_GhoulHunter.titleShort>ghoul hunter</Cinder_GhoulHunter.titleShort>
-  <Cinder_GhoulHunter.description>Controlled by the Economic Security Department for Special Periods through data intelligence, ghouls are often deployed to sweep through underground facilities for survivors. They are the most dehumanized products.\nThe Defense Council has trained a group of hunters specifically targeting these ghouls, and [PAWN_nameDef] is one of them. [PAWN_pronoun] will continue to fight against the ghouls until [PAWN_pronoun] becomes one of them.</Cinder_GhoulHunter.description>
-  <Cinder_FleeingEngineer.title>fleeing engineer</Cinder_FleeingEngineer.title>
-  <Cinder_FleeingEngineer.titleShort>engineer</Cinder_FleeingEngineer.titleShort>
-  <Cinder_FleeingEngineer.description>In [PAWN_nameDef] was a military mechanical engineer before the bunker was captured.\nAfter that, [PAWN_nameDef] fell into an endless hiding until [PAWN_pronoun] and [PAWN_possessive] companion robot were captured by the ghoul unit.</Cinder_FleeingEngineer.description>
-  <Cinder_Porter.title>factory porter</Cinder_Porter.title>
-  <Cinder_Porter.titleShort>porter</Cinder_Porter.titleShort>
-  <Cinder_Porter.description>[PAWN_nameDef] has long forgotten when [PAWN_pronoun] entered the factory for moving ammunition on the assembly line of the National Defense Council's underground factory.\n[PAWN_possessive] tentacles have been modified into sturdy transport frames, day after day, endlessly moving ammunition for those war machines.</Cinder_Porter.description>
-  <Cinder_Follower.title>underground follower</Cinder_Follower.title>
-  <Cinder_Follower.titleShort>follower</Cinder_Follower.titleShort>
-  <Cinder_Follower.description>[PAWN_nameDef] lost all [PAWN_possessive] comrades while serving as a soldier in the Defense Council during the war. [PAWN_pronoun] suffered severe psychological trauma that left [PAWN_objective] unable to lift a gun.\nJudged as worthless, [PAWN_pronoun] was sent to a labor prison, where [PAWN_pronoun] discovered illegal literature promoting underground propaganda. Following this, [PAWN_pronoun] devised a large-scale prison break uprising.</Cinder_Follower.description>
-  <Cinder_HolySon.title>holy son of the cult</Cinder_HolySon.title>
-  <Cinder_HolySon.titleShort>holy son</Cinder_HolySon.titleShort>
-  <Cinder_HolySon.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_possessive] father was a high-ranking official in the shelter, while [PAWN_possessive] mother, driven mad by the brutal war, had joined the cult.\n[PAWN_pronoun] was revered by the cult as the “Holy Son,” participating in wicked blood rituals in an attempt to pray for the end of the war. The cult's cruel actions drove [PAWN_nameDef] to madness, yet after everyone was sacrificed in the blood ritual, nothing happened.</Cinder_HolySon.description>
-  <Cinder_CultChild.title>escaping cult child</Cinder_CultChild.title>
-  <Cinder_CultChild.titleShort>cult child</Cinder_CultChild.titleShort>
-  <Cinder_CultChild.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] did not know who [PAWN_possessive] parents were and grew up under the influence of the cult.\nHowever, when the cult began incessant blood rituals, [PAWN_possessive] survival instinct drove [PAWN_nameDef] to fearfully escape the shelter.</Cinder_CultChild.description>
-  <Cinder_Fanatic.title>cult fanatic</Cinder_Fanatic.title>
-  <Cinder_Fanatic.titleShort>fanatic</Cinder_Fanatic.titleShort>
-  <Cinder_Fanatic.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] was extremely loyal and fervent towards the cult, believing that the sacrifices made to the cult had restored [PAWN_possessive] leg,\nwhich had been damaged by a grenade. However, [PAWN_pronoun] did not realize that this was due to [PAWN_possessive] own regenerative abilities.</Cinder_Fanatic.description>
-  <Cinder_ChosenOne.title>cult chosen one</Cinder_ChosenOne.title>
-  <Cinder_ChosenOne.titleShort>chosen one</Cinder_ChosenOne.titleShort>
-  <Cinder_ChosenOne.description>[PAWN_nameDef] was born in a shelter controlled by a cult that operated under the Defense Council. [PAWN_pronoun] was chosen by the cult to drink strange serum potions to attain enlightenment.\n[PAWN_pronoun] gained some bizarre abilities and took pride in them, until [PAWN_pronoun] witnessed the process of how these potions were made.</Cinder_ChosenOne.description>
-  <Cinder_SadBeliever.title>sad believer</Cinder_SadBeliever.title>
-  <Cinder_SadBeliever.titleShort>sad believer</Cinder_SadBeliever.titleShort>
-  <Cinder_SadBeliever.description>[PAWN_nameDef] struggles to raise [PAWN_possessive] children alone. Although searching for supplies in abandoned buildings leaves [PAWN_possessive] limbs battered, [PAWN_pronoun] manages to maintain a simple life. This simple existence is shattered by an unfamiliar "flu."\n[PAWN_possessive] children develop high fevers, and despite spending [PAWN_possessive] meager savings to seek medical help, [PAWN_pronoun] is unable to prevent them from dying one by one.\nWhen [PAWN_pronoun] watches the last of [PAWN_possessive] children die in [PAWN_possessive] arms, [PAWN_pronoun] goes mad. Soon, [PAWN_pronoun] is approached by cultists in the bunker, who convince [PAWN_objective] that only blood sacrifice can change this sorrowful world.</Cinder_SadBeliever.description>
-  <Cinder_EscapeBeliever.title>escape believer</Cinder_EscapeBeliever.title>
-  <Cinder_EscapeBeliever.titleShort>escape believer</Cinder_EscapeBeliever.titleShort>
-  <Cinder_EscapeBeliever.description>[PAWN_nameDef] was supposed to be conscripted as a soldier to fight, but when [PAWN_pronoun] got lost and stumbled into the kitchen of the shelter, [PAWN_pronoun] saw the dismembered bodies of dead soldiers.\nThis sight filled [PAWN_objective] with tremendous fear of going to war. Consequently, [PAWN_pronoun] forged [PAWN_possessive] age and hid within the cult, ensuring that no one who knew [PAWN_objective] could find [PAWN_objective].</Cinder_EscapeBeliever.description>
-  <Cinder_Priest.title>cult priest</Cinder_Priest.title>
-  <Cinder_Priest.titleShort>priest</Cinder_Priest.titleShort>
-  <Cinder_Priest.description>[PAWN_nameDef] was once a junior commander in the Defense Council, engaged in a prolonged battle against the inhuman legions controlled by DI. After serving as a scapegoat for a failed operation, [PAWN_pronoun] lost faith in everything and secretly joined a newly formed branch of the local cult.\nFollowing the blood sacrifice of the previous priest, [PAWN_pronoun] was elevated to the position of the new priest.</Cinder_Priest.description>
-  <Cinder_CrazyBeliever.title>crazy believer</Cinder_CrazyBeliever.title>
-  <Cinder_CrazyBeliever.titleShort>crazy believer</Cinder_CrazyBeliever.titleShort>
-  <Cinder_CrazyBeliever.description>[PAWN_nameDef] was born in a shelter controlled by a cult within the Defense Council. [PAWN_pronoun] was once used as a gestation pod, but during a raid on the shelter by the Economic Security Department for Special Periods, [PAWN_pronoun] and [PAWN_possessive] infant were trapped in the wreckage.\nBy the time others found them, [PAWN_possessive] infant had already died from illness. In [PAWN_possessive] madness, [PAWN_pronoun] sacrificed [PAWN_possessive] own arm to the cult in exchange for [PAWN_possessive] child's life. In the end, all [PAWN_pronoun] received was a rag doll.</Cinder_CrazyBeliever.description>
-  <Cinder_ArchiveGuard.title>archive guard</Cinder_ArchiveGuard.title>
-  <Cinder_ArchiveGuard.titleShort>guard</Cinder_ArchiveGuard.titleShort>
-  <Cinder_ArchiveGuard.description>[PAWN_nameDef] is responsible for guarding documents in a library within a bunker of the Defense Council. This job should be performed by adults, but all the adults in the shelter have been sent to war as soldiers. In principle, [PAWN_pronoun] shouldn't look at the contents, but [PAWN_possessive] curiosity led [PAWN_objective] to make a mistake.\n[PAWN_pronoun] came across criticisms of totalitarian states from before the disaster, and even the most terrifying regimes in history seemed to [PAWN_objective] like an ideal state. This prompted [PAWN_objective] to start contemplating the definition of what is right.</Cinder_ArchiveGuard.description>
-  <Cinder_UndergroundAgitator.title>Underground agitator</Cinder_UndergroundAgitator.title>
-  <Cinder_UndergroundAgitator.titleShort>activist</Cinder_UndergroundAgitator.titleShort>
-  <Cinder_UndergroundAgitator.description>Having undergone true reflection and survived the brutal war, [PAWN_nameDef] no longer believes in the Defense Council's grotesque rule that spares no effort for meaningless war. [PAWN_pronoun] begins secretly copying articles underground and spreading these illegal writings within the shelter.\n[PAWN_pronoun] is convinced that [PAWN_pronoun] can do better than the faceless bureaucrats, and more and more people are beginning to help [PAWN_objective].</Cinder_UndergroundAgitator.description>
-  <Cinder_BulkProducts.title>bulk products</Cinder_BulkProducts.title>
-  <Cinder_BulkProducts.titleShort>bulk products</Cinder_BulkProducts.titleShort>
-  <Cinder_BulkProducts.description>[PAWN_nameDef] is a child produced through mass IVF in a factory. This method differs from cloning and aims to preserve genetic diversity.\nTypically, children are infused with combat memories and personality traits to ensure they can adapt to various professions, but [PAWN_pronoun] has never interacted with anyone else.</Cinder_BulkProducts.description>
-  <Cinder_CoreChildren.title>core area kids</Cinder_CoreChildren.title>
-  <Cinder_CoreChildren.titleShort>core area kids</Cinder_CoreChildren.titleShort>
-  <Cinder_CoreChildren.description>As a child living in the core area of data intelligence protection, [PAWN_nameDef] leads a life almost indistinguishable from before the disaster.\nHowever, [PAWN_nameDef] is restless and often sneaks out to explore the boundaries of the core area, where [PAWN_pronoun] sees the true nature of the world. Unable to accept this reality, [PAWN_possessive] mind shatters, and [PAWN_pronoun] is placed in a gentle long dream through the hosting of data intelligence.</Cinder_CoreChildren.description>
-  <Cinder_VehicleOperator.title>supply vehicle operator</Cinder_VehicleOperator.title>
-  <Cinder_VehicleOperator.titleShort>"news child"</Cinder_VehicleOperator.titleShort>
-  <Cinder_VehicleOperator.description>[PAWN_nameDef] has been riding a bicycle to deliver newspapers to mailboxes in the streets and alleys for as long as [PAWN_pronoun] can remember. [PAWN_pronoun] doesn’t recall how [PAWN_pronoun] got this job; all [PAWN_pronoun] knows is that the daily work is tiring, leaving [PAWN_objective] no time to play with peers.\nHowever, to those who have not entered the long dream, [PAWN_pronoun] appears to be driving a food supply truck through the trenches.</Cinder_VehicleOperator.description>
-  <Cinder_LivingDoll.title>living doll</Cinder_LivingDoll.title>
-  <Cinder_LivingDoll.titleShort>"child idol"</Cinder_LivingDoll.titleShort>
-  <Cinder_LivingDoll.description>[PAWN_nameDef] is an idol in [PAWN_possessive] long dreams, performing on stage for long hours every day, beloved by everyone.\nIn reality, [PAWN_pronoun] is a living mannequin, assigned by data intelligence to replace plastic figures in the showcase. [PAWN_possessive] body has been artificially cultivated to perfection, and [PAWN_pronoun] is required to work ten hours a day.</Cinder_LivingDoll.description>
-  <Cinder_Collector.title>genetic collector</Cinder_Collector.title>
-  <Cinder_Collector.titleShort>"mushroom-picking girl"</Cinder_Collector.titleShort>
-  <Cinder_Collector.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] gathers mushrooms in the mountains and forests, which can always be exchanged for delicious food.\nIn reality, during the period when [PAWN_possessive] consciousness is taken over by data intelligence, [PAWN_pronoun] is used by the military to collect high-quality genetic material from individuals to provide sufficient biological resources for the factories at the rear.</Cinder_Collector.description>
-  <Cinder_HydroponicWorker.title>hydroponic worker</Cinder_HydroponicWorker.title>
-  <Cinder_HydroponicWorker.titleShort>"worker"</Cinder_HydroponicWorker.titleShort>
-  <Cinder_HydroponicWorker.description>[PAWN_nameDef] is an agricultural worker at the hydroponic farm in the core zone, which provides raw materials for the food factory as part of the ecological recycling system. [PAWN_pronoun] often complains that [PAWN_possessive] salary is lower than others.\nBut in reality, this is just a simulation based on [PAWN_possessive] memories.</Cinder_HydroponicWorker.description>
-  <Cinder_Technician.title>military factory technician</Cinder_Technician.title>
-  <Cinder_Technician.titleShort>"craftsman"</Cinder_Technician.titleShort>
-  <Cinder_Technician.description>"Craftsman" is what people always call [PAWN_nameDef], which is almost the highest praise for [PAWN_possessive] work. [PAWN_pronoun] is immersed in [PAWN_possessive] long dreams filled with a sense of accomplishment.\nBut in reality, [PAWN_nameDef] is using [PAWN_possessive] burnt tentacles to manufacture weapons and ammunition for the Data Intelligence of the Special Economic Security Department.</Cinder_Technician.description>
-  <Cinder_DataUnit.title>data processing unit</Cinder_DataUnit.title>
-  <Cinder_DataUnit.titleShort>"bureaucrat"</Cinder_DataUnit.titleShort>
-  <Cinder_DataUnit.description>[PAWN_nameDef] is a government bureaucrat in a long dream, relying on past memories to issue orders and maintain the normal operation of the country.\nIn reality, [PAWN_possessive] brain is used to assist in processing endless battlefield information for data intelligence.</Cinder_DataUnit.description>
-  <Cinder_Novelist.title>underground novelist</Cinder_Novelist.title>
-  <Cinder_Novelist.titleShort>novelist</Cinder_Novelist.titleShort>
-  <Cinder_Novelist.description>[PAWN_nameDef] unexpectedly broke free from the consciousness hosting of data intelligence. For the first time, [PAWN_nameDef] realized that [PAWN_possessive] consciousness was no longer asleep.\nThis ecstasy prompted [PAWN_nameDef] to grab a stack of document fragments and write [PAWN_possessive] first "work" in [PAWN_possessive] own blood. Although these chaotic words may be hard to call "literature" in the eyes of others, [PAWN_possessive] work remains the most sought-after daily reading in the surrounding settlement.</Cinder_Novelist.description>
-  <Cinder_Management.title>military factory management</Cinder_Management.title>
-  <Cinder_Management.titleShort>"cocoa"</Cinder_Management.titleShort>
-  <Cinder_Management.description>[PAWN_nameDef] manages a fairy-tale chocolate factory in a long dream, occasionally encountering chocolate monsters that disrupt the production line.\nHowever, upon waking, [PAWN_pronoun] only finds the shattered explosives production line and the decaying bodies of workers on the ground.</Cinder_Management.description>
-  <Cinder_Loader.title>logistics loader</Cinder_Loader.title>
-  <Cinder_Loader.titleShort>"instrumental craftsman"</Cinder_Loader.titleShort>
-  <Cinder_Loader.description>[PAWN_nameDef] is a craftsman who winds up music boxes in a long dream, turning the crank every day.\nHowever, upon waking, [PAWN_pronoun] discovers [PAWN_pronoun] is on a chaotic battlefield, loading ammunition into a bullet chain.</Cinder_Loader.description>
-  <Cinder_BreakthroughSoldier.title>breakthrough soldier</Cinder_BreakthroughSoldier.title>
-  <Cinder_BreakthroughSoldier.titleShort>"discus thrower"</Cinder_BreakthroughSoldier.titleShort>
-  <Cinder_BreakthroughSoldier.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] is a discus thrower, often seen throwing the discus at a target in the arena.\nHowever, in reality, [PAWN_nameDef] is wearing heavy armor and using a focused energy bomb for close-range throws after breaking through enemy defenses.</Cinder_BreakthroughSoldier.description>
-  <Cinder_ExoskeletonDriver.title>Exoskeleton driver</Cinder_ExoskeletonDriver.title>
-  <Cinder_ExoskeletonDriver.titleShort>"operator"</Cinder_ExoskeletonDriver.titleShort>
-  <Cinder_ExoskeletonDriver.description>[PAWN_nameDef] remembers [PAWN_possessive] identity as a construction vehicle operator, needing to operate a crusher in the mine every day.\nHowever, in reality, [PAWN_nameDef] is assigned by data intelligence to pilot an exoskeleton for combat, injected with an overdose of addictive substances to maintain consciousness, serving as an important part of the armored torrent used to assault the enemy's land ships.</Cinder_ExoskeletonDriver.description>
-  <Cinder_SpecialEngineeringForces.title>special engineering forces</Cinder_SpecialEngineeringForces.title>
-  <Cinder_SpecialEngineeringForces.titleShort>"conductor"</Cinder_SpecialEngineeringForces.titleShort>
-  <Cinder_SpecialEngineeringForces.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] is a conductor of an orchestra, always conducting the band in the concert hall.\nHowever, in reality, [PAWN_nameDef] controls the deployment of turret machinery, often being airdropped into the battlefield by assault ships when approaching the front lines.</Cinder_SpecialEngineeringForces.description>
-  <Cinder_SweeperOperator.title>sweeper operator</Cinder_SweeperOperator.title>
-  <Cinder_SweeperOperator.titleShort>"sweeper driver"</Cinder_SweeperOperator.titleShort>
-  <Cinder_SweeperOperator.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] drives a cleaning vehicle to sweep the streets. [PAWN_pronoun] doesn't particularly enjoy this boring job, as the cleaning vehicle often fails to clean properly, requiring [PAWN_pronoun] to reverse repeatedly.\nIn reality, [PAWN_nameDef] operates a war sweeper, which is commonly used for air defense and battlefield clearing. In complex fortifications, it is indeed very difficult to clean out every infantryman.</Cinder_SweeperOperator.description>
-  <Cinder_AttackerOperator.title>attacker operator</Cinder_AttackerOperator.title>
-  <Cinder_AttackerOperator.titleShort>"firefighter"</Cinder_AttackerOperator.titleShort>
-  <Cinder_AttackerOperator.description>[PAWN_nameDef] is a firefighter, and [PAWN_possessive] work is extremely busy. [PAWN_pronoun] has never questioned the enjoyment of the job: running at midnight, watching pages of books turn to ashes...\nThe war attackers [PAWN_pronoun] operates are deployed to launch Hellfire missiles to destroy heavy armored units and fortifications.</Cinder_AttackerOperator.description>
-  <Cinder_Garrison.title>garrison troops</Cinder_Garrison.title>
-  <Cinder_Garrison.titleShort>"scarecrow"</Cinder_Garrison.titleShort>
-  <Cinder_Garrison.description>It is unclear when it started, but [PAWN_nameDef] has been standing in this field. Here, [PAWN_possessive] duty is to scare away nearby pests to prevent crop loss. Occasionally, [PAWN_pronoun] can see some young children waving at [PAWN_objective].\nIn response, [PAWN_nameDef] instinctively waves [PAWN_possessive] scorched arms and smiles back, never realizing that the pests [PAWN_pronoun] sees are actually enemy soldiers.</Cinder_Garrison.description>
-  <Cinder_Recovery.title>battlefield recovery troops</Cinder_Recovery.title>
-  <Cinder_Recovery.titleShort>"Desert fishermen"</Cinder_Recovery.titleShort>
-  <Cinder_Recovery.description>In [PAWN_possessive] long dreams,[PAWN_nameDef] is a fisherman who often goes out to sea to fish. Upon waking, [PAWN_pronoun] retains many skills related to fishing and navigating boats in [PAWN_possessive] mind.\nHowever, there is no sea near the fishing factory where [PAWN_pronoun] once lived, only an endless desert.</Cinder_Recovery.description>
-  <Cinder_Santa.title>Fire control operator</Cinder_Santa.title>
-  <Cinder_Santa.titleShort>"Santa"</Cinder_Santa.titleShort>
-  <Cinder_Santa.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] often distributes gifts to the surrounding settlements. After waking up, [PAWN_pronoun] boasts about being like Santa Claus, delivering gifts to everyone.\nWhat [PAWN_pronoun] doesn't know is that [PAWN_pronoun] is actually a fire control operator on a ground assault ship, and the so-called gifts [PAWN_pronoun] delivers are actually bombs.</Cinder_Santa.description>
-  <Cinder_GhoulUnitA.title>ghoul unit</Cinder_GhoulUnitA.title>
-  <Cinder_GhoulUnitA.titleShort>"Surgical doctor"</Cinder_GhoulUnitA.titleShort>
-  <Cinder_GhoulUnitA.description>[PAWN_nameDef] is a skilled surgeon in a long dream where [PAWN_possessive] consciousness is hosted, skillfully wielding a scalpel to treat patients.\nHowever, in reality, there are no bodies that need mending.When [PAWN_pronoun] awakens, [PAWN_pronoun] finds [PAWN_pronoun] is on the battlefield, using an ultrasonic scythe to cut through the rotten flesh of [PAWN_possessive] enemies.</Cinder_GhoulUnitA.description>
-  <Cinder_GhoulUnitB.title>ghoul unit</Cinder_GhoulUnitB.title>
-  <Cinder_GhoulUnitB.titleShort>"maid"</Cinder_GhoulUnitB.titleShort>
-  <Cinder_GhoulUnitB.description>In [PAWN_possessive] long dreams, [PAWN_nameDef] is a maid who meticulously cleans the room every day, removing all the dirt. [PAWN_pronoun] is very satisfied with [PAWN_possessive] work because [PAWN_pronoun] always cleans the best.\nHowever, in reality, [PAWN_nameDef] is a frontline melee ghoul soldier for large-scale sweep operations, clearing out every living person in each trench.</Cinder_GhoulUnitB.description>
-  <Cinder_GhoulUnitC.title>ghoul unit</Cinder_GhoulUnitC.title>
-  <Cinder_GhoulUnitC.titleShort>"dancer"</Cinder_GhoulUnitC.titleShort>
-  <Cinder_GhoulUnitC.description>In [PAWN_possessive] long dreams,[PAWN_nameDef] is a dancer who yearns for fame, rehearsing [PAWN_possessive] mechanical performance day after day in front of a neat audience, repeatedly executing [PAWN_possessive] splendid but unchanging dance steps.\nHowever, in reality, [PAWN_nameDef] is a frontline melee soldier, wielding [PAWN_possessive] tentacles to slay every enemy.</Cinder_GhoulUnitC.description>
-  <Cinder_MortarOperator.title>MortarOperator</Cinder_MortarOperator.title>
-  <Cinder_MortarOperator.titleShort>MortarOperator</Cinder_MortarOperator.titleShort>
-  <Cinder_MortarOperator.description>[PAWN_nameDef] often plays Whac-A-Mole with the children in the "Long Dream," hitting quickly and accurately. In reality, [PAWN_pronoun] is operating a mortar, launching shells that blast enemy positions and living beings into ashes.</Cinder_MortarOperator.description>
+  <Cinder_DustColonist.title>колонист</Cinder_DustColonist.title>
+  <Cinder_DustColonist.titleShort>колонист</Cinder_DustColonist.titleShort>
+  <Cinder_DustColonist.description>[PAWN_nameDef] — колонист. Эта история ещё только начинается.</Cinder_DustColonist.description>
+  <Cinder_AdultColonist.title>колонист</Cinder_AdultColonist.title>
+  <Cinder_AdultColonist.titleShort>колонист</Cinder_AdultColonist.titleShort>
+  <Cinder_AdultColonist.description>[PAWN_nameDef] — колонист. Эта история ещё только начинается.</Cinder_AdultColonist.description>
+  <Cinder_DustFogRefugee.title>беженец из пылевого тумана</Cinder_DustFogRefugee.title>
+  <Cinder_DustFogRefugee.titleShort>беженец</Cinder_DustFogRefugee.titleShort>
+  <Cinder_DustFogRefugee.description>[PAWN_nameDef] {PAWN_gender ? был : была} ребёнком-беженцем, которому приходилось бороться за выживание среди непрекращающихся бедствий пылевого тумана.\nВсе взрослые, защищавшие беженцев, погибли от рук гулей, появившихся из тумана.\nОставалось лишь прятаться в заброшенном подземном сооружении и кое-как выживать, перебиваясь дикорастущими грибами.</Cinder_DustFogRefugee.description>
+  <Cinder_Dying.title>умирающий ребёнок</Cinder_Dying.title>
+  <Cinder_Dying.titleShort>при смерти</Cinder_Dying.titleShort>
+  <Cinder_Dying.description>[PAWN_nameDef] {PAWN_gender ? был : была} ребёнком беженцев, пытавшихся выжить посреди войны. Приходилось повсюду следовать за родителями и прятаться, пока их не разорвало взрывом, когда они пытались защитить [PAWN_objective]. С ожогами на половине тела [PAWN_nameDef] {PAWN_gender ? рухнул : рухнула} среди безлюдных руин.\nВ конце концов голод и тяжёлые раны вынудили [PAWN_objective] питаться телами родителей. Пережитое оставило глубокую душевную травму.</Cinder_Dying.description>
+  <Cinder_Victim.title>жертва войны</Cinder_Victim.title>
+  <Cinder_Victim.titleShort>жертва</Cinder_Victim.titleShort>
+  <Cinder_Victim.description>[PAWN_nameDef] {PAWN_gender ? пострадал : пострадала} от биологического оружия, применённого вражеским государством на поле боя.\nПосле спасения, к счастью, обошлось без необратимых увечий. Но воспоминания о том, как соотечественникам внедряли эмбрионы, вызывали такой страх, что спокойно находиться рядом с животными не удавалось.</Cinder_Victim.description>
+  <Cinder_Navigator.title>навигатор корабля беженцев</Cinder_Navigator.title>
+  <Cinder_Navigator.titleShort>навигатор</Cinder_Navigator.titleShort>
+  <Cinder_Navigator.description>После исчезновения скрытой области выжившие отправили с родной планеты звездолёт с беженцами, спасаясь от полного уничтожения силами DI.\nОднако до планеты назначения они не добрались: на пути встретился ударный флот DI, уничтоживший корабль. Лишь по счастливой случайности [PAWN_nameDef] {PAWN_gender ? остался единственным выжившим : осталась единственной выжившей}.</Cinder_Navigator.description>
+  <Cinder_ReserveGrain.title>живой запас</Cinder_ReserveGrain.title>
+  <Cinder_ReserveGrain.titleShort>живой запас</Cinder_ReserveGrain.titleShort>
+  <Cinder_ReserveGrain.description>Взрослые в убежище Совета обороны держали [PAWN_nameDef] как запас пищи.\nОбычно [PAWN_objective] кормили мхом, насекомыми или заплесневелыми пайками. На случай голода взрослые собирались убить и съесть [PAWN_objective].</Cinder_ReserveGrain.description>
+  <Cinder_FallenYouth.title>отпрыск обедневшего рода</Cinder_FallenYouth.title>
+  <Cinder_FallenYouth.titleShort>отпрыск</Cinder_FallenYouth.titleShort>
+  <Cinder_FallenYouth.description>[PAWN_nameDef] {PAWN_gender ? происходил : происходила} из утратившего положение чиновничьего рода. Родители часто хвастались перед [PAWN_objective] должностями, которые когда-то занимали предки.\nПеред сверстниками [PAWN_nameDef] {PAWN_gender ? красовался : красовалась} с древними пищевыми упаковками. Но рассказы о былом величии не приносили уважения в убежище, а лишь делали [PAWN_objective] всеобщим посмешищем.</Cinder_FallenYouth.description>
+  <Cinder_MushroomSerf.title>крепостной грибовод</Cinder_MushroomSerf.title>
+  <Cinder_MushroomSerf.titleShort>крепостной</Cinder_MushroomSerf.titleShort>
+  <Cinder_MushroomSerf.description>[PAWN_nameDef] {PAWN_gender ? выращивал : выращивала} грибы на тёмной подземной ферме убежища, куда не проникал солнечный свет. Есть собственный урожай не разрешалось: грибы предназначались солдатам Совета обороны.\nПриходилось довольствоваться гнилостной питательной пастой. В случае смерти [PAWN_possessive] тело пошло бы на удобрение для новых грибов.</Cinder_MushroomSerf.description>
+  <Cinder_GestationPod.title>живой инкубатор</Cinder_GestationPod.title>
+  <Cinder_GestationPod.titleShort>инкубатор</Cinder_GestationPod.titleShort>
+  <Cinder_GestationPod.description>Совет обороны использовал [PAWN_objective] как живой инкубатор для воспроизводства населения.\nНа фабрике [PAWN_objective] принуждали к размножению с различными выдающимися солдатами. Когда война разрушила фабрику, удалось бежать.</Cinder_GestationPod.description>
+  <Cinder_HibernatingChild.title>ребёнок в гибернации</Cinder_HibernatingChild.title>
+  <Cinder_HibernatingChild.titleShort>в гибернации</Cinder_HibernatingChild.titleShort>
+  <Cinder_HibernatingChild.description>После катастрофы [PAWN_nameDef] {PAWN_gender ? был вынужден : была вынуждена} жить в бункере Совета обороны.\nТам пришлось научиться глотать питательную пасту из тараканов и мха без сахара. После болезни [PAWN_objective] бросили в капсулу гибернации и заморозили как запас пищи.</Cinder_HibernatingChild.description>
+  <Cinder_KitchenHelper.title>кухонный помощник</Cinder_KitchenHelper.title>
+  <Cinder_KitchenHelper.titleShort>помощник</Cinder_KitchenHelper.titleShort>
+  <Cinder_KitchenHelper.description>[PAWN_nameDef] {PAWN_gender ? помогал : помогала} готовить питательную пасту в бункере на территории Совета обороны. Сколько хватало памяти, почти вся жизнь прошла на этой вонючей кухне.\nРабота заключалась в том, чтобы грубо рубить мох, тараканов, дождевых червей, тела погибших солдат и детей, пытавшихся сбежать: так их было проще загружать в приёмный жёлоб системы питательной пасты.</Cinder_KitchenHelper.description>
+  <Cinder_ChildLabourer.title>малолетний рабочий убежища</Cinder_ChildLabourer.title>
+  <Cinder_ChildLabourer.titleShort>малолетний рабочий</Cinder_ChildLabourer.titleShort>
+  <Cinder_ChildLabourer.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище, где запрещали узнавать, кто были [PAWN_possessive] родители. Всё обучение с рождения сводилось к изготовлению компонентов на подземных станках. Солнечного света [PAWN_nameDef] никогда не {PAWN_gender ? видел : видела}.</Cinder_ChildLabourer.description>
+  <Cinder_Cleaner.title>чистильщик камер</Cinder_Cleaner.title>
+  <Cinder_Cleaner.titleShort>чистильщик</Cinder_Cleaner.titleShort>
+  <Cinder_Cleaner.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище Совета обороны. Образования не было — приходилось лишь выполнять приказы приставленных взрослых.\nВ перерывах между бомбардировками [PAWN_nameDef] {PAWN_gender ? выползал : выползала} на поверхность, чтобы очищать залитые кровью камеры. За хорошую работу могли наградить тарелкой сырых грибов.</Cinder_Cleaner.description>
+  <Cinder_Offspring.title>отпрыск чиновника</Cinder_Offspring.title>
+  <Cinder_Offspring.titleShort>наследник</Cinder_Offspring.titleShort>
+  <Cinder_Offspring.description>[PAWN_nameDef] {PAWN_gender ? был : была} ребёнком члена Совета обороны. С ранних лет были доступны привилегии, которых не было у других: довоенные продукты промышленного производства, кинозаписи и многое другое.\nРодители назначили [PAWN_objective] своим преемником. Но всё это не вызывало интереса: куда сильнее [PAWN_nameDef] {PAWN_gender ? увлекался : увлекалась} биологическими исследованиями.</Cinder_Offspring.description>
+  <Cinder_Traveler.title>пеший курьер</Cinder_Traveler.title>
+  <Cinder_Traveler.titleShort>курьер</Cinder_Traveler.titleShort>
+  <Cinder_Traveler.description>[PAWN_nameDef] всегда {PAWN_gender ? был уверен : была уверена} в своих ногах. Поэтому Совет обороны назначил [PAWN_objective] курьером, чтобы экономить драгоценный моторесурс транспорта.\nВажнейшие запчасти удавалось доставлять через ужасающие поля сражений. Так продолжалось долго, пока огромная фигура, вышедшая из дыма, и приближающиеся ракеты не разбили эту гордость.</Cinder_Traveler.description>
+  <Cinder_CleaningWorker.title>чистильщик труб</Cinder_CleaningWorker.title>
+  <Cinder_CleaningWorker.titleShort>чистильщик</Cinder_CleaningWorker.titleShort>
+  <Cinder_CleaningWorker.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в старом бункере Совета обороны. Детей там посылали в тесные трубы выполнять нехитрую прочистку. Нередко приходилось вытаскивать друзей, ещё недавно полных жизни, или изменников, зажаренных раскалёнными трубами.\nТак продолжалось, пока [PAWN_nameDef] не {PAWN_gender ? выполз : выползла} по трубопроводу в прежде невиданное место — «наружу».</Cinder_CleaningWorker.description>
+  <Cinder_GhoulHunter.title>охотник на гулей</Cinder_GhoulHunter.title>
+  <Cinder_GhoulHunter.titleShort>охотник на гулей</Cinder_GhoulHunter.titleShort>
+  <Cinder_GhoulHunter.description>Чрезвычайное управление экономической безопасности управляло гулями через DI и часто отправляло их зачищать подземные сооружения от выживших. Они были самыми бесчеловечными из его творений.\nСовет обороны подготовил охотников специально для борьбы с гулями, и [PAWN_nameDef] {PAWN_gender ? был одним : была одной} из них. Предстояло сражаться с гулями до тех пор, пока не придёт черёд самому охотнику стать одним из них.</Cinder_GhoulHunter.description>
+  <Cinder_FleeingEngineer.title>инженер в бегах</Cinder_FleeingEngineer.title>
+  <Cinder_FleeingEngineer.titleShort>инженер</Cinder_FleeingEngineer.titleShort>
+  <Cinder_FleeingEngineer.description>До захвата бункера [PAWN_nameDef] {PAWN_gender ? был : была} военным инженером-механиком.\nЗатем началась бесконечная жизнь в укрытиях, пока [PAWN_objective] и [PAWN_possessive] робота-спутника не захватило подразделение гулей.</Cinder_FleeingEngineer.description>
+  <Cinder_Porter.title>заводской грузчик</Cinder_Porter.title>
+  <Cinder_Porter.titleShort>грузчик</Cinder_Porter.titleShort>
+  <Cinder_Porter.description>[PAWN_nameDef] уже не {PAWN_gender ? помнил : помнила}, когда началась работа по переноске боеприпасов на конвейере подземного завода Совета обороны.\n[PAWN_possessive] щупальца переделали в прочные грузовые рамы, изо дня в день без конца переносившие боеприпасы для военных машин.</Cinder_Porter.description>
+  <Cinder_Follower.title>сторонник подполья</Cinder_Follower.title>
+  <Cinder_Follower.titleShort>подпольщик</Cinder_Follower.titleShort>
+  <Cinder_Follower.description>Во время службы в войсках Совета обороны [PAWN_nameDef] {PAWN_gender ? потерял : потеряла} всех товарищей. Душевная травма оказалась настолько тяжёлой, что взять в руки оружие больше не удавалось.\nПризнав [PAWN_objective] бесполезным бойцом, начальство отправило [PAWN_objective] в трудовую тюрьму. Там нашлась запрещённая подпольная литература. После знакомства с ней [PAWN_nameDef] {PAWN_gender ? задумал : задумала} масштабное восстание и массовый побег.</Cinder_Follower.description>
+  <Cinder_HolySon.title>святое дитя культа</Cinder_HolySon.title>
+  <Cinder_HolySon.titleShort>святое дитя</Cinder_HolySon.titleShort>
+  <Cinder_HolySon.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище Совета обороны, которым управлял культ. Отец занимал высокий пост в убежище, а мать, обезумевшая от жестокой войны, примкнула к культу.\nКультисты почитали [PAWN_objective] как «Святое дитя» и привлекали к зловещим кровавым обрядам, молясь о прекращении войны. Их жестокость довела [PAWN_objective] до безумия. Но даже когда всех принесли в жертву во время кровавого ритуала, ничего не произошло.</Cinder_HolySon.description>
+  <Cinder_CultChild.title>беглец из культа</Cinder_CultChild.title>
+  <Cinder_CultChild.titleShort>дитя культа</Cinder_CultChild.titleShort>
+  <Cinder_CultChild.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище Совета обороны, которым управлял культ. Своих родителей [PAWN_nameDef] не {PAWN_gender ? знал : знала}; всё детство прошло под влиянием культистов.\nНо когда кровавые обряды стали непрерывными, инстинкт самосохранения пересилил: [PAWN_nameDef] в страхе {PAWN_gender ? сбежал : сбежала} из убежища.</Cinder_CultChild.description>
+  <Cinder_Fanatic.title>фанатик культа</Cinder_Fanatic.title>
+  <Cinder_Fanatic.titleShort>фанатик</Cinder_Fanatic.titleShort>
+  <Cinder_Fanatic.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище Совета обороны, которым управлял культ. Преданность культу была безграничной: казалось, что именно жертвоприношения вернули ногу, повреждённую гранатой.\nНо [PAWN_nameDef] не {PAWN_gender ? понимал : понимала}, что исцеление произошло благодаря собственной способности к регенерации.</Cinder_Fanatic.description>
+  <Cinder_ChosenOne.title>избранник культа</Cinder_ChosenOne.title>
+  <Cinder_ChosenOne.titleShort>избранник</Cinder_ChosenOne.titleShort>
+  <Cinder_ChosenOne.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище культа, действовавшего под властью Совета обороны. Культисты выбрали [PAWN_objective] для приёма странных сывороток, обещавших просветление.\nПолученные необычные способности стали предметом гордости — до тех пор, пока [PAWN_nameDef] не {PAWN_gender ? увидел : увидела}, как изготавливали эти снадобья.</Cinder_ChosenOne.description>
+  <Cinder_SadBeliever.title>сломленный верующий</Cinder_SadBeliever.title>
+  <Cinder_SadBeliever.titleShort>скорбящий</Cinder_SadBeliever.titleShort>
+  <Cinder_SadBeliever.description>[PAWN_nameDef] {PAWN_gender ? растил : растила} детей в одиночку. Поиски припасов в заброшенных зданиях оставляли руки и ноги израненными, но простую жизнь всё же удавалось поддерживать. Её разрушил незнакомый «грипп».\nДетей охватила сильная лихорадка. Все скромные сбережения ушли на врачей, но дети всё равно умирали один за другим.\nКогда последний ребёнок умер на руках, [PAWN_nameDef] {PAWN_gender ? лишился : лишилась} рассудка. Вскоре культисты из бункера убедили [PAWN_objective], что изменить этот скорбный мир могли лишь кровавые жертвы.</Cinder_SadBeliever.description>
+  <Cinder_EscapeBeliever.title>уклонист в культе</Cinder_EscapeBeliever.title>
+  <Cinder_EscapeBeliever.titleShort>уклонист</Cinder_EscapeBeliever.titleShort>
+  <Cinder_EscapeBeliever.description>[PAWN_nameDef] {PAWN_gender ? должен был : должна была} отправиться на войну по призыву. Но, заблудившись, [PAWN_nameDef] {PAWN_gender ? забрёл : забрела} на кухню убежища и {PAWN_gender ? увидел : увидела} расчленённые тела погибших солдат.\nУжас перед войной оказался столь силён, что пришлось подделать возраст и скрыться в культе, где никто из знакомых не смог бы найти [PAWN_objective].</Cinder_EscapeBeliever.description>
+  <Cinder_Priest.title>жрец культа</Cinder_Priest.title>
+  <Cinder_Priest.titleShort>жрец</Cinder_Priest.titleShort>
+  <Cinder_Priest.description>[PAWN_nameDef] {PAWN_gender ? был : была} младшим командиром Совета обороны и долго {PAWN_gender ? сражался : сражалась} с нечеловеческими легионами под управлением DI. После провальной операции [PAWN_objective] сделали козлом отпущения. Потеряв веру во всё, [PAWN_nameDef] тайно {PAWN_gender ? вступил : вступила} в недавно возникшую ветвь местного культа.\nКогда прежнего жреца принесли в кровавую жертву, его место досталось [PAWN_nameDef].</Cinder_Priest.description>
+  <Cinder_CrazyBeliever.title>обезумевший верующий</Cinder_CrazyBeliever.title>
+  <Cinder_CrazyBeliever.titleShort>безумец</Cinder_CrazyBeliever.titleShort>
+  <Cinder_CrazyBeliever.description>[PAWN_nameDef] {PAWN_gender ? родился : родилась} в убежище Совета обороны, которым управлял культ. Когда-то [PAWN_objective] использовали как живой инкубатор. Во время налёта Чрезвычайного управления экономической безопасности [PAWN_nameDef] и [PAWN_possessive] младенец оказались под завалами.\nК тому времени, когда их нашли, младенец уже умер от болезни. В безумии [PAWN_nameDef] {PAWN_gender ? пожертвовал : пожертвовала} культу собственную руку в обмен на жизнь ребёнка. Но взамен досталась лишь тряпичная кукла.</Cinder_CrazyBeliever.description>
+  <Cinder_ArchiveGuard.title>страж архива</Cinder_ArchiveGuard.title>
+  <Cinder_ArchiveGuard.titleShort>страж</Cinder_ArchiveGuard.titleShort>
+  <Cinder_ArchiveGuard.description>[PAWN_nameDef] {PAWN_gender ? охранял : охраняла} документы в библиотеке бункера Совета обороны. Эту работу должны были выполнять взрослые, но всех взрослых убежища отправили на войну. Читать документы запрещалось, однако любопытство взяло верх.\nСреди них нашлась довоенная критика тоталитарных государств. Даже самые страшные режимы прошлого показались идеальным устройством общества. Так [PAWN_nameDef] {PAWN_gender ? начал : начала} задумываться о том, что вообще можно считать правильным.</Cinder_ArchiveGuard.description>
+  <Cinder_UndergroundAgitator.title>подпольный агитатор</Cinder_UndergroundAgitator.title>
+  <Cinder_UndergroundAgitator.titleShort>активист</Cinder_UndergroundAgitator.titleShort>
+  <Cinder_UndergroundAgitator.description>Пережив жестокую войну и по-настоящему осмыслив происходящее, [PAWN_nameDef] больше не {PAWN_gender ? верил : верила} в чудовищную власть Совета обороны, бросавшего все силы на бессмысленную войну. [PAWN_nameDef] {PAWN_gender ? начал : начала} тайно переписывать статьи и распространять запрещённые тексты среди жителей убежища.\n[PAWN_nameDef] {PAWN_gender ? был уверен : была уверена}, что сумеет сделать больше безликих бюрократов. Всё больше людей начинали помогать [PAWN_objective].</Cinder_UndergroundAgitator.description>
+  <Cinder_BulkProducts.title>серийный продукт</Cinder_BulkProducts.title>
+  <Cinder_BulkProducts.titleShort>серийный продукт</Cinder_BulkProducts.titleShort>
+  <Cinder_BulkProducts.description>[PAWN_nameDef] {PAWN_gender ? был : была} ребёнком, произведённым на фабрике посредством массового ЭКО. В отличие от клонирования, этот метод позволял сохранять генетическое разнообразие.\nОбычно детям внедряли боевые воспоминания и черты личности, готовя их к разным профессиям. Но [PAWN_nameDef] никогда ни с кем не {PAWN_gender ? общался : общалась}.</Cinder_BulkProducts.description>
+  <Cinder_CoreChildren.title>ребёнок центральной зоны</Cinder_CoreChildren.title>
+  <Cinder_CoreChildren.titleShort>дитя центра</Cinder_CoreChildren.titleShort>
+  <Cinder_CoreChildren.description>[PAWN_nameDef] {PAWN_gender ? жил : жила} в центральной зоне под защитой DI. Детство почти не отличалось от довоенной жизни.\nНо любопытство не давало покоя: [PAWN_nameDef] часто {PAWN_gender ? пробирался : пробиралась} к границам зоны и однажды {PAWN_gender ? увидел : увидела} настоящий мир. Разум не выдержал этой реальности. DI взял сознание под управление, погрузив [PAWN_objective] в ласковый Долгий сон.</Cinder_CoreChildren.description>
+  <Cinder_VehicleOperator.title>водитель машины снабжения</Cinder_VehicleOperator.title>
+  <Cinder_VehicleOperator.titleShort>«газетчик»</Cinder_VehicleOperator.titleShort>
+  <Cinder_VehicleOperator.description>Сколько хватало памяти, [PAWN_nameDef] {PAWN_gender ? развозил : развозила} газеты на велосипеде, раскладывая их по почтовым ящикам на улицах и в переулках. Как досталась эта работа, уже не вспоминалось. Было ясно лишь одно: ежедневный труд так утомлял, что на игры со сверстниками времени не оставалось.\nОднако те, кто не погрузился в Долгий сон, видели совсем другое: [PAWN_nameDef] {PAWN_gender ? вёл : вела} грузовик с продовольствием через траншеи.</Cinder_VehicleOperator.description>
+  <Cinder_LivingDoll.title>живая кукла</Cinder_LivingDoll.title>
+  <Cinder_LivingDoll.titleShort>«юный кумир»</Cinder_LivingDoll.titleShort>
+  <Cinder_LivingDoll.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} всеобщим кумиром и ежедневно {PAWN_gender ? выступал : выступала} на сцене долгие часы.\nВ действительности DI назначил [PAWN_objective] живым манекеном вместо пластиковой фигуры на витрине. [PAWN_possessive] тело искусственно довели до совершенства, а работать заставляли по десять часов в день.</Cinder_LivingDoll.description>
+  <Cinder_Collector.title>сборщик генетического материала</Cinder_Collector.title>
+  <Cinder_Collector.titleShort>«сборщица грибов»</Cinder_Collector.titleShort>
+  <Cinder_Collector.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? собирал : собирала} грибы в лесах и горах, а затем {PAWN_gender ? обменивал : обменивала} их на вкусную еду.\nВ действительности, пока сознанием управлял DI, военные использовали [PAWN_objective] для сбора высококачественного генетического материала у других людей, обеспечивая биологическими ресурсами тыловые фабрики.</Cinder_Collector.description>
+  <Cinder_HydroponicWorker.title>работник гидропонной фермы</Cinder_HydroponicWorker.title>
+  <Cinder_HydroponicWorker.titleShort>«рабочий»</Cinder_HydroponicWorker.titleShort>
+  <Cinder_HydroponicWorker.description>[PAWN_nameDef] {PAWN_gender ? работал : работала} на гидропонной ферме центральной зоны. Ферма входила в систему экологического круговорота и снабжала пищевую фабрику сырьём. [PAWN_nameDef] часто {PAWN_gender ? жаловался : жаловалась}, что зарплата была ниже, чем у других.\nНо всё это было лишь симуляцией, построенной на [PAWN_possessive] воспоминаниях.</Cinder_HydroponicWorker.description>
+  <Cinder_Technician.title>техник военного завода</Cinder_Technician.title>
+  <Cinder_Technician.titleShort>«мастер»</Cinder_Technician.titleShort>
+  <Cinder_Technician.description>«Мастер» — так окружающие называли [PAWN_objective], и это было едва ли не высшей похвалой работе. В Долгом сне [PAWN_nameDef] {PAWN_gender ? наслаждался : наслаждалась} чувством выполненного долга.\nВ действительности [PAWN_nameDef] {PAWN_gender ? изготавливал : изготавливала} оружие и боеприпасы обожжёнными щупальцами для DI Чрезвычайного управления экономической безопасности.</Cinder_Technician.description>
+  <Cinder_DataUnit.title>блок обработки данных</Cinder_DataUnit.title>
+  <Cinder_DataUnit.titleShort>«чиновник»</Cinder_DataUnit.titleShort>
+  <Cinder_DataUnit.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} государственным чиновником. Опираясь на прежние воспоминания, [PAWN_nameDef] {PAWN_gender ? отдавал : отдавала} распоряжения и {PAWN_gender ? поддерживал : поддерживала} нормальную работу страны.\nВ действительности [PAWN_possessive] мозг помогал DI обрабатывать нескончаемый поток сведений с полей сражений.</Cinder_DataUnit.description>
+  <Cinder_Novelist.title>подпольный писатель</Cinder_Novelist.title>
+  <Cinder_Novelist.titleShort>писатель</Cinder_Novelist.titleShort>
+  <Cinder_Novelist.description>[PAWN_nameDef] неожиданно {PAWN_gender ? освободился : освободилась} от контроля DI и впервые {PAWN_gender ? осознал : осознала}, что сознание больше не спало.\nВосторг был так велик, что [PAWN_nameDef] {PAWN_gender ? схватил : схватила} обрывки документов и собственной кровью {PAWN_gender ? написал : написала} первое «произведение». Другим эти беспорядочные слова едва ли показались бы литературой, но в окрестном поселении [PAWN_possessive] сочинение стало самым востребованным повседневным чтением.</Cinder_Novelist.description>
+  <Cinder_Management.title>управляющий военным заводом</Cinder_Management.title>
+  <Cinder_Management.titleShort>«какао»</Cinder_Management.titleShort>
+  <Cinder_Management.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? управлял : управляла} сказочной шоколадной фабрикой, где иногда появлялись шоколадные чудовища, мешавшие работе конвейера.\nНо после пробуждения вокруг оказались лишь разбитая линия производства взрывчатки и разлагающиеся тела рабочих на полу.</Cinder_Management.description>
+  <Cinder_Loader.title>подносчик боеприпасов</Cinder_Loader.title>
+  <Cinder_Loader.titleShort>«мастер шкатулок»</Cinder_Loader.titleShort>
+  <Cinder_Loader.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} мастером, заводившим музыкальные шкатулки, и каждый день {PAWN_gender ? крутил : крутила} рукоятку.\nПосле пробуждения оказалось, что вокруг бушевал бой, а [PAWN_nameDef] {PAWN_gender ? набивал : набивала} патронами пулемётную ленту.</Cinder_Loader.description>
+  <Cinder_BreakthroughSoldier.title>боец прорыва</Cinder_BreakthroughSoldier.title>
+  <Cinder_BreakthroughSoldier.titleShort>«метатель диска»</Cinder_BreakthroughSoldier.titleShort>
+  <Cinder_BreakthroughSoldier.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} метателем диска и часто {PAWN_gender ? бросал : бросала} его в мишень на арене.\nВ действительности [PAWN_nameDef] {PAWN_gender ? носил : носила} тяжёлую броню и после прорыва вражеской обороны {PAWN_gender ? метал : метала} кумулятивные бомбы с близкого расстояния.</Cinder_BreakthroughSoldier.description>
+  <Cinder_ExoskeletonDriver.title>пилот экзоскелета</Cinder_ExoskeletonDriver.title>
+  <Cinder_ExoskeletonDriver.titleShort>«оператор»</Cinder_ExoskeletonDriver.titleShort>
+  <Cinder_ExoskeletonDriver.description>[PAWN_nameDef] {PAWN_gender ? помнил : помнила} себя оператором строительной техники: каждый день приходилось управлять дробилкой в шахте.\nВ действительности DI назначил [PAWN_objective] пилотом боевого экзоскелета. Для поддержания сознания вводили чрезмерные дозы веществ, вызывавших зависимость. [PAWN_nameDef] {PAWN_gender ? был : была} частью бронированного потока, штурмовавшего сухопутные корабли противника.</Cinder_ExoskeletonDriver.description>
+  <Cinder_SpecialEngineeringForces.title>боец инженерного спецподразделения</Cinder_SpecialEngineeringForces.title>
+  <Cinder_SpecialEngineeringForces.titleShort>«дирижёр»</Cinder_SpecialEngineeringForces.titleShort>
+  <Cinder_SpecialEngineeringForces.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} дирижёром оркестра и постоянно {PAWN_gender ? руководил : руководила} музыкантами в концертном зале.\nВ действительности [PAWN_nameDef] {PAWN_gender ? управлял : управляла} развёртыванием турельной техники. При приближении к передовой [PAWN_objective] часто десантировали на поле боя со штурмовых кораблей.</Cinder_SpecialEngineeringForces.description>
+  <Cinder_SweeperOperator.title>оператор зенитной машины</Cinder_SweeperOperator.title>
+  <Cinder_SweeperOperator.titleShort>«водитель уборщика»</Cinder_SweeperOperator.titleShort>
+  <Cinder_SweeperOperator.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? водил : водила} уборочную машину по улицам. Скучная работа не особенно нравилась: машина часто убирала плохо, и приходилось снова и снова сдавать назад.\nВ действительности [PAWN_nameDef] {PAWN_gender ? управлял : управляла} тяжёлой машиной, применявшейся для противовоздушной обороны и зачистки поля боя. Среди сложных укреплений действительно было непросто зачистить каждого пехотинца.</Cinder_SweeperOperator.description>
+  <Cinder_AttackerOperator.title>оператор штурмовой машины</Cinder_AttackerOperator.title>
+  <Cinder_AttackerOperator.titleShort>«пожарный»</Cinder_AttackerOperator.titleShort>
+  <Cinder_AttackerOperator.description>[PAWN_nameDef] {PAWN_gender ? был : была} пожарным, и работы всегда было невпроворот. Удовольствие от неё никогда не вызывало сомнений: бегать среди ночи, смотреть, как страницы книг обращаются в пепел…\nВ действительности [PAWN_nameDef] {PAWN_gender ? управлял : управляла} боевыми машинами, выпускавшими ракеты «Адское пламя» для уничтожения тяжёлой бронетехники и укреплений.</Cinder_AttackerOperator.description>
+  <Cinder_Garrison.title>боец гарнизона</Cinder_Garrison.title>
+  <Cinder_Garrison.titleShort>«пугало»</Cinder_Garrison.titleShort>
+  <Cinder_Garrison.description>Неизвестно, когда это началось, но [PAWN_nameDef] всё время {PAWN_gender ? стоял : стояла} на этом поле. Обязанностью было отпугивать вредителей и защищать урожай. Иногда неподалёку появлялись дети, махавшие [PAWN_objective].\nВ ответ [PAWN_nameDef] инстинктивно {PAWN_gender ? махал : махала} обожжёнными руками и {PAWN_gender ? улыбался : улыбалась}, так и не понимая, что видимые вредители на самом деле были вражескими солдатами.</Cinder_Garrison.description>
+  <Cinder_Recovery.title>боец эвакуационного подразделения</Cinder_Recovery.title>
+  <Cinder_Recovery.titleShort>«рыбак пустыни»</Cinder_Recovery.titleShort>
+  <Cinder_Recovery.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} рыбаком и часто {PAWN_gender ? выходил : выходила} в море на промысел. После пробуждения в памяти осталось множество навыков рыбной ловли и управления лодками.\nНо рядом с рыбной фабрикой, где прежде {PAWN_gender ? жил : жила} [PAWN_nameDef], не было моря — лишь бескрайняя пустыня.</Cinder_Recovery.description>
+  <Cinder_Santa.title>оператор управления огнём</Cinder_Santa.title>
+  <Cinder_Santa.titleShort>«Санта»</Cinder_Santa.titleShort>
+  <Cinder_Santa.description>В Долгом сне [PAWN_nameDef] часто {PAWN_gender ? развозил : развозила} подарки по окрестным поселениям. После пробуждения [PAWN_nameDef] {PAWN_gender ? хвастался : хвасталась}, что, словно Санта-Клаус, {PAWN_gender ? доставлял : доставляла} подарки всем вокруг.\nНо [PAWN_nameDef] не {PAWN_gender ? знал : знала}, что на самом деле {PAWN_gender ? служил : служила} оператором управления огнём на наземном штурмовом корабле, а «подарки» были бомбами.</Cinder_Santa.description>
+  <Cinder_GhoulUnitA.title>боец подразделения гулей</Cinder_GhoulUnitA.title>
+  <Cinder_GhoulUnitA.titleShort>«хирург»</Cinder_GhoulUnitA.titleShort>
+  <Cinder_GhoulUnitA.description>В Долгом сне, пока сознание находилось под чужим управлением, [PAWN_nameDef] {PAWN_gender ? был : была} искусным хирургом и ловко {PAWN_gender ? орудовал : орудовала} скальпелем, помогая пациентам.\nНо в действительности не было тел, нуждавшихся в лечении. После пробуждения [PAWN_nameDef] {PAWN_gender ? обнаружил : обнаружила} себя на поле боя, рассекая ультразвуковой косой гниющую плоть врагов.</Cinder_GhoulUnitA.description>
+  <Cinder_GhoulUnitB.title>боец подразделения гулей</Cinder_GhoulUnitB.title>
+  <Cinder_GhoulUnitB.titleShort>«горничная»</Cinder_GhoulUnitB.titleShort>
+  <Cinder_GhoulUnitB.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был : была} горничной и каждый день тщательно {PAWN_gender ? убирал : убирала} комнату, не оставляя ни соринки. Работа приносила удовлетворение: никто не убирал лучше.\nВ действительности [PAWN_nameDef] {PAWN_gender ? был : была} гулем ближнего боя на передовой и {PAWN_gender ? участвовал : участвовала} в масштабных зачистках, уничтожая всё живое в каждой траншее.</Cinder_GhoulUnitB.description>
+  <Cinder_GhoulUnitC.title>боец подразделения гулей</Cinder_GhoulUnitC.title>
+  <Cinder_GhoulUnitC.titleShort>«танцор»</Cinder_GhoulUnitC.titleShort>
+  <Cinder_GhoulUnitC.description>В Долгом сне [PAWN_nameDef] {PAWN_gender ? был танцором, мечтавшим : была танцовщицей, мечтавшей} о славе. День за днём перед стройными рядами зрителей повторялись механические выступления — великолепные, но неизменные танцевальные движения.\nВ действительности [PAWN_nameDef] {PAWN_gender ? сражался : сражалась} на передовой в ближнем бою, убивая щупальцами каждого врага.</Cinder_GhoulUnitC.description>
+  <Cinder_MortarOperator.title>миномётчик</Cinder_MortarOperator.title>
+  <Cinder_MortarOperator.titleShort>миномётчик</Cinder_MortarOperator.titleShort>
+  <Cinder_MortarOperator.description>В Долгом сне [PAWN_nameDef] часто {PAWN_gender ? играл : играла} с детьми в «Ударь крота», нанося быстрые и точные удары.\nВ действительности [PAWN_nameDef] {PAWN_gender ? управлял : управляла} миномётом, выпуская снаряды, превращавшие в пепел вражеские позиции и всё живое.</Cinder_MortarOperator.description>
 </LanguageData>
