@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: caseless bullet -->
-  <Cinder_Bullet_FGS.label>caseless bullet</Cinder_Bullet_FGS.label>
+  <Cinder_Bullet_FGS.label>безгильзовая пуля</Cinder_Bullet_FGS.label>
   <!-- EN: fume greatsword -->
-  <Cinder_FumeGreatsword.label>fume greatsword</Cinder_FumeGreatsword.label>
+  <Cinder_FumeGreatsword.label>дымный двуручный меч</Cinder_FumeGreatsword.label>
   <!-- EN: A comprehensive weapon platform designed for combat in space environments. It utilizes specialized caseless ammunition and features a rudimentary targeting system within the weapon body, driven by amorphous polymer, which automatically aligns the weapon with targets. Tentacles near the muzzle can activate to transform the entire weapon into a large sword for use. -->
-  <Cinder_FumeGreatsword.description>A comprehensive weapon platform designed for combat in space environments. It utilizes specialized caseless ammunition and features a rudimentary targeting system within the weapon body, driven by amorphous polymer, which automatically aligns the weapon with targets. Tentacles near the muzzle can activate to transform the entire weapon into a large sword for use.</Cinder_FumeGreatsword.description>
+  <Cinder_FumeGreatsword.description>Универсальная оружейная платформа для боя в космосе. Использует специальные безгильзовые боеприпасы. В корпус встроена простая система наведения с приводом от аморфного полимера, автоматически направляющая оружие на цели. Активация щупалец у дула превращает оружие в большой меч.</Cinder_FumeGreatsword.description>
   <!-- EN: greatsword -->
-  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.0>greatsword</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.0>двуручный меч</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: fume -->
-  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.1>fume</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.1>дым</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: Huge sword -->
-  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.2>Huge sword</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.2>огромный меч</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: Epee -->
-  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.3>Epee</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.3>шпага</Cinder_FumeGreatsword.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: tentacle blade -->
-  <Cinder_FumeGreatsword.tools.tentacle_blade.label>tentacle blade</Cinder_FumeGreatsword.tools.tentacle_blade.label>
+  <Cinder_FumeGreatsword.tools.tentacle_blade.label>лезвие щупальца</Cinder_FumeGreatsword.tools.tentacle_blade.label>
   <!-- EN: tentacle point -->
-  <Cinder_FumeGreatsword.tools.tentacle_point.label>tentacle point</Cinder_FumeGreatsword.tools.tentacle_point.label>
+  <Cinder_FumeGreatsword.tools.tentacle_point.label>остриё щупальца</Cinder_FumeGreatsword.tools.tentacle_point.label>
   <!-- EN: fume greatsword -->
-  <Cinder_FumeGreatsword.verbs.Verb_Shoot.label>fume greatsword</Cinder_FumeGreatsword.verbs.Verb_Shoot.label>
+  <Cinder_FumeGreatsword.verbs.Verb_Shoot.label>дымный двуручный меч</Cinder_FumeGreatsword.verbs.Verb_Shoot.label>
   <!-- EN: fume greatsword -->
-  <Cinder_FumeGreatswordM.label>fume greatsword</Cinder_FumeGreatswordM.label>
+  <Cinder_FumeGreatswordM.label>дымный двуручный меч</Cinder_FumeGreatswordM.label>
   <!-- EN: The Fume Greatsword with the tentacle blade activated. The gun body is now wrapped in hardened activated tentacles, functioning as a sharp greatsword. -->
-  <Cinder_FumeGreatswordM.description>The Fume Greatsword with the tentacle blade activated. The gun body is now wrapped in hardened activated tentacles, functioning as a sharp greatsword.</Cinder_FumeGreatswordM.description>
+  <Cinder_FumeGreatswordM.description>Дымный двуручный меч с активированным щупальцевым лезвием. Корпус оружия оплетён затвердевшими активированными щупальцами и служит острым двуручным мечом.</Cinder_FumeGreatswordM.description>
   <!-- EN: greatsword -->
-  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>greatsword</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>двуручный меч</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: fume -->
-  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.1>fume</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.1>дым</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: Huge sword -->
-  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.2>Huge sword</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.2>огромный меч</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: Epee -->
-  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.3>Epee</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.3>шпага</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: tentacle blade -->
-  <Cinder_FumeGreatswordM.tools.tentacle_blade.label>tentacle blade</Cinder_FumeGreatswordM.tools.tentacle_blade.label>
+  <Cinder_FumeGreatswordM.tools.tentacle_blade.label>лезвие щупальца</Cinder_FumeGreatswordM.tools.tentacle_blade.label>
   <!-- EN: tentacle point -->
-  <Cinder_FumeGreatswordM.tools.tentacle_point.label>tentacle point</Cinder_FumeGreatswordM.tools.tentacle_point.label>
+  <Cinder_FumeGreatswordM.tools.tentacle_point.label>остриё щупальца</Cinder_FumeGreatswordM.tools.tentacle_point.label>
 </LanguageData>
