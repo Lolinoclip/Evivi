@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Tentacle activation -->
+  <Cinder_ActivateTentaclesDuration.label>Tentacle activation</Cinder_ActivateTentaclesDuration.label>
+  <!-- EN: Remaining time for activation of amorphous polymers. -->
+  <Cinder_ActivateTentaclesDuration.description>Remaining time for activation of amorphous polymers.</Cinder_ActivateTentaclesDuration.description>
+</LanguageData>
