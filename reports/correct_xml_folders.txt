@@ -1,0 +1,72 @@
+Репозиторий: Lolinoclip/Evivi, ветка: definjected-en-to-ru
+Путь: <язык>/DefInjected/
+
+Ключи en относительно zh
+
+1.  AbilityDef — Совпадают полностью.
+2.  BackstoryDef — По просмотренным фрагментам недостающих ключей в en не обнаружено. Полное совпадение не подтверждено из-за обрезки выгрузок.
+3.  BodyDef — Все ключи zh присутствуют в en. В Bodies_Mechanoid.xml имеется 1 дополнительный ключ: Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-4.customLabel.
+4.  BodyPartDef — Совпадают полностью.
+5.  BossgroupDef — Совпадают полностью.
+6.  CultureDef — Совпадают полностью.
+7.  DamageDef — Совпадают полностью.
+8.  Embergarden.Storytelling.EmberDialogueDef — Совпадают полностью.
+9.  FactionDef — Совпадают полностью.
+10. GeneDef — Совпадают полностью.
+11. HairDef — Совпадают полностью.
+12. HediffDef — Не совпадают. В en отсутствует 1 ключ в HediffDef.xml: Cinder_NeuralCrystallizationDissociation.labelNoun. Дополнительно в en имеется Hediff_Crush.xml с 2 ключами, отсутствующими в zh.
+13. JobDef — Совпадают полностью.
+14. MentalStateDef — Совпадают полностью.
+15. PawnKindDef — Совпадают полностью.
+16. PawnRenderTreeDef — Совпадают полностью.
+17. QuestScriptDef — XML-ключи совпадают полностью, но в одном блоке rulesStrings различается имя вложенного правила. Подробности в примечании.
+18. RecipeDef — Не совпадают. В en отсутствует 1 ключ в Recipes_MechResurrection.xml: Cinder_ResurrectUltraheavyMech.jobString. Дополнительно в zh имеются 24 CE-файла, содержимое которых не проверялось.
+19. ResearchProjectDef — Совпадают полностью, включая имена и количество вложенных правил.
+20. ResearchTabDef — Совпадают полностью.
+21. RulePackDef — Совпадают полностью, включая имена вложенных правил, количество вхождений, веса и состав ссылок.
+22. ScenarioDef — Совпадают полностью на уровне папки. В en ключи распределены по 2 файлам, в zh находятся в одном.
+23. StorytellerDef — Совпадают полностью.
+24. StyleItemCategoryDef — Совпадают полностью.
+25. TerrainDef — Совпадают полностью.
+26. ThingCategoryDef — Совпадают полностью.
+27. ThingDef — Не совпадают. В en отсутствуют 27 явно обозначенных CE-ключей в проверенных файлах, 1 ключ в MeleeIndustrial.xml и 4 ключа в RangedIndustrial.xml без явного обозначения CE. Итого отсутствуют 32 ключа, из них 5 без явного обозначения CE. Дополнительно 2 ключа имеются только в en в Weapon_Mech.xml. Отдельные 24 CE-файла zh не проверялись.
+28. ThinkTreeDef — Не совпадают. В en отсутствуют 3 ключа в TurretWalker.xml.
+29. ThoughtDef — Совпадают полностью.
+30. TraderKindDef — Совпадают полностью.
+31. TraitDef — Совпадают полностью.
+32. VFECore.Abilities.AbilityDef — Все ключи zh присутствуют в en. Дополнительно в en имеются Cinder_ErosionSkip.label и Cinder_ErosionSkip.description.
+33. WeaponTraitDef — Совпадают полностью.
+34. WorkGiverDef — Совпадают полностью.
+35. XenotypeDef — Совпадают полностью.
+
+Примечания:
+
+1. Всего обнаружено 10 ключей без явного обозначения CE, отсутствующих в en относительно zh: HediffDef — 1, RecipeDef — 1, ThingDef — 5, ThinkTreeDef — 3. Их **критичность** не установлена: соответствие текущим Defs, патчам и коду, а также применение в игре не проверялись.
+
+2. В ScenarioDef английский Scenarios_Cinder.xml содержит 12 ключей, Scenarios_Cinder_Biotech.xml — ещё 4. В китайском Scenarios_Cinder.xml находятся все 16 ключей. Наборы ключей папки совпадают, дубликатов нет.
+
+3. В ThingDef английский AbilityDef_Projectiles.xml и китайский AbilityDef.xml содержат один и тот же ключ Cinder_ProjErodedBomb.label. Различаются имена файлов, но не набор ключей.
+
+4. В QuestScriptDef различие находится в блоке questNameRules, а не questDescriptionRules.
+
+В en:
+
+  <Cinder_Boss.questNameRules.rulesStrings>
+    <li>questName->bossgroup</li>
+  </Cinder_Boss.questNameRules.rulesStrings>
+
+В zh:
+
+  <Cinder_Boss.questNameRules.rulesStrings>
+    <li>questDescription->boss波次</li>
+  </Cinder_Boss.questNameRules.rulesStrings>
+
+Имя вложенного правила различается: questName в en и questDescription в zh. В блоке questDescriptionRules имя правила совпадает в обоих языках.
+
+5. В китайском ThingDef/Weapon_Mounted.xml дважды записан ключ Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label. В английском файле он записан один раз.
+
+6. Ключи под комментариями UNUSED учитывались, если сами XML-элементы не были закомментированы. Это относится в том числе к четырём отсутствующим в en ключам .tools.muzzle.label в RangedIndustrial.xml и одному ключу с subNodes.7 в ThinkTreeDef/TurretWalker.xml.
+
+7. Вне проверки остались отдельные CE-файлы RecipeDef и ThingDef, а также две папки, присутствующие только в zh: CombatExtended.AmmoCategoryDef и CombatExtended.AmmoSetDef.
+
+8. BackstoryDef требует завершения полной сверки: ранее заявленный окончательный вердикт о полном покрытии ключей был недостаточно подтверждён из-за обрезки файлов.

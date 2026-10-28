@@ -1,0 +1,50 @@
+Репозиторий: Lolinoclip/Evivi, ветка: definjected-en-to-ru
+Путь: <язык>/DefInjected/
+Содержимое папок не просматривалось (кроме TraitDef в предыдущем ответе).
+
+Папок в English/DefInjected: 35
+Папок в ChineseSimplified (简体中文)/DefInjected: 37
+Общих: 35
+Только в китайской: CombatExtended.AmmoCategoryDef, CombatExtended.AmmoSetDef
+Только в английской: нет
+
+№   Папка                                           English   Chinese   
+1   AbilityDef                                      да        да        
+2   BackstoryDef                                    да        да        
+3   BodyDef                                         да        да        
+4   BodyPartDef                                     да        да        
+5   BossgroupDef                                    да        да        
+6   CombatExtended.AmmoCategoryDef                  НЕТ       да        
+7   CombatExtended.AmmoSetDef                       НЕТ       да        
+8   CultureDef                                      да        да        
+9   DamageDef                                       да        да        
+10  Embergarden.Storytelling.EmberDialogueDef       да        да        
+11  FactionDef                                      да        да        
+12  GeneDef                                         да        да        
+13  HairDef                                         да        да        
+14  HediffDef                                       да        да        
+15  JobDef                                         да        да        
+16  MentalStateDef                                  да        да        
+17  PawnKindDef                                     да        да        
+18  PawnRenderTreeDef                               да        да        
+19  QuestScriptDef                                  да        да        
+20  RecipeDef                                       да        да        
+21  ResearchProjectDef                              да        да        
+22  ResearchTabDef                                  да        да        
+23  RulePackDef                                     да        да        
+24  ScenarioDef                                     да        да        
+25  StorytellerDef                                  да        да        
+26  StyleItemCategoryDef                            да        да        
+27  TerrainDef                                      да        да        
+28  ThingCategoryDef                                да        да        
+29  ThingDef                                        да        да        
+30  ThinkTreeDef                                    да        да        
+31  ThoughtDef                                      да        да        
+32  TraderKindDef                                   да        да        
+33  TraitDef                                        да        да        
+34  VFECore.Abilities.AbilityDef                    да        да        
+35  WeaponTraitDef                                  да        да        
+36  WorkGiverDef                                    да        да        
+37  XenotypeDef                                     да        да        
+
+Примечание: CE (Combat Extended) не в приоритете.

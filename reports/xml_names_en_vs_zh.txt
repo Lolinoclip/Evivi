@@ -1,0 +1,48 @@
+СВЕРКА XML-ФАЙЛОВ: English/DefInjected vs ChineseSimplified (简体中文)/DefInjected
+Репозиторий: Lolinoclip/Evivi, ветка definjected-en-to-ru
+
+№   Папка                                         EN   ZH  Статус        Расхождения
+--------------------------------------------------------------------------------------------------------------
+1   AbilityDef                                     2    2  OK            
+2   BackstoryDef                                   1    1  OK            
+3   BodyDef                                        2    2  OK            
+4   BodyPartDef                                    1    1  OK            
+5   BossgroupDef                                   1    1  OK            
+6   CultureDef                                     1    1  OK            
+7   DamageDef                                      2    2  OK            
+8   Embergarden.Storytelling.EmberDialogueDef      1    1  OK            
+9   FactionDef                                     2    2  OK            
+10  GeneDef                                        1    1  OK            
+11  HairDef                                        1    1  OK            
+12  HediffDef                                      3    2  РАЗНИЦА       Только EN: Hediff_Crush.xml
+13  JobDef                                         1    1  OK            
+14  MentalStateDef                                 1    1  OK            
+15  PawnKindDef                                    8    8  OK            
+16  PawnRenderTreeDef                              3    3  OK            
+17  QuestScriptDef                                 1    1  OK            
+18  RecipeDef                                      3   27  РАЗНИЦА (CE)  Только ZH: 24 файла Combat Extended (патроны/оружие), в т.ч. '5x50mmCaseless (1).xml' с '(1)' в имени
+19  ResearchProjectDef                             1    1  OK            
+20  ResearchTabDef                                 1    1  OK            
+21  RulePackDef                                    2    2  OK            
+22  ScenarioDef                                    2    1  РАЗНИЦА       Только EN: Scenarios_Cinder_Biotech.xml
+23  StorytellerDef                                 1    1  OK            
+24  StyleItemCategoryDef                           1    1  OK            
+25  TerrainDef                                     1    1  OK            
+26  ThingCategoryDef                               1    1  OK            
+27  ThingDef                                      27   51  РАЗНИЦА       Только EN: AbilityDef_Projectiles.xml | Только ZH: AbilityDef.xml + 24 файла CE
+28  ThinkTreeDef                                   1    1  OK            
+29  ThoughtDef                                     2    2  OK            
+30  TraderKindDef                                  1    1  OK            
+31  TraitDef                                       1    1  OK            
+32  VFECore.Abilities.AbilityDef                   1    1  OK            
+33  WeaponTraitDef                                 1    1  OK            
+34  WorkGiverDef                                   1    1  OK            
+35  XenotypeDef                                    1    1  OK            
+
+Папки только в ZH (CE, не в приоритете): CombatExtended.AmmoCategoryDef, CombatExtended.AmmoSetDef (содержимое не сверялось)
+
+ИТОГ: 35 общих папок; полностью совпадают 31; различаются 4 (HediffDef, RecipeDef, ScenarioDef, ThingDef). Плюс 2 CE-папки есть только в ZH.
+Без учёта CE реальные расхождения: HediffDef (Hediff_Crush.xml), ScenarioDef (Scenarios_Cinder_Biotech.xml), ThingDef (AbilityDef_Projectiles.xml в EN vs AbilityDef.xml в ZH).
+
+CE-файлы только в ZH (RecipeDef): 12.7x108mmSoviet, 127x55mm, 14.5x114mmSoviet, 303British, 44Magnum, 45ACP, 46x30mm, 473x33mmCaseless, 50BMG, 545x39mmSoviet, 556x45mmNATO, 58x42mmDBP10, 5x50mmCaseless (1), 762x39mmSoviet, 762x51mmNATO, 762x54mmR, 81mmMortar, 9x19mmPara, AntiMateriel, Pistol, PistolMagnum, PlasticExplosives, Rifle, RifleIntermediate
+Различие ThingDef-CE: те же файлы, но '5x50mmCaseless.xml' (без '(1)').

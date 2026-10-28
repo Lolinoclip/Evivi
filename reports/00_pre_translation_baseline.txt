@@ -1,0 +1,179 @@
+ОТЧЁТ 0 — БАЗА ПЕРЕД ПЕРЕВОДОМ
+МЕТКА ДЛЯ БУДУЩЕГО ЧТЕНИЯ И СВЕРКИ
+
+При продолжении перевода сначала прочитать этот файл.
+Это согласованная база после сверки ключей, до дальнейшего перевода.
+Контрольный коммит исправлений: 26f781d2f7060b7d79b52fdb5e980d9453e22715.
+Три соседних исходных отчёта сохранены полностью как исторические
+материалы. Их прежние списки пропусков не применять повторно:
+актуальные решения и исключения приведены в настоящем отчёте 0.
+Будущие изменения сверять с этой базой и актуальным состоянием ветки.
+
+ИТОГОВЫЙ ОТЧЁТ ПО СВЕРКЕ ПЕРЕВОДА CINDERS OF EMBERGARDEN
+Дата: 29.10.2026
+Репозиторий: Lolinoclip/Evivi
+Ветка: definjected-en-to-ru
+
+1. ОБЪЁМ И УСЛОВИЯ
+
+Объединены и актуализированы результаты:
+- folders_en_vs_zh.txt — структура папок;
+- xml_names_en_vs_zh.txt — состав XML-файлов;
+- correct_xml_folders.txt — ключи перевода.
+
+Сравнивались English/DefInjected и
+ChineseSimplified (简体中文)/DefInjected.
+
+Китайский перевод принят как база сравнения: по сообщению
+владельца проекта, он лично проверен и полностью покрывает мод.
+Дополнительные ключи только в EN недостатком не считаются.
+Отдельный полный проход Defs → EN исключён по решению владельца.
+Combat Extended (CE) вынесен за пределы основного объёма.
+
+2. СТРУКТУРА ПАПОК И XML
+
+Папок: EN — 35, ZH — 37, общих — 35.
+Только в ZH:
+- CombatExtended.AmmoCategoryDef;
+- CombatExtended.AmmoSetDef.
+
+Состав имён XML совпадает в 31 из 35 общих папок.
+Различия в остальных четырёх:
+
+- HediffDef: Hediff_Crush.xml есть только в EN.
+  Дополнительное покрытие, изменений не требуется.
+
+- RecipeDef: EN — 3 файла, ZH — 27.
+  Разница — 24 CE-файла.
+
+- ScenarioDef: EN — 2 файла, ZH — 1.
+  Наборы совпадают: 16 ключей; в EN распределены как 12 + 4.
+
+- ThingDef: EN — 27 файлов, ZH — 51.
+  AbilityDef_Projectiles.xml в EN и AbilityDef.xml в ZH
+  содержат одинаковый ключ Cinder_ProjErodedBomb.label.
+  Остальная разница — 24 CE-файла.
+
+Различия имён и распределения файлов вне CE не оказались
+пропусками перевода.
+
+3. РЕЗУЛЬТАТЫ СВЕРКИ КЛЮЧЕЙ
+
+Первоначально найдено 10 отсутствующих в EN ключей без явного
+обозначения CE. После проверки приняты следующие решения.
+
+ДОБАВЛЕНЫ — 3:
+
+1) Cinder_ResurrectUltraheavyMech.jobString
+   Значение: Resurrecting mech.
+   Поле подтверждено у родителя BaseMechanoidResurrectionRecipe.
+
+2–3) Два crawlingReportStringOverride в TurretWalker.xml.
+   Значения: Crawling to safety. / Crawling to bed.
+   Пути сопоставлены с узлами поддерева Downed.
+   Добавлены по решению владельца; применение в игре
+   отдельно не подтверждалось.
+
+НЕ ДОБАВЛЕНЫ — 7:
+
+- Cinder_NeuralCrystallizationDissociation.labelNoun:
+  в предоставленном Def нет labelNoun и ParentName.
+
+- Cinder_ElectricScythe.tools.handle.label:
+  в Def заданы point и edge, оба покрыты EN;
+  проверенная цепочка родителей handle не добавляет.
+
+- Четыре tools.muzzle.label у Cinder_Flint50A,
+  Cinder_Magistrate, Cinder_MP12A и Cinder_PCX33A:
+  в Def заданы stock и barrel, оба покрыты EN;
+  проверенные родители muzzle не добавляют.
+
+- Старый reportStringOverride через subNodes.7:
+  не соответствует текущему дереву турели.
+  Актуальный путь через subNodes.9 уже есть в EN.
+
+Выводы по оружию относятся к проверенным Def и наследованию,
+без проверки сторонних патчей совместимости.
+
+4. ОСТАЛЬНЫЕ КАТЕГОРИИ
+
+Совпадение ключей EN/ZH установлено для:
+AbilityDef, BodyPartDef, BossgroupDef, CultureDef, DamageDef,
+Embergarden.Storytelling.EmberDialogueDef, FactionDef, GeneDef,
+HairDef, JobDef, MentalStateDef, PawnKindDef, PawnRenderTreeDef,
+ResearchProjectDef, ResearchTabDef, RulePackDef, StorytellerDef,
+StyleItemCategoryDef, TerrainDef, ThingCategoryDef, ThoughtDef,
+TraderKindDef, TraitDef, WeaponTraitDef, WorkGiverDef, XenotypeDef.
+
+В ResearchProjectDef и RulePackDef также сверены вложенные
+правила; в RulePackDef — их вхождения, веса и ссылки.
+
+BodyDef и VFECore.Abilities.AbilityDef покрывают все ключи ZH,
+при этом содержат дополнительные записи EN.
+
+Дополнительные записи EN сохранены:
+- BodyDef — 1 customLabel;
+- Hediff_Crush.xml — 2 ключа;
+- ThingDef/Weapon_Mech.xml — 2 ключа;
+- Cinder_ErosionSkip.label и .description — 2 ключа.
+
+BackstoryDef:
+по прочитанным фрагментам пропусков не найдено, но полное
+совпадение не подтверждено из-за обрезки больших выгрузок.
+Повторная проверка отклонена владельцем; это ограничение,
+а не установленный дефект.
+
+5. QUESTSCRIPTDEF И ПРОЧИЕ НАБЛЮДЕНИЯ
+
+Cinder_Boss полностью сверен с оригиналом без обрезки:
+3 блока rulesStrings, 6 правил questContentRules и 6 полей root.
+Пропусков EN не обнаружено.
+
+В questNameRules:
+- оригинал и EN: questName->bossgroup;
+- ZH: questDescription->boss波次.
+
+EN соответствует оригиналу; исправление не требуется.
+
+В ZH дважды записан:
+Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label
+В EN он записан один раз. Дубликат не переносился.
+
+6. COMBAT EXTENDED — ВНЕ ОСНОВНОГО ОБЪЁМА
+
+Зафиксированы:
+- 27 отсутствующих в EN CE-ключей в просмотренных ThingDef;
+- 24 отдельных CE-файла RecipeDef только в ZH;
+- 24 отдельных CE-файла ThingDef только в ZH;
+- 2 CE-папки только в ZH.
+
+Содержимое отдельных CE-файлов и двух папок не сверялось.
+Поэтому 27 — не общее число всех недостающих CE-ключей.
+
+Также отмечено различие имён:
+RecipeDef/5x50mmCaseless (1).xml
+ThingDef/5x50mmCaseless.xml
+
+7. ВНЕСЁННЫЕ ИЗМЕНЕНИЯ И ИТОГ
+
+Коммит:
+26f781d2f7060b7d79b52fdb5e980d9453e22715
+
+Сообщение:
+Add missing resurrection and crawling translation keys
+
+Изменены:
+- English/DefInjected/RecipeDef/Recipes_MechResurrection.xml:
+  добавлен 1 ключ jobString.
+- English/DefInjected/ThinkTreeDef/TurretWalker.xml:
+  добавлены 2 ключа ползания.
+
+Состав коммита проверен: 2 файла, 3 добавленные строки,
+без удалений и изменений существующих строк.
+
+Согласованный этап завершён. По первоначальным 10 кандидатам
+решения приняты; дополнительных обязательных исправлений
+в рассмотренном не-CE-объёме не установлено.
+
+Запуск игры после коммита исполнителем не выполнялся.
+Проверка CE в итоговое заключение не входит.
