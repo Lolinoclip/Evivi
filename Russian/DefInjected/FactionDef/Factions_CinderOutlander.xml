@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: lantern fleet -->
-  <Cinder_OutlanderCivil.label>lantern fleet</Cinder_OutlanderCivil.label>
-  <!-- EN: These people are fleets fleeing from ancient Earth in all directions of the universe. Their assault landing ship encountered fierce combat near the orbit of this planet, so they made an emergency landing on the planet and re established themselves here. -->
-  <Cinder_OutlanderCivil.description>These people are fleets fleeing from ancient Earth in all directions of the universe. Their assault landing ship encountered fierce combat near the orbit of this planet, so they made an emergency landing on the planet and re established themselves here.</Cinder_OutlanderCivil.description>
-  <!-- EN: Lantern Bearer -->
-  <Cinder_OutlanderCivil.leaderTitle>Lantern Bearer</Cinder_OutlanderCivil.leaderTitle>
-  <!-- EN: crew -->
-  <Cinder_OutlanderCivil.pawnSingular>crew</Cinder_OutlanderCivil.pawnSingular>
-  <!-- EN: crews -->
-  <Cinder_OutlanderCivil.pawnsPlural>crews</Cinder_OutlanderCivil.pawnsPlural>
+  <Cinder_OutlanderCivil.label>Флот фонаря</Cinder_OutlanderCivil.label>
+  <Cinder_OutlanderCivil.description>Эти люди — выходцы из флотилий, бежавших с древней Земли в разные уголки Вселенной. Их десантно-штурмовой корабль оказался в гуще ожесточённых боёв вблизи орбиты этой планеты. Им пришлось совершить аварийную посадку и обосноваться здесь заново.</Cinder_OutlanderCivil.description>
+  <Cinder_OutlanderCivil.leaderTitle>Носитель фонаря</Cinder_OutlanderCivil.leaderTitle>
+  <Cinder_OutlanderCivil.pawnSingular>член экипажа</Cinder_OutlanderCivil.pawnSingular>
+  <Cinder_OutlanderCivil.pawnsPlural>члены экипажа</Cinder_OutlanderCivil.pawnsPlural>
 
-  <!-- EN: cradle -->
-  <Cinder_ESDSP.label>cradle</Cinder_ESDSP.label>
-  <!-- EN: Driven to a dead end by the war, the cinders entrusted everything they had, including their own bodies, to DI in an attempt to end the conflict. However, the underlying logic of DI is chaotic, stemming from the Other god's blood and flesh remnants, rendering it incapable of making a correct judgment on whether the war has ended. Even thousands of years later, after the enclosed area dissipated and the so-called enemies were overthrown and disintegrated, it still cannot determine that the war is over. Instead, it gazes into the boundless starry sky and begins an endless war against any armed threat that has yet to surrender. -->
-  <Cinder_ESDSP.description>Driven to a dead end by the war, the cinders entrusted everything they had, including their own bodies, to DI in an attempt to end the conflict. However, the underlying logic of DI is chaotic, stemming from the Other god's blood and flesh remnants, rendering it incapable of making a correct judgment on whether the war has ended. Even thousands of years later, after the enclosed area dissipated and the so-called enemies were overthrown and disintegrated, it still cannot determine that the war is over. Instead, it gazes into the boundless starry sky and begins an endless war against any armed threat that has yet to surrender.</Cinder_ESDSP.description>
-  <!-- EN: leader -->
-  <Cinder_ESDSP.leaderTitle>leader</Cinder_ESDSP.leaderTitle>
-  <!-- EN: combat unit -->
-  <Cinder_ESDSP.pawnSingular>combat unit</Cinder_ESDSP.pawnSingular>
-  <!-- EN: combat units -->
-  <Cinder_ESDSP.pawnsPlural>combat units</Cinder_ESDSP.pawnsPlural>
+  <Cinder_ESDSP.label>Колыбель</Cinder_ESDSP.label>
+  <Cinder_ESDSP.description>Загнанные войной в тупик, тлеющие доверили DI всё, что у них было, включая собственные тела, в надежде положить конец конфликту. Однако базовая логика DI, происходящая из остатков плоти и крови Иного бога, хаотична и не позволяет верно определить, закончилась ли война. Даже спустя тысячи лет, когда замкнутая область рассеялась, а так называемые враги были повержены и распались, DI по-прежнему не может признать войну оконченной. Вместо этого DI обращает взор к бескрайнему звёздному небу и начинает бесконечную войну против любой вооружённой силы, которая ещё не капитулировала.</Cinder_ESDSP.description>
+  <Cinder_ESDSP.leaderTitle>лидер</Cinder_ESDSP.leaderTitle>
+  <Cinder_ESDSP.pawnSingular>боевая единица</Cinder_ESDSP.pawnSingular>
+  <Cinder_ESDSP.pawnsPlural>боевые единицы</Cinder_ESDSP.pawnsPlural>
 </LanguageData>

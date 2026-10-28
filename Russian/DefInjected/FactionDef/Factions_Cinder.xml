@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: new site -->
-  <Cinder_PlayerFaction.label>new site</Cinder_PlayerFaction.label>
-  <!-- EN: A newly established fleet supply station. -->
-  <Cinder_PlayerFaction.description>A newly established fleet supply station.</Cinder_PlayerFaction.description>
-  <!-- EN: leader -->
-  <Cinder_PlayerFaction.leaderTitle>leader</Cinder_PlayerFaction.leaderTitle>
-  <!-- EN: Colonist -->
-  <Cinder_PlayerFaction.pawnSingular>Colonist</Cinder_PlayerFaction.pawnSingular>
-  <!-- EN: Colonist -->
-  <Cinder_PlayerFaction.pawnsPlural>Colonist</Cinder_PlayerFaction.pawnsPlural>
+  <Cinder_PlayerFaction.label>новое поселение</Cinder_PlayerFaction.label>
+  <Cinder_PlayerFaction.description>Недавно основанная станция снабжения флота.</Cinder_PlayerFaction.description>
+  <Cinder_PlayerFaction.leaderTitle>лидер</Cinder_PlayerFaction.leaderTitle>
+  <Cinder_PlayerFaction.pawnSingular>колонист</Cinder_PlayerFaction.pawnSingular>
+  <Cinder_PlayerFaction.pawnsPlural>колонисты</Cinder_PlayerFaction.pawnsPlural>
 
-  <!-- EN: new site -->
-  <Cinder_PlayerFactionB.label>new site</Cinder_PlayerFactionB.label>
-  <!-- EN: An attacked convoy. -->
-  <Cinder_PlayerFactionB.description>An attacked convoy.</Cinder_PlayerFactionB.description>
-  <!-- EN: leader -->
-  <Cinder_PlayerFactionB.leaderTitle>leader</Cinder_PlayerFactionB.leaderTitle>
-  <!-- EN: Colonist -->
-  <Cinder_PlayerFactionB.pawnSingular>Colonist</Cinder_PlayerFactionB.pawnSingular>
-  <!-- EN: Colonist -->
-  <Cinder_PlayerFactionB.pawnsPlural>Colonist</Cinder_PlayerFactionB.pawnsPlural>
+  <Cinder_PlayerFactionB.label>новое поселение</Cinder_PlayerFactionB.label>
+  <Cinder_PlayerFactionB.description>Конвой, подвергшийся нападению.</Cinder_PlayerFactionB.description>
+  <Cinder_PlayerFactionB.leaderTitle>лидер</Cinder_PlayerFactionB.leaderTitle>
+  <Cinder_PlayerFactionB.pawnSingular>колонист</Cinder_PlayerFactionB.pawnSingular>
+  <Cinder_PlayerFactionB.pawnsPlural>колонисты</Cinder_PlayerFactionB.pawnsPlural>
 </LanguageData>
