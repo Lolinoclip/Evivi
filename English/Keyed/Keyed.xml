@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Cinder_Setting>amorphous ember</Cinder_Setting>
 	<!-- EN: {0} has appeared! -->
@@ -11,5 +11,12 @@
   <Cinder_NeedResurrectOrRegen>People with amorphous regeneration ability are required to use it</Cinder_NeedResurrectOrRegen>
   <Cinder_AllAbilityGained>Already acquired all abilities</Cinder_AllAbilityGained>
   <Embergarden_PlatingTooltip>Remaining armor</Embergarden_PlatingTooltip>
-</LanguageData>
 
+  <Stat_ThingUniqueWeaponTrait_Label>Traits</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Desc>This weapon's individual traits.</Stat_ThingUniqueWeaponTrait_Desc>
+  <WeaponTraits>Weapon traits</WeaponTraits>
+  <StatsReport_WeaponTraits>Weapon traits</StatsReport_WeaponTraits>
+  <StatsReport_BurstShotCountMultiplier>Burst shot count multiplier</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>Fire rate multiplier</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_AdditionalStoppingPower>Stopping power offset</StatsReport_AdditionalStoppingPower>
+</LanguageData>
