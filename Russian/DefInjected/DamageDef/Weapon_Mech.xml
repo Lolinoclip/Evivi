@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: cut -->
-  <Cider_Cut.label>cut</Cider_Cut.label>
+  <Cider_Cut.label>порез</Cider_Cut.label>
   <!-- EN: {0} has been cut to death. -->
-  <Cider_Cut.deathMessage>{0} has been cut to death.</Cider_Cut.deathMessage>
+  <Cider_Cut.deathMessage>{0}: смерть от порезов.</Cider_Cut.deathMessage>
   <!-- EN: cut -->
-  <Cider_CutB.label>cut</Cider_CutB.label>
+  <Cider_CutB.label>порез</Cider_CutB.label>
   <!-- EN: {0} has been cut to death. -->
-  <Cider_CutB.deathMessage>{0} has been cut to death.</Cider_CutB.deathMessage>
+  <Cider_CutB.deathMessage>{0}: смерть от порезов.</Cider_CutB.deathMessage>
   <!-- EN: bullet -->
-  <Cider_ErosionBullet.label>bullet</Cider_ErosionBullet.label>
+  <Cider_ErosionBullet.label>пуля</Cider_ErosionBullet.label>
   <!-- EN: {0} has been shot to death. -->
-  <Cider_ErosionBullet.deathMessage>{0} has been shot to death.</Cider_ErosionBullet.deathMessage>
+  <Cider_ErosionBullet.deathMessage>{0}: смерть от огнестрельных ранений.</Cider_ErosionBullet.deathMessage>
   <!-- EN: bomb -->
-  <Cinder_Bomb.label>bomb</Cinder_Bomb.label>
+  <Cinder_Bomb.label>бомба</Cinder_Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Cinder_Bomb.deathMessage>{0} has died in an explosion.</Cinder_Bomb.deathMessage>
+  <Cinder_Bomb.deathMessage>{0}: смерть от взрыва.</Cinder_Bomb.deathMessage>
   <!-- EN: bomb -->
-  <Cinder_BombB.label>bomb</Cinder_BombB.label>
+  <Cinder_BombB.label>бомба</Cinder_BombB.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Cinder_BombB.deathMessage>{0} has died in an explosion.</Cinder_BombB.deathMessage>
+  <Cinder_BombB.deathMessage>{0}: смерть от взрыва.</Cinder_BombB.deathMessage>
   <!-- EN: bomb -->
-  <Cinder_BombC.label>bomb</Cinder_BombC.label>
+  <Cinder_BombC.label>бомба</Cinder_BombC.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Cinder_BombC.deathMessage>{0} has died in an explosion.</Cinder_BombC.deathMessage>
+  <Cinder_BombC.deathMessage>{0}: смерть от взрыва.</Cinder_BombC.deathMessage>
   <!-- EN: bomb -->
-  <Cinder_BombD.label>bomb</Cinder_BombD.label>
+  <Cinder_BombD.label>бомба</Cinder_BombD.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Cinder_BombD.deathMessage>{0} has died in an explosion.</Cinder_BombD.deathMessage>
+  <Cinder_BombD.deathMessage>{0}: смерть от взрыва.</Cinder_BombD.deathMessage>
 </LanguageData>
