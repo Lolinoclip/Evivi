@@ -1,101 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: cinder -->
-  <Cinder.label>cinder</Cinder.label>
-  <!-- EN: left lung -->
-  <Cinder.corePart.parts.left_lung.customLabel>left lung</Cinder.corePart.parts.left_lung.customLabel>
-  <!-- EN: right lung -->
-  <Cinder.corePart.parts.right_lung.customLabel>right lung</Cinder.corePart.parts.right_lung.customLabel>
-  <!-- EN: left kidney -->
-  <Cinder.corePart.parts.left_kidney.customLabel>left kidney</Cinder.corePart.parts.left_kidney.customLabel>
-  <!-- EN: right kidney -->
-  <Cinder.corePart.parts.right_kidney.customLabel>right kidney</Cinder.corePart.parts.right_kidney.customLabel>
-  <!-- EN: left eye -->
-  <Cinder.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Cinder.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
-  <!-- EN: right eye -->
-  <Cinder.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Cinder.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
-  <!-- EN: left ear -->
-  <Cinder.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</Cinder.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
-  <!-- EN: right ear -->
-  <Cinder.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</Cinder.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
-  <!-- EN: left shoulder -->
-  <Cinder.corePart.parts.left_shoulder.customLabel>left shoulder</Cinder.corePart.parts.left_shoulder.customLabel>
-  <!-- EN: left clavicle -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>left clavicle</Cinder.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
-  <!-- EN: left arm -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.customLabel>left arm</Cinder.corePart.parts.left_shoulder.parts.left_arm.customLabel>
-  <!-- EN: left humerus -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>left humerus</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
-  <!-- EN: left radius -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>left radius</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
-  <!-- EN: left hand -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>left hand</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
-  <!-- EN: left pinky -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>left pinky</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
-  <!-- EN: left ring finger -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>left ring finger</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
-  <!-- EN: left middle finger -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>left middle finger</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
-  <!-- EN: left index finger -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>left index finger</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
-  <!-- EN: left thumb -->
-  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>left thumb</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
-  <!-- EN: right shoulder -->
-  <Cinder.corePart.parts.right_shoulder.customLabel>right shoulder</Cinder.corePart.parts.right_shoulder.customLabel>
-  <!-- EN: right clavicle -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>right clavicle</Cinder.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
-  <!-- EN: right arm -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.customLabel>right arm</Cinder.corePart.parts.right_shoulder.parts.right_arm.customLabel>
-  <!-- EN: right humerus -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>right humerus</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
-  <!-- EN: right radius -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>right radius</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
-  <!-- EN: right hand -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>right hand</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
-  <!-- EN: right pinky -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>right pinky</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
-  <!-- EN: right ring finger -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>right ring finger</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
-  <!-- EN: right middle finger -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>right middle finger</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
-  <!-- EN: right index finger -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>right index finger</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
-  <!-- EN: right thumb -->
-  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>right thumb</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
-  <!-- EN: left leg -->
-  <Cinder.corePart.parts.left_leg.customLabel>left leg</Cinder.corePart.parts.left_leg.customLabel>
-  <!-- EN: left femur -->
-  <Cinder.corePart.parts.left_leg.parts.left_femur.customLabel>left femur</Cinder.corePart.parts.left_leg.parts.left_femur.customLabel>
-  <!-- EN: left tibia -->
-  <Cinder.corePart.parts.left_leg.parts.left_tibia.customLabel>left tibia</Cinder.corePart.parts.left_leg.parts.left_tibia.customLabel>
-  <!-- EN: left foot -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Cinder.corePart.parts.left_leg.parts.left_foot.customLabel>
-  <!-- EN: left little toe -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>left little toe</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
-  <!-- EN: left fourth toe -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>left fourth toe</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
-  <!-- EN: left middle toe -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>left middle toe</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
-  <!-- EN: left second toe -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>left second toe</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
-  <!-- EN: left big toe -->
-  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>left big toe</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
-  <!-- EN: right leg -->
-  <Cinder.corePart.parts.right_leg.customLabel>right leg</Cinder.corePart.parts.right_leg.customLabel>
-  <!-- EN: right femur -->
-  <Cinder.corePart.parts.right_leg.parts.right_femur.customLabel>right femur</Cinder.corePart.parts.right_leg.parts.right_femur.customLabel>
-  <!-- EN: right tibia -->
-  <Cinder.corePart.parts.right_leg.parts.right_tibia.customLabel>right tibia</Cinder.corePart.parts.right_leg.parts.right_tibia.customLabel>
-  <!-- EN: right foot -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Cinder.corePart.parts.right_leg.parts.right_foot.customLabel>
-  <!-- EN: right little toe -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>right little toe</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
-  <!-- EN: right fourth toe -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>right fourth toe</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
-  <!-- EN: right middle toe -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>right middle toe</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
-  <!-- EN: right second toe -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>right second toe</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
-  <!-- EN: right big toe -->
-  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>right big toe</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <Cinder.label>тлеющий</Cinder.label>
+  <Cinder.corePart.parts.left_lung.customLabel>левое лёгкое</Cinder.corePart.parts.left_lung.customLabel>
+  <Cinder.corePart.parts.right_lung.customLabel>правое лёгкое</Cinder.corePart.parts.right_lung.customLabel>
+  <Cinder.corePart.parts.left_kidney.customLabel>левая почка</Cinder.corePart.parts.left_kidney.customLabel>
+  <Cinder.corePart.parts.right_kidney.customLabel>правая почка</Cinder.corePart.parts.right_kidney.customLabel>
+  <Cinder.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>левый глаз</Cinder.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <Cinder.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>правый глаз</Cinder.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <Cinder.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>левое ухо</Cinder.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <Cinder.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>правое ухо</Cinder.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <Cinder.corePart.parts.left_shoulder.customLabel>левое плечо</Cinder.corePart.parts.left_shoulder.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>левая ключица</Cinder.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.customLabel>левая рука</Cinder.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>левая плечевая кость</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>левое предплечье</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>левая кисть</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>мизинец левой руки</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>безымянный палец левой руки</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>средний палец левой руки</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>указательный палец левой руки</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>большой палец левой руки</Cinder.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Cinder.corePart.parts.right_shoulder.customLabel>правое плечо</Cinder.corePart.parts.right_shoulder.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>правая ключица</Cinder.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.customLabel>правая рука</Cinder.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>правая плечевая кость</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>правое предплечье</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>правая кисть</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>мизинец правой руки</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>безымянный палец правой руки</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>средний палец правой руки</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>указательный палец правой руки</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>большой палец правой руки</Cinder.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Cinder.corePart.parts.left_leg.customLabel>левая нога</Cinder.corePart.parts.left_leg.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_femur.customLabel>левое бедро</Cinder.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_tibia.customLabel>левая голень</Cinder.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.customLabel>левая стопа</Cinder.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>мизинец левой ноги</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>безымянный палец левой ноги</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>средний палец левой ноги</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>указательный палец левой ноги</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>большой палец левой ноги</Cinder.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Cinder.corePart.parts.right_leg.customLabel>правая нога</Cinder.corePart.parts.right_leg.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_femur.customLabel>правое бедро</Cinder.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_tibia.customLabel>правая голень</Cinder.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.customLabel>правая стопа</Cinder.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>мизинец правой ноги</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>безымянный палец правой ноги</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>средний палец правой ноги</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>указательный палец правой ноги</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>большой палец правой ноги</Cinder.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
 </LanguageData>

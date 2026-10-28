@@ -1,143 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: bipedal exo walker -->
-  <Cinder_ErodedEXO.label>bipedal exo walker</Cinder_ErodedEXO.label>
-  <!-- EN: left sight sensor -->
-  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>left sight sensor</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
-  <!-- EN: right sight sensor -->
-  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>right sight sensor</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
-  <!-- EN: left hearing sensor -->
-  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>left hearing sensor</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
-  <!-- EN: right hearing sensor -->
-  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>right hearing sensor</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
-  <!-- EN: left mechanical shoulder -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.customLabel>left mechanical shoulder</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.customLabel>
-  <!-- EN: left arm -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>left arm</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
-  <!-- EN: left hand -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>left hand</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
-  <!-- EN: left pinky -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>left pinky</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
-  <!-- EN: left middle finger -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>left middle finger</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
-  <!-- EN: left index finger -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>left index finger</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
-  <!-- EN: left thumb -->
-  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>left thumb</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
-  <!-- EN: right mechanical shoulder -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.customLabel>right mechanical shoulder</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.customLabel>
-  <!-- EN: right arm -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>right arm</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
-  <!-- EN: right hand -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>right hand</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
-  <!-- EN: right pinky -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>right pinky</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
-  <!-- EN: right middle finger -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>right middle finger</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
-  <!-- EN: right index finger -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>right index finger</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
-  <!-- EN: right thumb -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>right thumb</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.tentacle.customLabel>tentacle</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.tentacle.customLabel>
-  <!-- EN: left leg -->
-  <Cinder_ErodedEXO.corePart.parts.left_leg.customLabel>left leg</Cinder_ErodedEXO.corePart.parts.left_leg.customLabel>
-  <!-- EN: left foot -->
-  <Cinder_ErodedEXO.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Cinder_ErodedEXO.corePart.parts.left_leg.parts.left_foot.customLabel>
-  <!-- EN: right leg -->
-  <Cinder_ErodedEXO.corePart.parts.right_leg.customLabel>right leg</Cinder_ErodedEXO.corePart.parts.right_leg.customLabel>
-  <!-- EN: right foot -->
-  <Cinder_ErodedEXO.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Cinder_ErodedEXO.corePart.parts.right_leg.parts.right_foot.customLabel>
-  <!-- EN: left armour plate -->
-  <Cinder_ErodedEXO.corePart.parts.left_armour_plate.customLabel>left armour plate</Cinder_ErodedEXO.corePart.parts.left_armour_plate.customLabel>
-  <!-- EN: right armour plate -->
-  <Cinder_ErodedEXO.corePart.parts.right_armour_plate.customLabel>right armour plate</Cinder_ErodedEXO.corePart.parts.right_armour_plate.customLabel>
-  <!-- EN: forward armour plate -->
-  <Cinder_ErodedEXO.corePart.parts.forward_armour_plate.customLabel>forward armour plate</Cinder_ErodedEXO.corePart.parts.forward_armour_plate.customLabel>
-  <!-- EN: Eroded Krepost -->
-  <Cinder_ErodedKrepost.label>Eroded Krepost</Cinder_ErodedKrepost.label>
-  <!-- EN: left sight sensor -->
-  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>left sight sensor</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
-  <!-- EN: right sight sensor -->
-  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>right sight sensor</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
-  <!-- EN: left hearing sensor -->
-  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>left hearing sensor</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
-  <!-- EN: right hearing sensor -->
-  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>right hearing sensor</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
-  <!-- EN: Tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.customLabel>Tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-0.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-0.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-1.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-1.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-2.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-2.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-3.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-3.customLabel>
-  <!-- EN: Tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.customLabel>Tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-0.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-0.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-1.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-1.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-2.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-2.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-3.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-3.customLabel>
-  <!-- EN: tentacle -->
-  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-4.customLabel>tentacle</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-4.customLabel>
-  <!-- EN: left leg -->
-  <Cinder_ErodedKrepost.corePart.parts.left_leg.customLabel>left leg</Cinder_ErodedKrepost.corePart.parts.left_leg.customLabel>
-  <!-- EN: left foot -->
-  <Cinder_ErodedKrepost.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Cinder_ErodedKrepost.corePart.parts.left_leg.parts.left_foot.customLabel>
-  <!-- EN: right leg -->
-  <Cinder_ErodedKrepost.corePart.parts.right_leg.customLabel>right leg</Cinder_ErodedKrepost.corePart.parts.right_leg.customLabel>
-  <!-- EN: right foot -->
-  <Cinder_ErodedKrepost.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Cinder_ErodedKrepost.corePart.parts.right_leg.parts.right_foot.customLabel>
-  <!-- EN: left armour plate -->
-  <Cinder_ErodedKrepost.corePart.parts.left_armour_plate.customLabel>left armour plate</Cinder_ErodedKrepost.corePart.parts.left_armour_plate.customLabel>
-  <!-- EN: right armour plate -->
-  <Cinder_ErodedKrepost.corePart.parts.right_armour_plate.customLabel>right armour plate</Cinder_ErodedKrepost.corePart.parts.right_armour_plate.customLabel>
-  <!-- EN: forward armour plate -->
-  <Cinder_ErodedKrepost.corePart.parts.forward_armour_plate.customLabel>forward armour plate</Cinder_ErodedKrepost.corePart.parts.forward_armour_plate.customLabel>
-  <!-- EN: Turret walker -->
-  <Cinder_TurretWalker.label>Turret walker</Cinder_TurretWalker.label>
-  <!-- EN: Top arm connecting shaft -->
-  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>Top arm connecting shaft</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>
-  <!-- EN: Turret components -->
-  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>Turret components</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>
-  <!-- EN: left sight sensor -->
-  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>left sight sensor</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>
-  <!-- EN: right hearing sensor -->
-  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>right hearing sensor</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>
-  <!-- EN: left tentacle -->
-  <Cinder_TurretWalker.corePart.parts.left_tentacle.customLabel>left tentacle</Cinder_TurretWalker.corePart.parts.left_tentacle.customLabel>
-  <!-- EN: left rear tentacle -->
-  <Cinder_TurretWalker.corePart.parts.left_rear_tentacle.customLabel>left rear tentacle</Cinder_TurretWalker.corePart.parts.left_rear_tentacle.customLabel>
-  <!-- EN: right tentacle -->
-  <Cinder_TurretWalker.corePart.parts.right_tentacle.customLabel>right tentacle</Cinder_TurretWalker.corePart.parts.right_tentacle.customLabel>
-  <!-- EN: right rear tentacle -->
-  <Cinder_TurretWalker.corePart.parts.right_rear_tentacle.customLabel>right rear tentacle</Cinder_TurretWalker.corePart.parts.right_rear_tentacle.customLabel>
-  <!-- EN: left armour plate -->
-  <Cinder_TurretWalker.corePart.parts.left_armour_plate.customLabel>left armour plate</Cinder_TurretWalker.corePart.parts.left_armour_plate.customLabel>
-  <!-- EN: right armour plate -->
-  <Cinder_TurretWalker.corePart.parts.right_armour_plate.customLabel>right armour plate</Cinder_TurretWalker.corePart.parts.right_armour_plate.customLabel>
-  <!-- EN: forward armour plate -->
-  <Cinder_TurretWalker.corePart.parts.forward_armour_plate.customLabel>forward armour plate</Cinder_TurretWalker.corePart.parts.forward_armour_plate.customLabel>
-  <!-- EN: Turret walker -->
-  <Cinder_MiniTurretWalker.label>Turret walker</Cinder_MiniTurretWalker.label>
-  <!-- EN: Top arm connecting shaft -->
-  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>Top arm connecting shaft</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>
-  <!-- EN: Turret components -->
-  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>Turret components</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>
-  <!-- EN: left sight sensor -->
-  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>left sight sensor</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>
-  <!-- EN: right hearing sensor -->
-  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>right hearing sensor</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>
-  <!-- EN: frount tentacle -->
-  <Cinder_MiniTurretWalker.corePart.parts.frount_tentacle.customLabel>frount tentacle</Cinder_MiniTurretWalker.corePart.parts.frount_tentacle.customLabel>
-  <!-- EN: left rear tentacle -->
-  <Cinder_MiniTurretWalker.corePart.parts.left_rear_tentacle.customLabel>left rear tentacle</Cinder_MiniTurretWalker.corePart.parts.left_rear_tentacle.customLabel>
-  <!-- EN: right rear tentacle -->
-  <Cinder_MiniTurretWalker.corePart.parts.right_rear_tentacle.customLabel>right rear tentacle</Cinder_MiniTurretWalker.corePart.parts.right_rear_tentacle.customLabel>
+  <Cinder_ErodedEXO.label>двуногий экзошагоход</Cinder_ErodedEXO.label>
+  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>левый зрительный сенсор</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>правый зрительный сенсор</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>левый слуховой сенсор</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Cinder_ErodedEXO.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.customLabel>левое механическое плечо</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>левая рука</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>левая кисть</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>мизинец левой руки</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>средний палец левой руки</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>указательный палец левой руки</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>большой палец левой руки</Cinder_ErodedEXO.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.customLabel>правое механическое плечо</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>правая рука</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>правая кисть</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>мизинец правой руки</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>средний палец правой руки</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>указательный палец правой руки</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>большой палец правой руки</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.tentacle.customLabel>щупальце</Cinder_ErodedEXO.corePart.parts.right_mechanical_shoulder.parts.tentacle.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_leg.customLabel>левая нога</Cinder_ErodedEXO.corePart.parts.left_leg.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_leg.parts.left_foot.customLabel>левая стопа</Cinder_ErodedEXO.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_leg.customLabel>правая нога</Cinder_ErodedEXO.corePart.parts.right_leg.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_leg.parts.right_foot.customLabel>правая стопа</Cinder_ErodedEXO.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.left_armour_plate.customLabel>левая бронепластина</Cinder_ErodedEXO.corePart.parts.left_armour_plate.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.right_armour_plate.customLabel>правая бронепластина</Cinder_ErodedEXO.corePart.parts.right_armour_plate.customLabel>
+  <Cinder_ErodedEXO.corePart.parts.forward_armour_plate.customLabel>передняя бронепластина</Cinder_ErodedEXO.corePart.parts.forward_armour_plate.customLabel>
+  <Cinder_ErodedKrepost.label>искажённая «Крепость»</Cinder_ErodedKrepost.label>
+  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>левый зрительный сенсор</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>правый зрительный сенсор</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>левый слуховой сенсор</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Cinder_ErodedKrepost.corePart.parts.Cinder_ArmoredRing.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-0.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-0.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-1.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-1.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-2.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-2.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-3.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-0.parts.tentacle-3.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-0.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-0.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-1.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-1.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-2.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-2.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-3.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-3.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-4.customLabel>щупальце</Cinder_ErodedKrepost.corePart.parts.Tentacle-1.parts.tentacle-4.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.left_leg.customLabel>левая нога</Cinder_ErodedKrepost.corePart.parts.left_leg.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.left_leg.parts.left_foot.customLabel>левая стопа</Cinder_ErodedKrepost.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.right_leg.customLabel>правая нога</Cinder_ErodedKrepost.corePart.parts.right_leg.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.right_leg.parts.right_foot.customLabel>правая стопа</Cinder_ErodedKrepost.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.left_armour_plate.customLabel>левая бронепластина</Cinder_ErodedKrepost.corePart.parts.left_armour_plate.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.right_armour_plate.customLabel>правая бронепластина</Cinder_ErodedKrepost.corePart.parts.right_armour_plate.customLabel>
+  <Cinder_ErodedKrepost.corePart.parts.forward_armour_plate.customLabel>передняя бронепластина</Cinder_ErodedKrepost.corePart.parts.forward_armour_plate.customLabel>
+  <Cinder_TurretWalker.label>турельный шагоход</Cinder_TurretWalker.label>
+  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>соединительный вал верхнего манипулятора</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>
+  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>турельный узел</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>
+  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>левый зрительный сенсор</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>
+  <Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Cinder_TurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>
+  <Cinder_TurretWalker.corePart.parts.left_tentacle.customLabel>левое щупальце</Cinder_TurretWalker.corePart.parts.left_tentacle.customLabel>
+  <Cinder_TurretWalker.corePart.parts.left_rear_tentacle.customLabel>левое заднее щупальце</Cinder_TurretWalker.corePart.parts.left_rear_tentacle.customLabel>
+  <Cinder_TurretWalker.corePart.parts.right_tentacle.customLabel>правое щупальце</Cinder_TurretWalker.corePart.parts.right_tentacle.customLabel>
+  <Cinder_TurretWalker.corePart.parts.right_rear_tentacle.customLabel>правое заднее щупальце</Cinder_TurretWalker.corePart.parts.right_rear_tentacle.customLabel>
+  <Cinder_TurretWalker.corePart.parts.left_armour_plate.customLabel>левая бронепластина</Cinder_TurretWalker.corePart.parts.left_armour_plate.customLabel>
+  <Cinder_TurretWalker.corePart.parts.right_armour_plate.customLabel>правая бронепластина</Cinder_TurretWalker.corePart.parts.right_armour_plate.customLabel>
+  <Cinder_TurretWalker.corePart.parts.forward_armour_plate.customLabel>передняя бронепластина</Cinder_TurretWalker.corePart.parts.forward_armour_plate.customLabel>
+  <Cinder_MiniTurretWalker.label>турельный шагоход</Cinder_MiniTurretWalker.label>
+  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>соединительный вал верхнего манипулятора</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>турельный узел</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>левый зрительный сенсор</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.left_sight_sensor.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>правый слуховой сенсор</Cinder_MiniTurretWalker.corePart.parts.Top_arm_connecting_shaft.parts.Turret_components.parts.right_hearing_sensor.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.frount_tentacle.customLabel>переднее щупальце</Cinder_MiniTurretWalker.corePart.parts.frount_tentacle.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.left_rear_tentacle.customLabel>левое заднее щупальце</Cinder_MiniTurretWalker.corePart.parts.left_rear_tentacle.customLabel>
+  <Cinder_MiniTurretWalker.corePart.parts.right_rear_tentacle.customLabel>правое заднее щупальце</Cinder_MiniTurretWalker.corePart.parts.right_rear_tentacle.customLabel>
 </LanguageData>
