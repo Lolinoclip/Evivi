@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Application of polymer -->
-  <Cinder_Tab.label>Application of polymer</Cinder_Tab.label>
-  <!-- EN: Application of amorphous polymers -->
-  <Cinder_Tab.generalTitle>Application of amorphous polymers</Cinder_Tab.generalTitle>
-  <!-- EN: Investigation and study of the bizarre technologies from the ancient Earth's occlusion zones. -->
-  <Cinder_Tab.generalDescription>Investigation and study of the bizarre technologies from the ancient Earth's occlusion zones.</Cinder_Tab.generalDescription>
+  <Cinder_Tab.label>Применение полимера</Cinder_Tab.label>
+  <Cinder_Tab.generalTitle>Применение аморфного полимера</Cinder_Tab.generalTitle>
+  <Cinder_Tab.generalDescription>Изучение необычных технологий из скрытых областей древней Земли.</Cinder_Tab.generalDescription>
 </LanguageData>

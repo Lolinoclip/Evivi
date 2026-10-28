@@ -1,130 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Amorphous polymer separation -->
-  <Cinder_Separation.label>Amorphous polymer separation</Cinder_Separation.label>
-  <!-- EN: Attempt to separate the solid phase from the biological part in amorphous polymers. -->
-  <Cinder_Separation.description>Attempt to separate the solid phase from the biological part in amorphous polymers.</Cinder_Separation.description>
-  <!-- EN: About: empty agent bottle -->
-  <Cinder_Separation.discoveredLetterTitle>About: empty agent bottle</Cinder_Separation.discoveredLetterTitle>
-  <!-- EN: Some hostile army units sometimes carry empty bottles like this, which can be obtained by defeating them.You can also obtain it through purchase. -->
-  <Cinder_Separation.discoveredLetterText>Some hostile army units sometimes carry empty bottles like this, which can be obtained by defeating them.You can also obtain it through purchase.</Cinder_Separation.discoveredLetterText>
-  <!-- EN:
-    <li>subject->Separation</li>
-    <li>subject_story->separate armor plates from this strange twisted mixed substance</li>
-    <li>subject_story->separate some meat with a burnt smell from amorphous polymers</li>
-    <li>subject_story->exploring the Applications of Amorphous Polymers</li>
-    <li>subject_gerund->separat amorphous polymer</li>
-  -->
+  <Cinder_Separation.label>разделение аморфного полимера</Cinder_Separation.label>
+  <Cinder_Separation.description>Попытаться отделить твёрдую фазу аморфного полимера от его биологической составляющей.</Cinder_Separation.description>
+  <Cinder_Separation.discoveredLetterTitle>Сведения: пустой флакон для препаратов</Cinder_Separation.discoveredLetterTitle>
+  <Cinder_Separation.discoveredLetterText>Некоторые бойцы вражеских армий носят с собой такие пустые флаконы. Их можно получить, победив этих бойцов, или приобрести у торговцев.</Cinder_Separation.discoveredLetterText>
   <Cinder_Separation.generalRules.rulesStrings>
-    <li>subject->Separation</li>
-    <li>subject_story->separate armor plates from this strange twisted mixed substance</li>
-    <li>subject_story->separate some meat with a burnt smell from amorphous polymers</li>
-    <li>subject_story->exploring the Applications of Amorphous Polymers</li>
-    <li>subject_gerund->separat amorphous polymer</li>
+    <li>subject->разделение</li>
+    <li>subject_story->отделение бронепластин от этой странной искажённой смеси</li>
+    <li>subject_story->отделение мяса с запахом гари от аморфного полимера</li>
+    <li>subject_story->изучение способов применения аморфного полимера</li>
+    <li>subject_gerund->разделение аморфного полимера</li>
   </Cinder_Separation.generalRules.rulesStrings>
-
-  <!-- EN: Tentacle mechanism application -->
-  <Cinder_TentacleMechanism.label>Tentacle mechanism application</Cinder_TentacleMechanism.label>
-  <!-- EN: Attempt to artificially cultivate tentacle walking mechanisms using amorphous polymers and install them on mechanical structures. -->
-  <Cinder_TentacleMechanism.description>Attempt to artificially cultivate tentacle walking mechanisms using amorphous polymers and install them on mechanical structures.</Cinder_TentacleMechanism.description>
-  <!-- EN: About: burnt strange meat -->
-  <Cinder_TentacleMechanism.discoveredLetterTitle>About: burnt strange meat</Cinder_TentacleMechanism.discoveredLetterTitle>
-  <!-- EN: This is a bioactive part extracted from amorphous polymers with a burnt odor, strangely it does not decay. -->
-  <Cinder_TentacleMechanism.discoveredLetterText>This is a bioactive part extracted from amorphous polymers with a burnt odor, strangely it does not decay.</Cinder_TentacleMechanism.discoveredLetterText>
-  <!-- EN:
-    <li>subject->Tentacle mechanism</li>
-    <li>subject->Walking mechanism</li>
-    <li>subject->military-Tentacle application</li>
-    <li>subject_story->modify some frontline turrets to enable them to change their deployment positions on their own, so that the turrets can accompany the troops' attacks</li>
-    <li>subject_story->a completely different way of movement from wheeled, tracked, and mechanical walking, with low noise and strong passability</li>
-    <li>subject_gerund->make some immovable buildings move automatically</li>
-  -->
+  <Cinder_TentacleMechanism.label>применение щупальцевых механизмов</Cinder_TentacleMechanism.label>
+  <Cinder_TentacleMechanism.description>Попытаться искусственно выращивать щупальцевые движители из аморфного полимера и устанавливать их на механические конструкции.</Cinder_TentacleMechanism.description>
+  <Cinder_TentacleMechanism.discoveredLetterTitle>Сведения: обожжённое странное мясо</Cinder_TentacleMechanism.discoveredLetterTitle>
+  <Cinder_TentacleMechanism.discoveredLetterText>Это биологически активная часть аморфного полимера с запахом гари. Как ни странно, она не разлагается.</Cinder_TentacleMechanism.discoveredLetterText>
   <Cinder_TentacleMechanism.generalRules.rulesStrings>
-    <li>subject->Tentacle mechanism</li>
-    <li>subject->Walking mechanism</li>
-    <li>subject->military-Tentacle application</li>
-    <li>subject_story->modify some frontline turrets to enable them to change their deployment positions on their own, so that the turrets can accompany the troops' attacks</li>
-    <li>subject_story->a completely different way of movement from wheeled, tracked, and mechanical walking, with low noise and strong passability</li>
-    <li>subject_gerund->make some immovable buildings move automatically</li>
+    <li>subject->щупальцевый механизм</li>
+    <li>subject->шагающий механизм</li>
+    <li>subject->военное применение щупалец</li>
+    <li>subject_story->модернизация фронтовых турелей, позволяющая им самостоятельно менять позиции и сопровождать наступающие войска</li>
+    <li>subject_story->малошумный способ передвижения с высокой проходимостью, совершенно отличный от колёсного, гусеничного и механического шагающего хода</li>
+    <li>subject_gerund->приведение неподвижных сооружений в самостоятельное движение</li>
   </Cinder_TentacleMechanism.generalRules.rulesStrings>
-
-  <!-- EN: Large walking mechanism -->
-  <Cinder_TentacleWalkingMechanism.label>Large walking mechanism</Cinder_TentacleWalkingMechanism.label>
-  <!-- EN: A larger tentacle walking mechanism requires further research on the bioactive parts in amorphous polymers to prepare for heavier platforms. -->
-  <Cinder_TentacleWalkingMechanism.description>A larger tentacle walking mechanism requires further research on the bioactive parts in amorphous polymers to prepare for heavier platforms.</Cinder_TentacleWalkingMechanism.description>
-
-  <!-- EN: Twisted pharmacology -->
-  <Cinder_TwistedPharmacology.label>Twisted pharmacology</Cinder_TwistedPharmacology.label>
-  <!-- EN: Research on the medicinal value of amorphous polymers and the production of agent that enable people to acquire various abilities. -->
-  <Cinder_TwistedPharmacology.description>Research on the medicinal value of amorphous polymers and the production of agent that enable people to acquire various abilities.</Cinder_TwistedPharmacology.description>
-  <!-- EN:
-    <li>subject->Twisted pharmacology</li>
-    <li>subject->Erosion agent</li>
-    <li>subject_story->study the influence of different material ratios on the efficacy of pharmaceuticals</li>
-    <li>subject_story->explore the sources of special skills on Caster</li>
-    <li>subject_story->find ways to improve the regeneration ability of amorphous polymers</li>
-    <li>subject_gerund->Can manufacture erosion and regeneration agents with unstable effects</li>
-  -->
+  <Cinder_TentacleWalkingMechanism.label>крупный шагающий механизм</Cinder_TentacleWalkingMechanism.label>
+  <Cinder_TentacleWalkingMechanism.description>Для создания более крупных щупальцевых движителей, способных нести тяжёлые платформы, необходимо дальнейшее изучение биологически активной составляющей аморфного полимера.</Cinder_TentacleWalkingMechanism.description>
+  <Cinder_TwistedPharmacology.label>искажённая фармакология</Cinder_TwistedPharmacology.label>
+  <Cinder_TwistedPharmacology.description>Изучить лекарственные свойства аморфного полимера и изготовление препаратов, наделяющих людей различными способностями.</Cinder_TwistedPharmacology.description>
   <Cinder_TwistedPharmacology.generalRules.rulesStrings>
-    <li>subject->Twisted pharmacology</li>
-    <li>subject->Erosion agent</li>
-    <li>subject_story->study the influence of different material ratios on the efficacy of pharmaceuticals</li>
-    <li>subject_story->explore the sources of special skills on Caster</li>
-    <li>subject_story->find ways to improve the regeneration ability of amorphous polymers</li>
-    <li>subject_gerund->Can manufacture erosion and regeneration agents with unstable effects</li>
+    <li>subject->искажённая фармакология</li>
+    <li>subject->препарат искажения</li>
+    <li>subject_story->изучение влияния соотношения ингредиентов на эффективность препаратов</li>
+    <li>subject_story->изучение происхождения особых способностей заклинателей</li>
+    <li>subject_story->поиск способов усиления регенеративных свойств аморфного полимера</li>
+    <li>subject_gerund->изготовление препаратов искажения и регенерации с нестабильным действием</li>
   </Cinder_TwistedPharmacology.generalRules.rulesStrings>
-
-  <!-- EN: Heavy armor application -->
-  <Cinder_HeavyArmor.label>Heavy armor application</Cinder_HeavyArmor.label>
-  <!-- EN: Further strengthen amorphous polymers for application on heavy defensive armor clothing or other armor. -->
-  <Cinder_HeavyArmor.description>Further strengthen amorphous polymers for application on heavy defensive armor clothing or other armor.</Cinder_HeavyArmor.description>
-
-  <!-- EN: Multiple warheads -->
-  <Cinder_MultipleWarheads.label>Multiple warheads</Cinder_MultipleWarheads.label>
-  <!-- EN: An improvement to firearms and ammunition that can cause more damage when bullets hit enemies. -->
-  <Cinder_MultipleWarheads.description>An improvement to firearms and ammunition that can cause more damage when bullets hit enemies.</Cinder_MultipleWarheads.description>
-
-  <!-- EN: Polymer tools -->
-  <Cinder_PowerTools.label>Polymer tools</Cinder_PowerTools.label>
-  <!-- EN: Some power tool weapons driven by amorphous polymer muscles can effectively defeat enemies in close combat. It can also be used as a handy production tool in daily life. -->
-  <Cinder_PowerTools.description>Some power tool weapons driven by amorphous polymer muscles can effectively defeat enemies in close combat. It can also be used as a handy production tool in daily life.</Cinder_PowerTools.description>
-
-  <!-- EN: Shaped charges -->
-  <Cinder_ShapedCharges.label>Shaped charges</Cinder_ShapedCharges.label>
-  <!-- EN: Research on a bomb based on the principle of energy gathering using conical charges, which focuses a high-temperature and high-pressure metal jet into a line to penetrate thick armor. -->
-  <Cinder_ShapedCharges.description>Research on a bomb based on the principle of energy gathering using conical charges, which focuses a high-temperature and high-pressure metal jet into a line to penetrate thick armor.</Cinder_ShapedCharges.description>
-  <!-- EN:
-    <li>subject->Shaped charges</li>
-    <li>subject->HEAT warhead</li>
-    <li>subject_story->analyzing the Principle of the Monroe Effect</li>
-    <li>subject_story->manufacturing powerful HEAT armor piercing bombs</li>
-    <li>subject_gerund->manufacturing Shaped Charges</li>
-  -->
+  <Cinder_HeavyArmor.label>применение тяжёлой брони</Cinder_HeavyArmor.label>
+  <Cinder_HeavyArmor.description>Дополнительно укрепить аморфный полимер для использования в тяжёлой защитной экипировке и других видах брони.</Cinder_HeavyArmor.description>
+  <Cinder_MultipleWarheads.label>Мультипуля</Cinder_MultipleWarheads.label>
+  <Cinder_MultipleWarheads.description>Усовершенствование огнестрельного оружия и боеприпасов, повышающее урон при попадании пуль в противника.</Cinder_MultipleWarheads.description>
+  <Cinder_PowerTools.label>полимерные инструменты</Cinder_PowerTools.label>
+  <Cinder_PowerTools.description>Механизированные инструменты с приводом от мышц из аморфного полимера можно использовать как эффективное оружие ближнего боя. В повседневной жизни они также служат удобными производственными инструментами.</Cinder_PowerTools.description>
+  <Cinder_ShapedCharges.label>кумулятивные заряды</Cinder_ShapedCharges.label>
+  <Cinder_ShapedCharges.description>Изучить создание бомбы с коническим кумулятивным зарядом, формирующим узкую металлическую струю высокой температуры и давления для пробития толстой брони.</Cinder_ShapedCharges.description>
   <Cinder_ShapedCharges.generalRules.rulesStrings>
-    <li>subject->Shaped charges</li>
-    <li>subject->HEAT warhead</li>
-    <li>subject_story->analyzing the Principle of the Monroe Effect</li>
-    <li>subject_story->manufacturing powerful HEAT armor piercing bombs</li>
-    <li>subject_gerund->manufacturing Shaped Charges</li>
+    <li>subject->кумулятивные заряды</li>
+    <li>subject->кумулятивная боевая часть</li>
+    <li>subject_story->изучение эффекта Монро</li>
+    <li>subject_story->изготовление мощных кумулятивных противотанковых бомб</li>
+    <li>subject_gerund->изготовление кумулятивных зарядов</li>
   </Cinder_ShapedCharges.generalRules.rulesStrings>
-
-  <!-- EN: hellfire missile -->
-  <Cinder_HellfireMissile.label>hellfire missile</Cinder_HellfireMissile.label>
-  <!-- EN: Further application of the Monroe effect. -->
-  <Cinder_HellfireMissile.description>Further application of the Monroe effect.</Cinder_HellfireMissile.description>
-
-  <!-- EN: War machinery -->
-  <Cinder_WarMachinery.label>War machinery</Cinder_WarMachinery.label>
-  <!-- EN: A self disciplined war machine with powerful firepower that can guide Hellfire missiles to destroy heavily armored targets. -->
-  <Cinder_WarMachinery.description>A self disciplined war machine with powerful firepower that can guide Hellfire missiles to destroy heavily armored targets.</Cinder_WarMachinery.description>
-
-  <!-- EN: War attacker -->
-  <Cinder_WarAttacker.label>War attacker</Cinder_WarAttacker.label>
-  <!-- EN: Reverse engineer an ancient heavy attack mecha to create a usable heavy armed walking machine. -->
-  <Cinder_WarAttacker.description>Reverse engineer an ancient heavy attack mecha to create a usable heavy armed walking machine.</Cinder_WarAttacker.description>
-
-  <!-- EN: main battle walker -->
-  <Cinder_MainBattleWalker.label>main battle walker</Cinder_MainBattleWalker.label>
-  <!-- EN: Build the colony's own main battle tank level walker through reverse engineering. -->
-  <Cinder_MainBattleWalker.description>Build the colony's own main battle tank level walker through reverse engineering.</Cinder_MainBattleWalker.description>
+  <Cinder_HellfireMissile.label>ракета «Адское пламя»</Cinder_HellfireMissile.label>
+  <Cinder_HellfireMissile.description>Дальнейшее применение эффекта Монро.</Cinder_HellfireMissile.description>
+  <Cinder_WarMachinery.label>боевые машины</Cinder_WarMachinery.label>
+  <Cinder_WarMachinery.description>Автономная боевая машина с мощным вооружением, способная наводить ракеты «Адское пламя» для уничтожения тяжелобронированных целей.</Cinder_WarMachinery.description>
+  <Cinder_WarAttacker.label>штурмовая машина</Cinder_WarAttacker.label>
+  <Cinder_WarAttacker.description>Воссоздать технологии древнего тяжёлого штурмового меха, чтобы построить пригодную к эксплуатации тяжеловооружённую шагающую машину.</Cinder_WarAttacker.description>
+  <Cinder_MainBattleWalker.label>основной боевой шагоход</Cinder_MainBattleWalker.label>
+  <Cinder_MainBattleWalker.description>Путём обратной разработки создать для колонии собственный шагоход, сопоставимый с основным боевым танком.</Cinder_MainBattleWalker.description>
 </LanguageData>
