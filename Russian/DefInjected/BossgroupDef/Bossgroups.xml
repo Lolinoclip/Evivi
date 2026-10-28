@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Standard combat unit group, units with consciousness taken over by DI will independently assess threats and engage in combat. -->
-  <Cinder_CombatUnitGroup.leaderDescription>Standard combat unit group, units with consciousness taken over by DI will independently assess threats and engage in combat.</Cinder_CombatUnitGroup.leaderDescription>
+  <Cinder_CombatUnitGroup.leaderDescription>Стандартная группа боевых единиц. Их сознание находится под контролем DI, однако они самостоятельно оценивают угрозы и вступают в бой.</Cinder_CombatUnitGroup.leaderDescription>
 </LanguageData>
