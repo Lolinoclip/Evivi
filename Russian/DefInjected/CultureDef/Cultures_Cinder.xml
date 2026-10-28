@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Firewood -->
-  <Cinder_Culture.label>Firewood</Cinder_Culture.label>
-  <!-- EN: On the home planet of Cinder, Earth, this ancient planet, there are harsh environments, scarce resources, recurring hatred, and endless wars. All of this has shaped their ideology today. -->
-  <Cinder_Culture.description>On the home planet of Cinder, Earth, this ancient planet, there are harsh environments, scarce resources, recurring hatred, and endless wars. All of this has shaped their ideology today.</Cinder_Culture.description>
+  <Cinder_Culture.label>Хворост</Cinder_Culture.label>
+  <Cinder_Culture.description>На Земле, древней родине тлеющих, суровые условия, нехватка ресурсов, вновь и вновь вспыхивающая ненависть и бесконечные войны сформировали их нынешнее мировоззрение.</Cinder_Culture.description>
 </LanguageData>
