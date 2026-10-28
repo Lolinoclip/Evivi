@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: walker autocannon turret -->
+  <Cinder_ErodedAutocannon.label>walker autocannon turret</Cinder_ErodedAutocannon.label>
+  <!-- EN: A movable heavy automatic turret.There are many strange tentacles wrapped around the turret. -->
+  <Cinder_ErodedAutocannon.description>A movable heavy automatic turret.There are many strange tentacles wrapped around the turret.</Cinder_ErodedAutocannon.description>
+  <!-- EN: Shots until barrel change -->
+  <Cinder_ErodedAutocannon.comps.CompRefuelable.fuelLabel>Shots until barrel change</Cinder_ErodedAutocannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <Cinder_ErodedAutocannon.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Cinder_ErodedAutocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <Cinder_ErodedAutocannon.comps.CompRefuelable.outOfFuelMessage>Needs new barrel</Cinder_ErodedAutocannon.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Change to walking mode -->
+  <Cinder_ErodedAutocannon.comps.Comp_TurretTransformable.defaultLabel>Change to walking mode</Cinder_ErodedAutocannon.comps.Comp_TurretTransformable.defaultLabel>
+  <!-- EN: Order the turret to "stand up" and relocate. -->
+  <Cinder_ErodedAutocannon.comps.Comp_TurretTransformable.defaultDesc>Order the turret to "stand up" and relocate.</Cinder_ErodedAutocannon.comps.Comp_TurretTransformable.defaultDesc>
+  <!-- EN: eroded autocannon -->
+  <Cinder_GunErodedAutocannon.label>eroded autocannon</Cinder_GunErodedAutocannon.label>
+  <!-- EN: An eroded self-loading large-bore cannon designed to attach to a turret. -->
+  <Cinder_GunErodedAutocannon.description>An eroded self-loading large-bore cannon designed to attach to a turret.</Cinder_GunErodedAutocannon.description>
+  <!-- EN: eroded autocannon -->
+  <Cinder_GunErodedAutocannon.verbs.Verb_Shoot.label>eroded autocannon</Cinder_GunErodedAutocannon.verbs.Verb_Shoot.label>
+  <!-- EN: walker uranium slug turret -->
+  <Cinder_ErodedSniperBase.label>walker uranium slug turret</Cinder_ErodedSniperBase.label>
+  <!-- EN: A movable armor-piercing turret. There are many strange tentacles wrapped around the turret. -->
+  <Cinder_ErodedSniperBase.description>A movable armor-piercing turret. There are many strange tentacles wrapped around the turret.</Cinder_ErodedSniperBase.description>
+  <!-- EN: Shots until rearm -->
+  <Cinder_ErodedSniperBase.comps.CompRefuelable.fuelLabel>Shots until rearm</Cinder_ErodedSniperBase.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Uranium slugs -->
+  <Cinder_ErodedSniperBase.comps.CompRefuelable.fuelGizmoLabel>Uranium slugs</Cinder_ErodedSniperBase.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: No slugs -->
+  <Cinder_ErodedSniperBase.comps.CompRefuelable.outOfFuelMessage>No slugs</Cinder_ErodedSniperBase.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Change to walking mode -->
+  <Cinder_ErodedSniperBase.comps.Comp_TurretTransformable.defaultLabel>Change to walking mode</Cinder_ErodedSniperBase.comps.Comp_TurretTransformable.defaultLabel>
+  <!-- EN: Order the turret to "stand up" and relocate. -->
+  <Cinder_ErodedSniperBase.comps.Comp_TurretTransformable.defaultDesc>Order the turret to "stand up" and relocate.</Cinder_ErodedSniperBase.comps.Comp_TurretTransformable.defaultDesc>
+  <!-- EN: eroded uranium slug cannon -->
+  <Cinder_GunErodedSniper.label>eroded uranium slug cannon</Cinder_GunErodedSniper.label>
+  <!-- EN: An eroded self-loading uranium slug cannon designed to attach to a turret. -->
+  <Cinder_GunErodedSniper.description>An eroded self-loading uranium slug cannon designed to attach to a turret.</Cinder_GunErodedSniper.description>
+  <!-- EN: eroded uranium slug cannon -->
+  <Cinder_GunErodedSniper.verbs.Verb_Shoot.label>eroded uranium slug cannon</Cinder_GunErodedSniper.verbs.Verb_Shoot.label>
+  <!-- EN: walker rocketswarm launcher -->
+  <Cinder_RocketswarmLauncher.label>walker rocketswarm launcher</Cinder_RocketswarmLauncher.label>
+  <!-- EN: A movable emergency-defense launcher that fires a single barrage of rockets covering a large area. The turret does not fire until someone activates it. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Once fired, it must cool off for hours and be reloaded to fire again. -->
+  <Cinder_RocketswarmLauncher.description>A movable emergency-defense launcher that fires a single barrage of rockets covering a large area. The turret does not fire until someone activates it. It is very effective against large groups of weaker combatants, but less effective against small numbers of armored targets. Once fired, it must cool off for hours and be reloaded to fire again.</Cinder_RocketswarmLauncher.description>
+  <!-- EN: Rockets -->
+  <Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>Rockets</Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Rockets -->
+  <Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>Rockets</Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Missing rockets -->
+  <Cinder_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>Missing rockets</Cinder_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: activate -->
+  <Cinder_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>activate</Cinder_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.jobString>
+  <!-- EN: cooling off -->
+  <Cinder_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>cooling off</Cinder_RocketswarmLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
+  <!-- EN: Change to walking mode -->
+  <Cinder_RocketswarmLauncher.comps.Comp_TurretTransformable.defaultLabel>Change to walking mode</Cinder_RocketswarmLauncher.comps.Comp_TurretTransformable.defaultLabel>
+  <!-- EN: Order the turret to "stand up" and relocate. -->
+  <Cinder_RocketswarmLauncher.comps.Comp_TurretTransformable.defaultDesc>Order the turret to "stand up" and relocate.</Cinder_RocketswarmLauncher.comps.Comp_TurretTransformable.defaultDesc>
+  <!-- EN: rocketswarm tube -->
+  <Cinder_GunRocketswarmLauncher.label>rocketswarm tube</Cinder_GunRocketswarmLauncher.label>
+  <!-- EN: A rocketswarm tube of the type usually mounted on a rocketswarm launcher turret. -->
+  <Cinder_GunRocketswarmLauncher.description>A rocketswarm tube of the type usually mounted on a rocketswarm launcher turret.</Cinder_GunRocketswarmLauncher.description>
+  <!-- EN: rocketswarm tube -->
+  <Cinder_GunRocketswarmLauncher.verbs.Verb_Shoot.label>rocketswarm tube</Cinder_GunRocketswarmLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: walker tactical turret -->
+  <Cinder_TacticalTurret.label>walker tactical turret</Cinder_TacticalTurret.label>
+  <!-- EN: A movable short-range turret, If damaged sufficiently, it may explode. -->
+  <Cinder_TacticalTurret.description>A movable short-range turret, If damaged sufficiently, it may explode.</Cinder_TacticalTurret.description>
+  <!-- EN: Shots until barrel change -->
+  <Cinder_TacticalTurret.comps.CompRefuelable.fuelLabel>Shots until barrel change</Cinder_TacticalTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Barrel durability -->
+  <Cinder_TacticalTurret.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</Cinder_TacticalTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Needs new barrel -->
+  <Cinder_TacticalTurret.comps.CompRefuelable.outOfFuelMessage>Needs new barrel</Cinder_TacticalTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Change to walking mode -->
+  <Cinder_TacticalTurret.comps.Comp_TurretTransformable.defaultLabel>Change to walking mode</Cinder_TacticalTurret.comps.Comp_TurretTransformable.defaultLabel>
+  <!-- EN: Order the turret to "stand up" and relocate. -->
+  <Cinder_TacticalTurret.comps.Comp_TurretTransformable.defaultDesc>Order the turret to "stand up" and relocate.</Cinder_TacticalTurret.comps.Comp_TurretTransformable.defaultDesc>
+  <!-- EN: tactical turret gun -->
+  <Cinder_TacticalTurretGun.label>tactical turret gun</Cinder_TacticalTurretGun.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Cinder_TacticalTurretGun.description>A simple automatic gun made to be mounted on a turret.</Cinder_TacticalTurretGun.description>
+  <!-- EN: tactical turret gun -->
+  <Cinder_TacticalTurretGun.verbs.Verb_Shoot.label>tactical turret gun</Cinder_TacticalTurretGun.verbs.Verb_Shoot.label>
+  <!-- EN: tactical turret bullet -->
+  <Cinder_BulletTacticalTurret.label>tactical turret bullet</Cinder_BulletTacticalTurret.label>
+</LanguageData>
