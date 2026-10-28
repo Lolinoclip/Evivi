@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: exoskeleton gun -->
+  <Cinder_MechGun_EXOGun.label>exoskeleton gun</Cinder_MechGun_EXOGun.label>
+  <!-- EN: TODO -->
+  <Cinder_MechGun_EXOGun.description>TODO</Cinder_MechGun_EXOGun.description>
+  <!-- EN: exoskeleton gun -->
+  <Cinder_MechGun_EXOGun.verbs.Verb_Shoot.label>exoskeleton gun</Cinder_MechGun_EXOGun.verbs.Verb_Shoot.label>
+  <!-- EN: giant HEAT rifle -->
+  <Cinder_MechGun_GiantHEATRifle.label>giant HEAT rifle</Cinder_MechGun_GiantHEATRifle.label>
+  <!-- EN: TODO -->
+  <Cinder_MechGun_GiantHEATRifle.description>TODO</Cinder_MechGun_GiantHEATRifle.description>
+  <!-- EN: giant HEAT rifle -->
+  <Cinder_MechGun_GiantHEATRifle.verbs.Verb_Shoot.label>giant HEAT rifle</Cinder_MechGun_GiantHEATRifle.verbs.Verb_Shoot.label>
+  <!-- EN: giant minigun -->
+  <Cinder_MechGun_GiantMiniGun.label>giant minigun</Cinder_MechGun_GiantMiniGun.label>
+  <!-- EN: TODO -->
+  <Cinder_MechGun_GiantMiniGun.description>TODO</Cinder_MechGun_GiantMiniGun.description>
+  <!-- EN: giant minigun -->
+  <Cinder_MechGun_GiantMiniGun.verbs.Verb_ArcSprayProjectile.label>giant minigun</Cinder_MechGun_GiantMiniGun.verbs.Verb_ArcSprayProjectile.label>
+  <!-- EN: 2A46M “Anvil of Discipline” -->
+  <Cinder_MechGun_AnvilDiscipline.label>2A46M “Anvil of Discipline”</Cinder_MechGun_AnvilDiscipline.label>
+  <!-- EN: A semi-automatic anti-tank cannon carried by ultra-heavy automatrons, known for its simple and reliable structure. It is widely used on various armored platforms to engage heavily armed and armored targets such as tanks and heavy mechs. -->
+  <Cinder_MechGun_AnvilDiscipline.description>A semi-automatic anti-tank cannon carried by ultra-heavy automatrons, known for its simple and reliable structure. It is widely used on various armored platforms to engage heavily armed and armored targets such as tanks and heavy mechs.</Cinder_MechGun_AnvilDiscipline.description>
+  <!-- EN: 2A46M “Anvil of Discipline” -->
+  <Cinder_MechGun_AnvilDiscipline.verbs.Verb_Shoot.label>2A46M “Anvil of Discipline”</Cinder_MechGun_AnvilDiscipline.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Cinder_MechGun_AnvilDiscipline.tools.stock.label>stock</Cinder_MechGun_AnvilDiscipline.tools.stock.label>
+  <!-- EN: barrel -->
+  <Cinder_MechGun_AnvilDiscipline.tools.barrel.label>barrel</Cinder_MechGun_AnvilDiscipline.tools.barrel.label>
+  <!-- EN: Hellfire Missile -->
+  <CinderBullet_Hellfire.label>Hellfire Missile</CinderBullet_Hellfire.label>
+  <!-- EN: Erosion missile -->
+  <CinderBullet_AnvilDiscipline.label>Erosion missile</CinderBullet_AnvilDiscipline.label>
+</LanguageData>
