@@ -1,51 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: scav heavy coat -->
-  <Cinder_Apparel_ScavHeavyCoat.label>scav heavy coat</Cinder_Apparel_ScavHeavyCoat.label>
-  <!-- EN: A tattered scavenger coat made of a blend of metal plates and fabric, much more durable than it looks. -->
-  <Cinder_Apparel_ScavHeavyCoat.description>A tattered scavenger coat made of a blend of metal plates and fabric, much more durable than it looks.</Cinder_Apparel_ScavHeavyCoat.description>
-  <!-- EN: workwear jacket -->
-  <Cinder_Apparel_WorkwearJacket.label>workwear jacket</Cinder_Apparel_WorkwearJacket.label>
-  <!-- EN: A sturdy jacket with embedded metal plates to prevent accidental injuries. -->
-  <Cinder_Apparel_WorkwearJacket.description>A sturdy jacket with embedded metal plates to prevent accidental injuries.</Cinder_Apparel_WorkwearJacket.description>
-  <!-- EN: bulletproof equipment -->
-  <Cinder_Apparel_BulletproofEquipment.label>bulletproof equipment</Cinder_Apparel_BulletproofEquipment.label>
-  <!-- EN: A lightweight bulletproof suit consisting of a bulletproof vest and a sturdy fabric outer garment, which will not affect daily work and movement, and can defend the whole body, but the armor is generally not as good as a flak vest. -->
-  <Cinder_Apparel_BulletproofEquipment.description>A lightweight bulletproof suit consisting of a bulletproof vest and a sturdy fabric outer garment, which will not affect daily work and movement, and can defend the whole body, but the armor is generally not as good as a flak vest.</Cinder_Apparel_BulletproofEquipment.description>
-  <!-- EN: heavy armor dress -->
-  <Cinder_Apparel_HeavyArmorDress.label>heavy armor dress</Cinder_Apparel_HeavyArmorDress.label>
-  <!-- EN: Heavy armored equipment with additional plasteel chest armor and servo motor power frame, with astonishing defensive power and acceptable weight. -->
-  <Cinder_Apparel_HeavyArmorDress.description>Heavy armored equipment with additional plasteel chest armor and servo motor power frame, with astonishing defensive power and acceptable weight.</Cinder_Apparel_HeavyArmorDress.description>
-  <!-- EN: low visibility dress -->
-  <Cinder_Apparel_LowVisibilityDress.label>low visibility dress</Cinder_Apparel_LowVisibilityDress.label>
-  <!-- EN: A piece of armor equipment using amorphous polymer as a bulletproof material, providing effective defense while protecting the user from psycast interference. -->
-  <Cinder_Apparel_LowVisibilityDress.description>A piece of armor equipment using amorphous polymer as a bulletproof material, providing effective defense while protecting the user from psycast interference.</Cinder_Apparel_LowVisibilityDress.description>
-  <!-- EN: Ink -->
-  <Cinder_Apparel_Ink.label>Ink</Cinder_Apparel_Ink.label>
-  <!-- EN: A traditional style quilted jacket，often worn in winter. -->
-  <Cinder_Apparel_Ink.description>A traditional style quilted jacket，often worn in winter.</Cinder_Apparel_Ink.description>
-  <!-- EN: ghost -->
-  <Cinder_Apparel_GhostUnderwear.label>ghost</Cinder_Apparel_GhostUnderwear.label>
-  <!-- EN: A strange hollow out skirt underwear, completely defenseless, but very capable of adorning the body.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido. -->
-  <Cinder_Apparel_GhostUnderwear.description>A strange hollow out skirt underwear, completely defenseless, but very capable of adorning the body.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido.</Cinder_Apparel_GhostUnderwear.description>
-  <!-- EN: ghost clock -->
-  <Cinder_Apparel_GhostCloak.label>ghost clock</Cinder_Apparel_GhostCloak.label>
-  <!-- EN: A strange cloak, completely defenseless, looks like some kind of Halloween costume. -->
-  <Cinder_Apparel_GhostCloak.description>A strange cloak, completely defenseless, looks like some kind of Halloween costume.</Cinder_Apparel_GhostCloak.description>
-  <!-- EN: exotic -->
-  <Cinder_Apparel_Exotic.label>exotic</Cinder_Apparel_Exotic.label>
-  <!-- EN: A exotic dancer costume, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido. -->
-  <Cinder_Apparel_Exotic.description>A exotic dancer costume, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido.</Cinder_Apparel_Exotic.description>
-  <!-- EN: night service -->
-  <Cinder_Apparel_NightService.label>night service</Cinder_Apparel_NightService.label>
-  <!-- EN: A silk tight fitting garment that covers the whole body, the touch alone makes one daydream, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido. -->
-  <Cinder_Apparel_NightService.description>A silk tight fitting garment that covers the whole body, the touch alone makes one daydream, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido.</Cinder_Apparel_NightService.description>
-  <!-- EN: maid -->
-  <Cinder_Apparel_MaidCostume.label>maid</Cinder_Apparel_MaidCostume.label>
-  <!-- EN: A delicate special maid outfit, using very little fabric, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido. -->
-  <Cinder_Apparel_MaidCostume.description>A delicate special maid outfit, using very little fabric, completely defenseless.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido.</Cinder_Apparel_MaidCostume.description>
-  <!-- EN: projection -->
-  <Cinder_Apparel_Projection.label>projection</Cinder_Apparel_Projection.label>
-  <!-- EN: A futuristic projection costume, but strangely enough, the semi transparent projection doesn't seem to cover anything.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido. -->
-  <Cinder_Apparel_Projection.description>A futuristic projection costume, but strangely enough, the semi transparent projection doesn't seem to cover anything.It seems that there is some strange device installed on it, and the person wearing it will enter a state of heightened libido.</Cinder_Apparel_Projection.description>
+  <Cinder_Apparel_ScavHeavyCoat.label>тяжёлое пальто сборщика</Cinder_Apparel_ScavHeavyCoat.label>
+  <Cinder_Apparel_ScavHeavyCoat.description>Потрёпанное пальто сборщика, сшитое из ткани с металлическими пластинами. Гораздо прочнее, чем кажется.</Cinder_Apparel_ScavHeavyCoat.description>
+  <Cinder_Apparel_WorkwearJacket.label>рабочая куртка</Cinder_Apparel_WorkwearJacket.label>
+  <Cinder_Apparel_WorkwearJacket.description>Прочная куртка с металлическими вставками для защиты от случайных травм.</Cinder_Apparel_WorkwearJacket.description>
+  <Cinder_Apparel_BulletproofEquipment.label>пулестойкое снаряжение</Cinder_Apparel_BulletproofEquipment.label>
+  <Cinder_Apparel_BulletproofEquipment.description>Лёгкий пулестойкий костюм из бронежилета и прочной тканевой верхней одежды. Не мешает повседневной работе и передвижению, защищает всё тело, но в целом уступает противоосколочному жилету.</Cinder_Apparel_BulletproofEquipment.description>
+  <Cinder_Apparel_HeavyArmorDress.label>тяжёлое бронеплатье</Cinder_Apparel_HeavyArmorDress.label>
+  <Cinder_Apparel_HeavyArmorDress.description>Тяжёлая бронеэкипировка с дополнительным пласталевым нагрудником и силовым каркасом с сервоприводами. Обеспечивает впечатляющую защиту при приемлемом весе.</Cinder_Apparel_HeavyArmorDress.description>
+  <Cinder_Apparel_LowVisibilityDress.label>малозаметное бронеплатье</Cinder_Apparel_LowVisibilityDress.label>
+  <Cinder_Apparel_LowVisibilityDress.description>Бронеэкипировка из пулестойкого аморфного полимера. Обеспечивает эффективную защиту и оберегает владельца от воздействия пси-способностей.</Cinder_Apparel_LowVisibilityDress.description>
+  <Cinder_Apparel_Ink.label>куртка «Тушь»</Cinder_Apparel_Ink.label>
+  <Cinder_Apparel_Ink.description>Стёганая куртка в традиционном стиле, которую обычно носят зимой.</Cinder_Apparel_Ink.description>
+  <Cinder_Apparel_GhostUnderwear.label>бельё «Призрак»</Cinder_Apparel_GhostUnderwear.label>
+  <Cinder_Apparel_GhostUnderwear.description>Необычное бельё с ажурной юбкой. Совсем не защищает, но прекрасно подчёркивает фигуру. Похоже, в него встроено странное устройство, усиливающее половое влечение владельца.</Cinder_Apparel_GhostUnderwear.description>
+  <Cinder_Apparel_GhostCloak.label>призрачный плащ</Cinder_Apparel_GhostCloak.label>
+  <Cinder_Apparel_GhostCloak.description>Странный плащ, напоминающий часть костюма на Хэллоуин. Совсем не обеспечивает защиты.</Cinder_Apparel_GhostCloak.description>
+  <Cinder_Apparel_Exotic.label>экзотический наряд</Cinder_Apparel_Exotic.label>
+  <Cinder_Apparel_Exotic.description>Экзотический костюм танцовщицы, совсем не обеспечивающий защиты. Похоже, в него встроено странное устройство, усиливающее половое влечение владельца.</Cinder_Apparel_Exotic.description>
+  <Cinder_Apparel_NightService.label>ночная «служба»</Cinder_Apparel_NightService.label>
+  <Cinder_Apparel_NightService.description>Облегающий шёлковый наряд, закрывающий всё тело. Одно прикосновение к ткани будоражит воображение. Совсем не обеспечивает защиты. Похоже, в него встроено странное устройство, усиливающее половое влечение владельца.</Cinder_Apparel_NightService.description>
+  <Cinder_Apparel_MaidCostume.label>наряд горничной</Cinder_Apparel_MaidCostume.label>
+  <Cinder_Apparel_MaidCostume.description>Изящный особый наряд горничной, на который ушло совсем немного ткани. Совсем не обеспечивает защиты. Похоже, в него встроено странное устройство, усиливающее половое влечение владельца.</Cinder_Apparel_MaidCostume.description>
+  <Cinder_Apparel_Projection.label>проекционный костюм</Cinder_Apparel_Projection.label>
+  <Cinder_Apparel_Projection.description>Футуристический проекционный костюм. Как ни странно, полупрозрачная проекция, похоже, ничего не скрывает. Похоже, в него встроено странное устройство, усиливающее половое влечение владельца.</Cinder_Apparel_Projection.description>
 </LanguageData>
