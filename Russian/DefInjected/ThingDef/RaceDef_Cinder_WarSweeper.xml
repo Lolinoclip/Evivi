@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: war sweeper -->
-  <Cinder_Mech_WarSweeper.label>war sweeper</Cinder_Mech_WarSweeper.label>
-  <!-- EN: A heavy armored anti-aircraft walking machine on the order of three meters high, equipped with anti-aircraft firepower of different calibers and abundant ammunition to accompany infantry in anti-aircraft operations. -->
-  <Cinder_Mech_WarSweeper.description>A heavy armored anti-aircraft walking machine on the order of three meters high, equipped with anti-aircraft firepower of different calibers and abundant ammunition to accompany infantry in anti-aircraft operations.</Cinder_Mech_WarSweeper.description>
-  <!-- EN: exo minigun -->
-  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>exo minigun</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>
-  <!-- EN: anti air turret -->
-  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>anti air turret</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>
-  <!-- EN: rocket pod right -->
-  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.2.renderNodeProperties.0.debugLabel>rocket pod right</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.2.renderNodeProperties.0.debugLabel>
-  <!-- EN: rocket pod left -->
-  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.3.renderNodeProperties.0.debugLabel>rocket pod left</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.3.renderNodeProperties.0.debugLabel>
-  <!-- EN: Left tentacle -->
-  <Cinder_Mech_WarSweeper.tools.Left_tentacle.label>Left tentacle</Cinder_Mech_WarSweeper.tools.Left_tentacle.label>
-  <!-- EN: tentacle -->
-  <Cinder_Mech_WarSweeper.tools.Left_tentacle.labelNoLocation>tentacle</Cinder_Mech_WarSweeper.tools.Left_tentacle.labelNoLocation>
-  <!-- EN: right tentacle -->
-  <Cinder_Mech_WarSweeper.tools.right_tentacle.label>right tentacle</Cinder_Mech_WarSweeper.tools.right_tentacle.label>
-  <!-- EN: tentacle -->
-  <Cinder_Mech_WarSweeper.tools.right_tentacle.labelNoLocation>tentacle</Cinder_Mech_WarSweeper.tools.right_tentacle.labelNoLocation>
-  <!-- EN: Front tentacle -->
-  <Cinder_Mech_WarSweeper.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_WarSweeper.tools.Front_tentacle.label>
+  <Cinder_Mech_WarSweeper.label>зенитная машина</Cinder_Mech_WarSweeper.label>
+  <Cinder_Mech_WarSweeper.description>Тяжелобронированная зенитная шагающая машина высотой около трёх метров. Оснащена зенитным вооружением разных калибров и большим боезапасом для сопровождения пехоты и обеспечения противовоздушной обороны.</Cinder_Mech_WarSweeper.description>
+  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>миниган экзоскелета</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>зенитная турель</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.2.renderNodeProperties.0.debugLabel>правый ракетный блок</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.2.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.3.renderNodeProperties.0.debugLabel>левый ракетный блок</Cinder_Mech_WarSweeper.comps.CompMultipleTurretGun.subTurrets.3.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarSweeper.tools.Left_tentacle.label>левое щупальце</Cinder_Mech_WarSweeper.tools.Left_tentacle.label>
+  <Cinder_Mech_WarSweeper.tools.Left_tentacle.labelNoLocation>щупальце</Cinder_Mech_WarSweeper.tools.Left_tentacle.labelNoLocation>
+  <Cinder_Mech_WarSweeper.tools.right_tentacle.label>правое щупальце</Cinder_Mech_WarSweeper.tools.right_tentacle.label>
+  <Cinder_Mech_WarSweeper.tools.right_tentacle.labelNoLocation>щупальце</Cinder_Mech_WarSweeper.tools.right_tentacle.labelNoLocation>
+  <Cinder_Mech_WarSweeper.tools.Front_tentacle.label>переднее щупальце</Cinder_Mech_WarSweeper.tools.Front_tentacle.label>
 </LanguageData>

@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: war attacker -->
-  <Cinder_Mech_WarAttacker.label>war attacker</Cinder_Mech_WarAttacker.label>
-  <!-- EN: A three meter high heavy armored assault walking machine with astonishing ammunition carrying capacity, like a walking armed helicopter, capable of leveling enemy positions with eight Hellfire missiles. -->
-  <Cinder_Mech_WarAttacker.description>A three meter high heavy armored assault walking machine with astonishing ammunition carrying capacity, like a walking armed helicopter, capable of leveling enemy positions with eight Hellfire missiles.</Cinder_Mech_WarAttacker.description>
-  <!-- EN: exo minigun -->
-  <Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>exo minigun</Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>
-  <!-- EN: anti air turret -->
-  <Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>anti air turret</Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>
-  <!-- EN: Left tentacle -->
-  <Cinder_Mech_WarAttacker.tools.Left_tentacle.label>Left tentacle</Cinder_Mech_WarAttacker.tools.Left_tentacle.label>
-  <!-- EN: tentacle -->
-  <Cinder_Mech_WarAttacker.tools.Left_tentacle.labelNoLocation>tentacle</Cinder_Mech_WarAttacker.tools.Left_tentacle.labelNoLocation>
-  <!-- EN: right tentacle -->
-  <Cinder_Mech_WarAttacker.tools.right_tentacle.label>right tentacle</Cinder_Mech_WarAttacker.tools.right_tentacle.label>
-  <!-- EN: tentacle -->
-  <Cinder_Mech_WarAttacker.tools.right_tentacle.labelNoLocation>tentacle</Cinder_Mech_WarAttacker.tools.right_tentacle.labelNoLocation>
-  <!-- EN: Front tentacle -->
-  <Cinder_Mech_WarAttacker.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_WarAttacker.tools.Front_tentacle.label>
+  <Cinder_Mech_WarAttacker.label>штурмовая машина</Cinder_Mech_WarAttacker.label>
+  <Cinder_Mech_WarAttacker.description>Тяжелобронированная штурмовая шагающая машина высотой три метра с внушительным боезапасом. Подобно шагающему боевому вертолёту, способна сравнять вражеские позиции с землёй восемью ракетами «Адское пламя».</Cinder_Mech_WarAttacker.description>
+  <Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>миниган экзоскелета</Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.0.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>зенитная турель</Cinder_Mech_WarAttacker.comps.CompMultipleTurretGun.subTurrets.1.renderNodeProperties.0.debugLabel>
+  <Cinder_Mech_WarAttacker.tools.Left_tentacle.label>левое щупальце</Cinder_Mech_WarAttacker.tools.Left_tentacle.label>
+  <Cinder_Mech_WarAttacker.tools.Left_tentacle.labelNoLocation>щупальце</Cinder_Mech_WarAttacker.tools.Left_tentacle.labelNoLocation>
+  <Cinder_Mech_WarAttacker.tools.right_tentacle.label>правое щупальце</Cinder_Mech_WarAttacker.tools.right_tentacle.label>
+  <Cinder_Mech_WarAttacker.tools.right_tentacle.labelNoLocation>щупальце</Cinder_Mech_WarAttacker.tools.right_tentacle.labelNoLocation>
+  <Cinder_Mech_WarAttacker.tools.Front_tentacle.label>переднее щупальце</Cinder_Mech_WarAttacker.tools.Front_tentacle.label>
 </LanguageData>
