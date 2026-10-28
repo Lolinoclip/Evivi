@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_ErodedAutocannon.label>шагающая автопушечная турель</Cinder_ErodedAutocannon.label>
+  <Cinder_ErodedAutocannon.label>автопушечный шагоход</Cinder_ErodedAutocannon.label>
   <Cinder_ErodedAutocannon.description>Подвижная тяжёлая автоматическая турель, оплетённая множеством странных щупалец.</Cinder_ErodedAutocannon.description>
   <Cinder_ErodedAutocannon.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</Cinder_ErodedAutocannon.comps.CompRefuelable.fuelLabel>
   <Cinder_ErodedAutocannon.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</Cinder_ErodedAutocannon.comps.CompRefuelable.fuelGizmoLabel>
@@ -10,7 +10,7 @@
   <Cinder_GunErodedAutocannon.label>искажённая автопушка</Cinder_GunErodedAutocannon.label>
   <Cinder_GunErodedAutocannon.description>Искажённая самозарядная крупнокалиберная пушка для установки на турель.</Cinder_GunErodedAutocannon.description>
   <Cinder_GunErodedAutocannon.verbs.Verb_Shoot.label>искажённая автопушка</Cinder_GunErodedAutocannon.verbs.Verb_Shoot.label>
-  <Cinder_ErodedSniperBase.label>шагающая урановая турель</Cinder_ErodedSniperBase.label>
+  <Cinder_ErodedSniperBase.label>урановый шагоход</Cinder_ErodedSniperBase.label>
   <Cinder_ErodedSniperBase.description>Подвижная бронебойная турель, оплетённая множеством странных щупалец.</Cinder_ErodedSniperBase.description>
   <Cinder_ErodedSniperBase.comps.CompRefuelable.fuelLabel>Выстрелов до перезарядки</Cinder_ErodedSniperBase.comps.CompRefuelable.fuelLabel>
   <Cinder_ErodedSniperBase.comps.CompRefuelable.fuelGizmoLabel>Урановые снаряды</Cinder_ErodedSniperBase.comps.CompRefuelable.fuelGizmoLabel>
@@ -20,7 +20,7 @@
   <Cinder_GunErodedSniper.label>искажённая урановая пушка</Cinder_GunErodedSniper.label>
   <Cinder_GunErodedSniper.description>Искажённая самозарядная пушка, стреляющая урановыми снарядами, для установки на турель.</Cinder_GunErodedSniper.description>
   <Cinder_GunErodedSniper.verbs.Verb_Shoot.label>искажённая урановая пушка</Cinder_GunErodedSniper.verbs.Verb_Shoot.label>
-  <Cinder_RocketswarmLauncher.label>шагающая ракетная установка</Cinder_RocketswarmLauncher.label>
+  <Cinder_RocketswarmLauncher.label>ракетный шагоход</Cinder_RocketswarmLauncher.label>
   <Cinder_RocketswarmLauncher.description>Подвижная установка экстренной обороны, выпускающая один залп ракет по большой площади. Не стреляет, пока кто-нибудь её не активирует. Очень эффективна против больших групп слабо защищённых бойцов, но менее полезна против небольшого числа бронированных целей. После залпа требует нескольких часов охлаждения и перезарядки.</Cinder_RocketswarmLauncher.description>
   <Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>Ракеты</Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
   <Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>Ракеты</Cinder_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
@@ -32,7 +32,7 @@
   <Cinder_GunRocketswarmLauncher.label>ракетная пусковая труба</Cinder_GunRocketswarmLauncher.label>
   <Cinder_GunRocketswarmLauncher.description>Пусковая труба того типа, который обычно устанавливают на ракетные турели залпового огня.</Cinder_GunRocketswarmLauncher.description>
   <Cinder_GunRocketswarmLauncher.verbs.Verb_Shoot.label>ракетная пусковая труба</Cinder_GunRocketswarmLauncher.verbs.Verb_Shoot.label>
-  <Cinder_TacticalTurret.label>шагающая тактическая турель</Cinder_TacticalTurret.label>
+  <Cinder_TacticalTurret.label>тактический турельный шагоход</Cinder_TacticalTurret.label>
   <Cinder_TacticalTurret.description>Подвижная турель малого радиуса действия. При сильном повреждении может взорваться.</Cinder_TacticalTurret.description>
   <Cinder_TacticalTurret.comps.CompRefuelable.fuelLabel>Выстрелов до замены ствола</Cinder_TacticalTurret.comps.CompRefuelable.fuelLabel>
   <Cinder_TacticalTurret.comps.CompRefuelable.fuelGizmoLabel>Прочность ствола</Cinder_TacticalTurret.comps.CompRefuelable.fuelGizmoLabel>
