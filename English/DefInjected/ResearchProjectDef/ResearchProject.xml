@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Amorphous polymer separation -->
+  <Cinder_Separation.label>Amorphous polymer separation</Cinder_Separation.label>
+  <!-- EN: Attempt to separate the solid phase from the biological part in amorphous polymers. -->
+  <Cinder_Separation.description>Attempt to separate the solid phase from the biological part in amorphous polymers.</Cinder_Separation.description>
+  <!-- EN: About: empty agent bottle -->
+  <Cinder_Separation.discoveredLetterTitle>About: empty agent bottle</Cinder_Separation.discoveredLetterTitle>
+  <!-- EN: Some hostile army units sometimes carry empty bottles like this, which can be obtained by defeating them.You can also obtain it through purchase. -->
+  <Cinder_Separation.discoveredLetterText>Some hostile army units sometimes carry empty bottles like this, which can be obtained by defeating them.You can also obtain it through purchase.</Cinder_Separation.discoveredLetterText>
+  <!-- EN:
+    <li>subject->Separation</li>
+    <li>subject_story->separate armor plates from this strange twisted mixed substance</li>
+    <li>subject_story->separate some meat with a burnt smell from amorphous polymers</li>
+    <li>subject_story->exploring the Applications of Amorphous Polymers</li>
+    <li>subject_gerund->separat amorphous polymer</li>
+  -->
+  <Cinder_Separation.generalRules.rulesStrings>
+    <li>subject->Separation</li>
+    <li>subject_story->separate armor plates from this strange twisted mixed substance</li>
+    <li>subject_story->separate some meat with a burnt smell from amorphous polymers</li>
+    <li>subject_story->exploring the Applications of Amorphous Polymers</li>
+    <li>subject_gerund->separat amorphous polymer</li>
+  </Cinder_Separation.generalRules.rulesStrings>
+
+  <!-- EN: Tentacle mechanism application -->
+  <Cinder_TentacleMechanism.label>Tentacle mechanism application</Cinder_TentacleMechanism.label>
+  <!-- EN: Attempt to artificially cultivate tentacle walking mechanisms using amorphous polymers and install them on mechanical structures. -->
+  <Cinder_TentacleMechanism.description>Attempt to artificially cultivate tentacle walking mechanisms using amorphous polymers and install them on mechanical structures.</Cinder_TentacleMechanism.description>
+  <!-- EN: About: burnt strange meat -->
+  <Cinder_TentacleMechanism.discoveredLetterTitle>About: burnt strange meat</Cinder_TentacleMechanism.discoveredLetterTitle>
+  <!-- EN: This is a bioactive part extracted from amorphous polymers with a burnt odor, strangely it does not decay. -->
+  <Cinder_TentacleMechanism.discoveredLetterText>This is a bioactive part extracted from amorphous polymers with a burnt odor, strangely it does not decay.</Cinder_TentacleMechanism.discoveredLetterText>
+  <!-- EN:
+    <li>subject->Tentacle mechanism</li>
+    <li>subject->Walking mechanism</li>
+    <li>subject->military-Tentacle application</li>
+    <li>subject_story->modify some frontline turrets to enable them to change their deployment positions on their own, so that the turrets can accompany the troops' attacks</li>
+    <li>subject_story->a completely different way of movement from wheeled, tracked, and mechanical walking, with low noise and strong passability</li>
+    <li>subject_gerund->make some immovable buildings move automatically</li>
+  -->
+  <Cinder_TentacleMechanism.generalRules.rulesStrings>
+    <li>subject->Tentacle mechanism</li>
+    <li>subject->Walking mechanism</li>
+    <li>subject->military-Tentacle application</li>
+    <li>subject_story->modify some frontline turrets to enable them to change their deployment positions on their own, so that the turrets can accompany the troops' attacks</li>
+    <li>subject_story->a completely different way of movement from wheeled, tracked, and mechanical walking, with low noise and strong passability</li>
+    <li>subject_gerund->make some immovable buildings move automatically</li>
+  </Cinder_TentacleMechanism.generalRules.rulesStrings>
+
+  <!-- EN: Large walking mechanism -->
+  <Cinder_TentacleWalkingMechanism.label>Large walking mechanism</Cinder_TentacleWalkingMechanism.label>
+  <!-- EN: A larger tentacle walking mechanism requires further research on the bioactive parts in amorphous polymers to prepare for heavier platforms. -->
+  <Cinder_TentacleWalkingMechanism.description>A larger tentacle walking mechanism requires further research on the bioactive parts in amorphous polymers to prepare for heavier platforms.</Cinder_TentacleWalkingMechanism.description>
+
+  <!-- EN: Twisted pharmacology -->
+  <Cinder_TwistedPharmacology.label>Twisted pharmacology</Cinder_TwistedPharmacology.label>
+  <!-- EN: Research on the medicinal value of amorphous polymers and the production of agent that enable people to acquire various abilities. -->
+  <Cinder_TwistedPharmacology.description>Research on the medicinal value of amorphous polymers and the production of agent that enable people to acquire various abilities.</Cinder_TwistedPharmacology.description>
+  <!-- EN:
+    <li>subject->Twisted pharmacology</li>
+    <li>subject->Erosion agent</li>
+    <li>subject_story->study the influence of different material ratios on the efficacy of pharmaceuticals</li>
+    <li>subject_story->explore the sources of special skills on Caster</li>
+    <li>subject_story->find ways to improve the regeneration ability of amorphous polymers</li>
+    <li>subject_gerund->Can manufacture erosion and regeneration agents with unstable effects</li>
+  -->
+  <Cinder_TwistedPharmacology.generalRules.rulesStrings>
+    <li>subject->Twisted pharmacology</li>
+    <li>subject->Erosion agent</li>
+    <li>subject_story->study the influence of different material ratios on the efficacy of pharmaceuticals</li>
+    <li>subject_story->explore the sources of special skills on Caster</li>
+    <li>subject_story->find ways to improve the regeneration ability of amorphous polymers</li>
+    <li>subject_gerund->Can manufacture erosion and regeneration agents with unstable effects</li>
+  </Cinder_TwistedPharmacology.generalRules.rulesStrings>
+
+  <!-- EN: Heavy armor application -->
+  <Cinder_HeavyArmor.label>Heavy armor application</Cinder_HeavyArmor.label>
+  <!-- EN: Further strengthen amorphous polymers for application on heavy defensive armor clothing or other armor. -->
+  <Cinder_HeavyArmor.description>Further strengthen amorphous polymers for application on heavy defensive armor clothing or other armor.</Cinder_HeavyArmor.description>
+
+  <!-- EN: Multiple warheads -->
+  <Cinder_MultipleWarheads.label>Multiple warheads</Cinder_MultipleWarheads.label>
+  <!-- EN: An improvement to firearms and ammunition that can cause more damage when bullets hit enemies. -->
+  <Cinder_MultipleWarheads.description>An improvement to firearms and ammunition that can cause more damage when bullets hit enemies.</Cinder_MultipleWarheads.description>
+
+  <!-- EN: Polymer tools -->
+  <Cinder_PowerTools.label>Polymer tools</Cinder_PowerTools.label>
+  <!-- EN: Some power tool weapons driven by amorphous polymer muscles can effectively defeat enemies in close combat. It can also be used as a handy production tool in daily life. -->
+  <Cinder_PowerTools.description>Some power tool weapons driven by amorphous polymer muscles can effectively defeat enemies in close combat. It can also be used as a handy production tool in daily life.</Cinder_PowerTools.description>
+
+  <!-- EN: Shaped charges -->
+  <Cinder_ShapedCharges.label>Shaped charges</Cinder_ShapedCharges.label>
+  <!-- EN: Research on a bomb based on the principle of energy gathering using conical charges, which focuses a high-temperature and high-pressure metal jet into a line to penetrate thick armor. -->
+  <Cinder_ShapedCharges.description>Research on a bomb based on the principle of energy gathering using conical charges, which focuses a high-temperature and high-pressure metal jet into a line to penetrate thick armor.</Cinder_ShapedCharges.description>
+  <!-- EN:
+    <li>subject->Shaped charges</li>
+    <li>subject->HEAT warhead</li>
+    <li>subject_story->analyzing the Principle of the Monroe Effect</li>
+    <li>subject_story->manufacturing powerful HEAT armor piercing bombs</li>
+    <li>subject_gerund->manufacturing Shaped Charges</li>
+  -->
+  <Cinder_ShapedCharges.generalRules.rulesStrings>
+    <li>subject->Shaped charges</li>
+    <li>subject->HEAT warhead</li>
+    <li>subject_story->analyzing the Principle of the Monroe Effect</li>
+    <li>subject_story->manufacturing powerful HEAT armor piercing bombs</li>
+    <li>subject_gerund->manufacturing Shaped Charges</li>
+  </Cinder_ShapedCharges.generalRules.rulesStrings>
+
+  <!-- EN: hellfire missile -->
+  <Cinder_HellfireMissile.label>hellfire missile</Cinder_HellfireMissile.label>
+  <!-- EN: Further application of the Monroe effect. -->
+  <Cinder_HellfireMissile.description>Further application of the Monroe effect.</Cinder_HellfireMissile.description>
+
+  <!-- EN: War machinery -->
+  <Cinder_WarMachinery.label>War machinery</Cinder_WarMachinery.label>
+  <!-- EN: A self disciplined war machine with powerful firepower that can guide Hellfire missiles to destroy heavily armored targets. -->
+  <Cinder_WarMachinery.description>A self disciplined war machine with powerful firepower that can guide Hellfire missiles to destroy heavily armored targets.</Cinder_WarMachinery.description>
+
+  <!-- EN: War attacker -->
+  <Cinder_WarAttacker.label>War attacker</Cinder_WarAttacker.label>
+  <!-- EN: Reverse engineer an ancient heavy attack mecha to create a usable heavy armed walking machine. -->
+  <Cinder_WarAttacker.description>Reverse engineer an ancient heavy attack mecha to create a usable heavy armed walking machine.</Cinder_WarAttacker.description>
+
+  <!-- EN: main battle walker -->
+  <Cinder_MainBattleWalker.label>main battle walker</Cinder_MainBattleWalker.label>
+  <!-- EN: Build the colony's own main battle tank level walker through reverse engineering. -->
+  <Cinder_MainBattleWalker.description>Build the colony's own main battle tank level walker through reverse engineering.</Cinder_MainBattleWalker.description>
+</LanguageData>
