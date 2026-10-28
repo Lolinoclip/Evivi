@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: black tentacle -->
-  <Cinder_TentacleTerrain.label>black tentacle</Cinder_TentacleTerrain.label>
+  <Cinder_TentacleTerrain.label>чёрные щупальца</Cinder_TentacleTerrain.label>
   <!-- EN: black tentacle ground. -->
-  <Cinder_TentacleTerrain.description>black tentacle ground.</Cinder_TentacleTerrain.description>
+  <Cinder_TentacleTerrain.description>Земля, покрытая чёрными щупальцами.</Cinder_TentacleTerrain.description>
 </LanguageData>
