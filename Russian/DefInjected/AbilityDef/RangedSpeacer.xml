@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Activate tentacles -->
+  <Cinder_ActivateTentacles.label>Activate tentacles</Cinder_ActivateTentacles.label>
+  <!-- EN: Activate the amorphous polymer tentacles on the gun body, extending them into sword blades -->
+  <Cinder_ActivateTentacles.description>Activate the amorphous polymer tentacles on the gun body, extending them into sword blades</Cinder_ActivateTentacles.description>
+  <!-- EN: Deactivate -->
+  <Cinder_Deactivate.label>Deactivate</Cinder_Deactivate.label>
+  <!-- EN: Deactivate amorphous polymers blades. -->
+  <Cinder_Deactivate.description>Deactivate amorphous polymers blades.</Cinder_Deactivate.description>
+</LanguageData>

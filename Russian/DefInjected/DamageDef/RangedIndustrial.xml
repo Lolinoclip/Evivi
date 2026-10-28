@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cinder_ExtraBullet.label>ExtraBullet</Cinder_ExtraBullet.label>
+  <Cinder_ExtraBullet.deathMessage>{0} has been shot to death.</Cinder_ExtraBullet.deathMessage>
+</LanguageData>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Autocannon walker -->
+  <Cinder_Mech_WalkerAutoCannon.label>Autocannon walker</Cinder_Mech_WalkerAutoCannon.label>
+  <!-- EN: A large walking turret with thick armor and large caliber automatic cannon, which can be used as a small IFV. -->
+  <Cinder_Mech_WalkerAutoCannon.description>A large walking turret with thick armor and large caliber automatic cannon, which can be used as a small IFV.</Cinder_Mech_WalkerAutoCannon.description>
+  <!-- EN: Left tentacle -->
+  <Cinder_Mech_WalkerAutoCannon.tools.Left_tentacle.label>Left tentacle</Cinder_Mech_WalkerAutoCannon.tools.Left_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerAutoCannon.tools.Left_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerAutoCannon.tools.Left_tentacle.labelNoLocation>
+  <!-- EN: right tentacle -->
+  <Cinder_Mech_WalkerAutoCannon.tools.right_tentacle.label>right tentacle</Cinder_Mech_WalkerAutoCannon.tools.right_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerAutoCannon.tools.right_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerAutoCannon.tools.right_tentacle.labelNoLocation>
+  <!-- EN: Front tentacle -->
+  <Cinder_Mech_WalkerAutoCannon.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_WalkerAutoCannon.tools.Front_tentacle.label>
+  <!-- EN: rocketswarm walker -->
+  <Cinder_Mech_WalkerRocket.label>rocketswarm walker</Cinder_Mech_WalkerRocket.label>
+  <!-- EN: A large walking turret with thick armor and cluster rocket launchers, which can be used as a small rocket launcher. -->
+  <Cinder_Mech_WalkerRocket.description>A large walking turret with thick armor and cluster rocket launchers, which can be used as a small rocket launcher.</Cinder_Mech_WalkerRocket.description>
+  <!-- EN: Left tentacle -->
+  <Cinder_Mech_WalkerRocket.tools.Left_tentacle.label>Left tentacle</Cinder_Mech_WalkerRocket.tools.Left_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerRocket.tools.Left_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerRocket.tools.Left_tentacle.labelNoLocation>
+  <!-- EN: right tentacle -->
+  <Cinder_Mech_WalkerRocket.tools.right_tentacle.label>right tentacle</Cinder_Mech_WalkerRocket.tools.right_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerRocket.tools.right_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerRocket.tools.right_tentacle.labelNoLocation>
+  <!-- EN: Front tentacle -->
+  <Cinder_Mech_WalkerRocket.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_WalkerRocket.tools.Front_tentacle.label>
+  <!-- EN: Uranium slug walker -->
+  <Cinder_Mech_WalkerSniper.label>Uranium slug walker</Cinder_Mech_WalkerSniper.label>
+  <!-- EN: A large walking turret with thick armor and armor piercing uranium shells, which can be used as a small anti armor vehicle。 -->
+  <Cinder_Mech_WalkerSniper.description>A large walking turret with thick armor and armor piercing uranium shells, which can be used as a small anti armor vehicle。</Cinder_Mech_WalkerSniper.description>
+  <!-- EN: Left tentacle -->
+  <Cinder_Mech_WalkerSniper.tools.Left_tentacle.label>Left tentacle</Cinder_Mech_WalkerSniper.tools.Left_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerSniper.tools.Left_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerSniper.tools.Left_tentacle.labelNoLocation>
+  <!-- EN: right tentacle -->
+  <Cinder_Mech_WalkerSniper.tools.right_tentacle.label>right tentacle</Cinder_Mech_WalkerSniper.tools.right_tentacle.label>
+  <!-- EN: tentacle -->
+  <Cinder_Mech_WalkerSniper.tools.right_tentacle.labelNoLocation>tentacle</Cinder_Mech_WalkerSniper.tools.right_tentacle.labelNoLocation>
+  <!-- EN: Front tentacle -->
+  <Cinder_Mech_WalkerSniper.tools.Front_tentacle.label>Front tentacle</Cinder_Mech_WalkerSniper.tools.Front_tentacle.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Long Dream -->
+  <Cinder_LongDreamStageA.stages.Long_Dream.label>Long Dream</Cinder_LongDreamStageA.stages.Long_Dream.label>
+  <!-- EN: No more pain... -->
+  <Cinder_LongDreamStageA.stages.Long_Dream.description>No more pain...</Cinder_LongDreamStageA.stages.Long_Dream.description>
+
+  <!-- EN: Long Dream -->
+  <Cinder_LongDreamStageB.stages.Long_Dream.label>Long Dream</Cinder_LongDreamStageB.stages.Long_Dream.label>
+  <!-- EN: relaxed... -->
+  <Cinder_LongDreamStageB.stages.Long_Dream.description>relaxed...</Cinder_LongDreamStageB.stages.Long_Dream.description>
+
+  <!-- EN: Mesmerised -->
+  <Cinder_StrangeSolutionEffect.stages.Mesmerised.label>Mesmerised</Cinder_StrangeSolutionEffect.stages.Mesmerised.label>
+  <!-- EN: Strange ideas keep popping up... -->
+  <Cinder_StrangeSolutionEffect.stages.Mesmerised.description>Strange ideas keep popping up...</Cinder_StrangeSolutionEffect.stages.Mesmerised.description>
+
+  <!-- EN: crystallization dissociation -->
+  <Cinder_NCD.stages.crystallization_dissociation.label>crystallization dissociation</Cinder_NCD.stages.crystallization_dissociation.label>
+  <!-- EN: I cannot fully control my body, every sound makes it difficult for me to distinguish the specific direction... -->
+  <Cinder_NCD.stages.crystallization_dissociation.description>I cannot fully control my body, every sound makes it difficult for me to distinguish the specific direction...</Cinder_NCD.stages.crystallization_dissociation.description>
+</LanguageData>

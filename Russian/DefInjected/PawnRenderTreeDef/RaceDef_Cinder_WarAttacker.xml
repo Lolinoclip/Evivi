@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Apparel root -->
+  <Cinder_WarAttacker.root.children.0.children.0.debugLabel>Apparel root</Cinder_WarAttacker.root.children.0.children.0.debugLabel>
+  <!-- EN: war mech top -->
+  <Cinder_WarAttacker.root.children.1.debugLabel>war mech top</Cinder_WarAttacker.root.children.1.debugLabel>
+  <!-- EN: Weapon/carried thing -->
+  <Cinder_WarAttacker.root.children.2.debugLabel>Weapon/carried thing</Cinder_WarAttacker.root.children.2.debugLabel>
+</LanguageData>

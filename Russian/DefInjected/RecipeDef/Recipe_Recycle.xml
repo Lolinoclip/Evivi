@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: smelt metal eroded walker debris -->
+  <Cinder_ExtractMetalFromSlag.label>smelt metal eroded walker debris</Cinder_ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from eroded walker debris. -->
+  <Cinder_ExtractMetalFromSlag.description>Use heat and strong electromagnets to extract useful metal from eroded walker debris.</Cinder_ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from eroded walker debris. -->
+  <Cinder_ExtractMetalFromSlag.jobString>Smelting metal from eroded walker debris.</Cinder_ExtractMetalFromSlag.jobString>
+  <!-- EN: disassemble eroded walker debris -->
+  <Cinder_ExtractCompFromSlag.label>disassemble eroded walker debris</Cinder_ExtractCompFromSlag.label>
+  <!-- EN: Disassemble eroded walker debris to extract useful component. -->
+  <Cinder_ExtractCompFromSlag.description>Disassemble eroded walker debris to extract useful component.</Cinder_ExtractCompFromSlag.description>
+  <!-- EN: disassembling eroded walker debris. -->
+  <Cinder_ExtractCompFromSlag.jobString>disassembling eroded walker debris.</Cinder_ExtractCompFromSlag.jobString>
+</LanguageData>

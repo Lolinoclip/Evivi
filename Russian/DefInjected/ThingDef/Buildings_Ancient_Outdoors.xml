@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient automatic truck -->
+  <Cinder_AncientRustedChunk_A.label>ancient automatic truck</Cinder_AncientRustedChunk_A.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientRustedChunk_A.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientRustedChunk_A.description>
+  <!-- EN: ancient automatic truck -->
+  <Cinder_AncientRustedChunk_None.label>ancient automatic truck</Cinder_AncientRustedChunk_None.label>
+  <!-- EN: An ancient, broken chunk.There seems to be nothing inside. -->
+  <Cinder_AncientRustedChunk_None.description>An ancient, broken chunk.There seems to be nothing inside.</Cinder_AncientRustedChunk_None.description>
+  <!-- EN: ancient war striker torso -->
+  <Cinder_AncientRustedChunk_B.label>ancient war striker torso</Cinder_AncientRustedChunk_B.label>
+  <!-- EN: An ancient, broken chunk.It seems to contain an advanced component that cannot be manufactured. -->
+  <Cinder_AncientRustedChunk_B.description>An ancient, broken chunk.It seems to contain an advanced component that cannot be manufactured.</Cinder_AncientRustedChunk_B.description>
+  <!-- EN: ancient war striker shoulder -->
+  <Cinder_AncientRustedChunk_C.label>ancient war striker shoulder</Cinder_AncientRustedChunk_C.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientRustedChunk_C.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientRustedChunk_C.description>
+  <!-- EN: ancient war striker shoulder -->
+  <Cinder_AncientRustedChunk_D.label>ancient war striker shoulder</Cinder_AncientRustedChunk_D.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientRustedChunk_D.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientRustedChunk_D.description>
+  <!-- EN: ancient base vehicle -->
+  <Cinder_AncientBaseVehicle.label>ancient base vehicle</Cinder_AncientBaseVehicle.label>
+  <!-- EN: An ancient, giant armored base vehicles.There seems to be some useful things inside. -->
+  <Cinder_AncientBaseVehicle.description>An ancient, giant armored base vehicles.There seems to be some useful things inside.</Cinder_AncientBaseVehicle.description>
+  <!-- EN: ancient wheeled tank -->
+  <Cinder_AncientWheeledTank.label>ancient wheeled tank</Cinder_AncientWheeledTank.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientWheeledTank.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientWheeledTank.description>
+  <!-- EN: ancient wheeled tank -->
+  <Cinder_AncientWheeledTank_None.label>ancient wheeled tank</Cinder_AncientWheeledTank_None.label>
+  <!-- EN: An ancient, broken chunk.There seems to be nothing inside. -->
+  <Cinder_AncientWheeledTank_None.description>An ancient, broken chunk.There seems to be nothing inside.</Cinder_AncientWheeledTank_None.description>
+  <!-- EN: ancient fast armored vehicle -->
+  <Cinder_AncientFastArmoredVehicle.label>ancient fast armored vehicle</Cinder_AncientFastArmoredVehicle.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientFastArmoredVehicle.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientFastArmoredVehicle.description>
+  <!-- EN: ancient fast armored vehicle -->
+  <Cinder_AncientFastArmoredVehicle_None.label>ancient fast armored vehicle</Cinder_AncientFastArmoredVehicle_None.label>
+  <!-- EN: An ancient, broken chunk.There seems to be northing inside. -->
+  <Cinder_AncientFastArmoredVehicle_None.description>An ancient, broken chunk.There seems to be northing inside.</Cinder_AncientFastArmoredVehicle_None.description>
+  <!-- EN: ancient giant cargo -->
+  <Cinder_AncientGiantCargo.label>ancient giant cargo</Cinder_AncientGiantCargo.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientGiantCargo.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientGiantCargo.description>
+  <!-- EN: ancient giant truck -->
+  <Cinder_AncientGiantTruck.label>ancient giant truck</Cinder_AncientGiantTruck.label>
+  <!-- EN: An ancient, broken chunk.There seems to be some useful things inside. -->
+  <Cinder_AncientGiantTruck.description>An ancient, broken chunk.There seems to be some useful things inside.</Cinder_AncientGiantTruck.description>
+</LanguageData>
