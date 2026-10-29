@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cinder_Setting>amorphous ember</Cinder_Setting>
-	<!-- EN: {0} has appeared! -->
-  <Cinder_CommaEyesLabel>Vanilla style face</Cinder_CommaEyesLabel>
-  <Cinder_CommaEyesDesc>Replace face and body with vanilla style comma face and vanilla body(Need to restart game，Only effective under HARace，Invalid in facial animation environment)</Cinder_CommaEyesDesc>
-  
-  <Cinder_NerfLabel>Vanilla style rebalance</Cinder_NerfLabel>
-  <Cinder_NerfDesc>Completely balancing all values and mechanisms, you can enjoy a competitive experience similar to the original environment (no longer high difficulty and high reward)</Cinder_NerfDesc>
-  
-  <Cinder_NeedResurrectOrRegen>People with amorphous regeneration ability are required to use it</Cinder_NeedResurrectOrRegen>
-  <Cinder_AllAbilityGained>Already acquired all abilities</Cinder_AllAbilityGained>
-  <Embergarden_PlatingTooltip>Remaining armor</Embergarden_PlatingTooltip>
-
-  <Stat_ThingUniqueWeaponTrait_Label>Traits</Stat_ThingUniqueWeaponTrait_Label>
-  <Stat_ThingUniqueWeaponTrait_Desc>This weapon's individual traits.</Stat_ThingUniqueWeaponTrait_Desc>
-  <WeaponTraits>Weapon traits</WeaponTraits>
-  <StatsReport_WeaponTraits>Weapon traits</StatsReport_WeaponTraits>
-  <StatsReport_BurstShotCountMultiplier>Burst shot count multiplier</StatsReport_BurstShotCountMultiplier>
-  <StatsReport_BurstShotSpeedMultiplier>Fire rate multiplier</StatsReport_BurstShotSpeedMultiplier>
-  <StatsReport_AdditionalStoppingPower>Stopping power offset</StatsReport_AdditionalStoppingPower>
+  <Cinder_Setting>Аморфный уголёк</Cinder_Setting>
+  <Cinder_CommaEyesLabel>Внешность в стиле базовой игры</Cinder_CommaEyesLabel>
+  <Cinder_CommaEyesDesc>Заменить лицо и тело на варианты в стиле базовой игры: лицо с глазами-запятыми и стандартное тело. Требуется перезапуск игры. Работает только с HARace; не действует при использовании Facial Animation.</Cinder_CommaEyesDesc>
+  <Cinder_NerfLabel>Баланс в стиле базовой игры</Cinder_NerfLabel>
+  <Cinder_NerfDesc>Полностью перебалансировать характеристики и механики, приблизив игровой опыт к базовой игре — без повышенной сложности и повышенных наград.</Cinder_NerfDesc>
+  <Cinder_NeedResurrectOrRegen>Для использования требуется способность к аморфной регенерации</Cinder_NeedResurrectOrRegen>
+  <Cinder_AllAbilityGained>Все способности уже получены</Cinder_AllAbilityGained>
+  <Embergarden_PlatingTooltip>Оставшаяся броня</Embergarden_PlatingTooltip>
+  <Stat_ThingUniqueWeaponTrait_Label>Свойства</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Desc>Индивидуальные свойства этого оружия.</Stat_ThingUniqueWeaponTrait_Desc>
+  <WeaponTraits>Свойства оружия</WeaponTraits>
+  <StatsReport_WeaponTraits>Свойства оружия</StatsReport_WeaponTraits>
+  <StatsReport_BurstShotCountMultiplier>Множитель числа выстрелов в очереди</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>Множитель темпа стрельбы</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_AdditionalStoppingPower>Прибавка к останавливающему действию</StatsReport_AdditionalStoppingPower>
 </LanguageData>

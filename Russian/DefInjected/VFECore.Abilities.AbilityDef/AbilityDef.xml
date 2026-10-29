@@ -1,63 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Hellfire Missile -->
-  <Cinder_LaunchHellfireMissile.label>Hellfire Missile</Cinder_LaunchHellfireMissile.label>
-  <!-- EN: Launch Missile -->
-  <Cinder_LaunchHellfireMissile.description>Launch Missile</Cinder_LaunchHellfireMissile.description>
-  <!-- EN: Hellfire Missile -->
-  <Cinder_LaunchHellfireMissileB.label>Hellfire Missile</Cinder_LaunchHellfireMissileB.label>
-  <!-- EN: Launch Missile -->
-  <Cinder_LaunchHellfireMissileB.description>Launch Missile</Cinder_LaunchHellfireMissileB.description>
-  <!-- EN: Transformation -->
-  <Ability_Transformation_TacticalTurret.label>Transformation</Ability_Transformation_TacticalTurret.label>
-  <!-- EN: Transform to a turret. -->
-  <Ability_Transformation_TacticalTurret.description>Transform to a turret.</Ability_Transformation_TacticalTurret.description>
-  <!-- EN: Transformation -->
-  <Ability_Transformation_Cannon.label>Transformation</Ability_Transformation_Cannon.label>
-  <!-- EN: Transform to a turret. -->
-  <Ability_Transformation_Cannon.description>Transform to a turret.</Ability_Transformation_Cannon.description>
-  <!-- EN: Transformation -->
-  <Ability_Transformation_Sniper.label>Transformation</Ability_Transformation_Sniper.label>
-  <!-- EN: Transform to a turret. -->
-  <Ability_Transformation_Sniper.description>Transform to a turret.</Ability_Transformation_Sniper.description>
-  <!-- EN: Transformation -->
-  <Ability_Transformation_Rocket.label>Transformation</Ability_Transformation_Rocket.label>
-  <!-- EN: Transform to a turret. -->
-  <Ability_Transformation_Rocket.description>Transform to a turret.</Ability_Transformation_Rocket.description>
-  <!-- EN: burn hemostasis -->
-  <Cinder_BurnHemostasis.label>burn hemostasis</Cinder_BurnHemostasis.label>
-  <!-- EN: Use burnt tentacles to stop bleeding from wounds on the target's body. -->
-  <Cinder_BurnHemostasis.description>Use burnt tentacles to stop bleeding from wounds on the target's body.</Cinder_BurnHemostasis.description>
-  <!-- EN: suffocating whispers -->
-  <Cinder_SuffocatingWhispers.label>suffocating whispers</Cinder_SuffocatingWhispers.label>
-  <!-- EN: Entangles the target with tentacles, causing temporary suffocation and coma. -->
-  <Cinder_SuffocatingWhispers.description>Entangles the target with tentacles, causing temporary suffocation and coma.</Cinder_SuffocatingWhispers.description>
-  <!-- EN: eternal fear -->
-  <Cinder_EternalFearAbility.label>eternal fear</Cinder_EternalFearAbility.label>
-  <!-- EN: Erodes the spirit of the target, detach it from the protection of reason, and make them fall into the state of fear. -->
-  <Cinder_EternalFearAbility.description>Erodes the spirit of the target, detach it from the protection of reason, and make them fall into the state of fear.</Cinder_EternalFearAbility.description>
-  <!-- EN: fear pulse -->
-  <Cinder_FearPulse.label>fear pulse</Cinder_FearPulse.label>
-  <!-- EN: Erodes the spirit of nearby animals, causing them to fall into the state of fear. -->
-  <Cinder_FearPulse.description>Erodes the spirit of nearby animals, causing them to fall into the state of fear.</Cinder_FearPulse.description>
-  <!-- EN: erosion skip -->
-  <Cinder_ErosionSkip.label>erosion skip</Cinder_ErosionSkip.label>
-  <!-- EN: Forcefully teleporting the target from a location to a random distance, and make them fall into the state of fear. Objects above a certain size cannot be teleported. -->
-  <Cinder_ErosionSkip.description>Forcefully teleporting the target from a location to a random distance, and make them fall into the state of fear. Objects above a certain size cannot be teleported.</Cinder_ErosionSkip.description>
-  <!-- EN: amorphous wall -->
-  <Cinder_AmorphousWall.label>amorphous wall</Cinder_AmorphousWall.label>
-  <!-- EN: Summon a sturdy tentacle wall from underground. -->
-  <Cinder_AmorphousWall.description>Summon a sturdy tentacle wall from underground.</Cinder_AmorphousWall.description>
-  <!-- EN: amorphous IED -->
-  <Cinder_AmorphousIED.label>amorphous IED</Cinder_AmorphousIED.label>
-  <!-- EN: Summon a bomb trap from underground, which will automatically reload. -->
-  <Cinder_AmorphousIED.description>Summon a bomb trap from underground, which will automatically reload.</Cinder_AmorphousIED.description>
-  <!-- EN: amorphous winding -->
-  <Cinder_AmorphousWinding.label>amorphous winding</Cinder_AmorphousWinding.label>
-  <!-- EN: Summon a vast tentacle terrain and entangle anyone walking on it. -->
-  <Cinder_AmorphousWinding.description>Summon a vast tentacle terrain and entangle anyone walking on it.</Cinder_AmorphousWinding.description>
-  <!-- EN: eroded bomb -->
-  <Cinder_ErodedBomb.label>eroded bomb</Cinder_ErodedBomb.label>
-  <!-- EN: Throws a eroded bomb -->
-  <Cinder_ErodedBomb.description>Throws a eroded bomb</Cinder_ErodedBomb.description>
+  <Cinder_LaunchHellfireMissile.label>Ракета «Адское пламя»</Cinder_LaunchHellfireMissile.label>
+  <Cinder_LaunchHellfireMissile.description>Запустить ракету.</Cinder_LaunchHellfireMissile.description>
+  <Cinder_LaunchHellfireMissileB.label>Ракета «Адское пламя»</Cinder_LaunchHellfireMissileB.label>
+  <Cinder_LaunchHellfireMissileB.description>Запустить ракету.</Cinder_LaunchHellfireMissileB.description>
+  <Ability_Transformation_TacticalTurret.label>Трансформация</Ability_Transformation_TacticalTurret.label>
+  <Ability_Transformation_TacticalTurret.description>Превратиться в турель.</Ability_Transformation_TacticalTurret.description>
+  <Ability_Transformation_Cannon.label>Трансформация</Ability_Transformation_Cannon.label>
+  <Ability_Transformation_Cannon.description>Превратиться в турель.</Ability_Transformation_Cannon.description>
+  <Ability_Transformation_Sniper.label>Трансформация</Ability_Transformation_Sniper.label>
+  <Ability_Transformation_Sniper.description>Превратиться в турель.</Ability_Transformation_Sniper.description>
+  <Ability_Transformation_Rocket.label>Трансформация</Ability_Transformation_Rocket.label>
+  <Ability_Transformation_Rocket.description>Превратиться в турель.</Ability_Transformation_Rocket.description>
+  <Cinder_BurnHemostasis.label>Прижигание</Cinder_BurnHemostasis.label>
+  <Cinder_BurnHemostasis.description>Остановить кровотечение из ран цели с помощью обожжённых щупалец.</Cinder_BurnHemostasis.description>
+  <Cinder_SuffocatingWhispers.label>Удушающий шёпот</Cinder_SuffocatingWhispers.label>
+  <Cinder_SuffocatingWhispers.description>Опутать цель щупальцами, вызывая временное удушье и кому.</Cinder_SuffocatingWhispers.description>
+  <Cinder_EternalFearAbility.label>Первородный ужас</Cinder_EternalFearAbility.label>
+  <Cinder_EternalFearAbility.description>Исказить сознание цели, лишив её защиты разума и погрузив в страх.</Cinder_EternalFearAbility.description>
+  <Cinder_FearPulse.label>Импульс страха</Cinder_FearPulse.label>
+  <Cinder_FearPulse.description>Исказить сознание животных поблизости, вызывая у них страх.</Cinder_FearPulse.description>
+  <Cinder_ErosionSkip.label>Искажающий прыжок</Cinder_ErosionSkip.label>
+  <Cinder_ErosionSkip.description>Принудительно телепортировать цель на случайное расстояние, вызывая у неё страх. Объекты больше определённого размера нельзя телепортировать.</Cinder_ErosionSkip.description>
+  <Cinder_AmorphousWall.label>Аморфная стена</Cinder_AmorphousWall.label>
+  <Cinder_AmorphousWall.description>Призвать из-под земли прочную стену из щупалец.</Cinder_AmorphousWall.description>
+  <Cinder_AmorphousIED.label>Аморфная мина</Cinder_AmorphousIED.label>
+  <Cinder_AmorphousIED.description>Призвать из-под земли взрывную ловушку, которая автоматически перезаряжается.</Cinder_AmorphousIED.description>
+  <Cinder_AmorphousWinding.label>Аморфное оплетение</Cinder_AmorphousWinding.label>
+  <Cinder_AmorphousWinding.description>Покрыть обширный участок земли щупальцами, опутывающими всех, кто по нему проходит.</Cinder_AmorphousWinding.description>
+  <Cinder_ErodedBomb.label>Искажённая бомба</Cinder_ErodedBomb.label>
+  <Cinder_ErodedBomb.description>Бросить искажённую бомбу.</Cinder_ErodedBomb.description>
 </LanguageData>
