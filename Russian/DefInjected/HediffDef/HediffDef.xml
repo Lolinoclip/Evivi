@@ -12,7 +12,7 @@
   <Cinder_EyeHediff.label>искажённые глаза</Cinder_EyeHediff.label>
   <Cinder_EyeHediff.description>Глаза, благословлённые неведомым.</Cinder_EyeHediff.description>
   <Cinder_ResurrectComa.label>кристаллизационная кома</Cinder_ResurrectComa.label>
-  <Cinder_ResurrectComa.description>Аморфный полимер полностью кристаллизовал тело этого человека. Теперь оно почти не отличается от скопления чрезвычайно твёрдого полимера, а не живого организма, что делает его неразрушимым.</Cinder_ResurrectComa.description>
+  <Cinder_ResurrectComa.description>Аморфный полимер полностью кристаллизовал тело этого человека. Теперь оно скорее представляет собой скопление чрезвычайно твёрдого полимера, чем живой организм, что делает его неразрушимым.</Cinder_ResurrectComa.description>
   <Cinder_Suffocation.label>кома от удушья</Cinder_Suffocation.label>
   <Cinder_Suffocation.description>Кома, вызванная удушьем.</Cinder_Suffocation.description>
   <Cinder_PolymerActivation.label>активация полимера</Cinder_PolymerActivation.label>
@@ -54,8 +54,8 @@
   <Cinder_MusicStopper.description>Скрытое состояние, останавливающее текущую музыку босса при потере боеспособности или смерти. Должно быть невидимым и удаляться после срабатывания.</Cinder_MusicStopper.description>
   <Cinder_ArtificiaLife.label>искусственная жизнь</Cinder_ArtificiaLife.label>
   <Cinder_ArtificiaLife.description>Зачатие невозможно.</Cinder_ArtificiaLife.description>
-  <Cinder_IntrinsicPropertiesOfPolymers.label>собственные свойства полимера</Cinder_IntrinsicPropertiesOfPolymers.label>
-  <Cinder_IntrinsicPropertiesOfPolymers.labelNoun>собственные свойства полимера</Cinder_IntrinsicPropertiesOfPolymers.labelNoun>
+  <Cinder_IntrinsicPropertiesOfPolymers.label>природные свойства полимера</Cinder_IntrinsicPropertiesOfPolymers.label>
+  <Cinder_IntrinsicPropertiesOfPolymers.labelNoun>природные свойства полимера</Cinder_IntrinsicPropertiesOfPolymers.labelNoun>
   <Cinder_IntrinsicPropertiesOfPolymers.description>Аморфный полимер невозможно разрезать напрямую. При этом он поддаётся обработке снарядами или медленными движениями при определённом уровне кинетической энергии.</Cinder_IntrinsicPropertiesOfPolymers.description>
   <Cinder_SrangeSolution.label>странный раствор</Cinder_SrangeSolution.label>
   <Cinder_SrangeSolution.description>Безвредный препарат, который часто рассеивает внимание и вызывает неконтролируемое половое влечение.</Cinder_SrangeSolution.description>

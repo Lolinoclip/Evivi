@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cinder_Warden_StartApproaching.text>«Разведчики сообщают о приближении крупных сил противника. Это не одиночный налёт. Готовьте оборону. Вместе мы выстоим».</Cinder_Warden_StartApproaching.text>
-  <Cinder_Warden_StartApproaching.confirmationText>Встретить бедствие</Cinder_Warden_StartApproaching.confirmationText>
+  <Cinder_Warden_StartApproaching.confirmationText>Противостоять бедствию</Cinder_Warden_StartApproaching.confirmationText>
   <Cinder_Warden_StartPromise.text>«Они снова идут… Пока мы вместе, всё будет хорошо. Обещайте мне, что выживете».</Cinder_Warden_StartPromise.text>
   <Cinder_Warden_StartPromise.confirmationText>По боевым местам</Cinder_Warden_StartPromise.confirmationText>
   <Cinder_Warden_StartGunfire.text>«Как громко! Повсюду выстрелы. Они идут. Я защищу вас… Не сдавайтесь».</Cinder_Warden_StartGunfire.text>
