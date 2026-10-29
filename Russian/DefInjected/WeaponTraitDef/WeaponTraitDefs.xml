@@ -34,8 +34,8 @@
   <Cinder_LightStock.description>Облегчённый приклад сокращает время перезарядки этого оружия, но затрудняет контроль отдачи.</Cinder_LightStock.description>
   <Cinder_LightStock.traitAdjectives.0>лёгкий</Cinder_LightStock.traitAdjectives.0>
   <Cinder_LightStock.traitAdjectives.1>облегчённый</Cinder_LightStock.traitAdjectives.1>
-  <Cinder_LongTentacleBlade.label>щупальцевое лезвие меча</Cinder_LongTentacleBlade.label>
-  <Cinder_LongTentacleBlade.description>Это оружие оснащено щупальцевым лезвием меча, позволяющим эффективно поражать цели.</Cinder_LongTentacleBlade.description>
+  <Cinder_LongTentacleBlade.label>клинок-щупальце</Cinder_LongTentacleBlade.label>
+  <Cinder_LongTentacleBlade.description>Это оружие оснащено клинком-щупальцем, позволяющим эффективно поражать цели.</Cinder_LongTentacleBlade.description>
   <Cinder_LongTentacleBlade.traitAdjectives.0>щупальцевый</Cinder_LongTentacleBlade.traitAdjectives.0>
   <Cinder_LongTentacleBlade.traitAdjectives.1>искажённый</Cinder_LongTentacleBlade.traitAdjectives.1>
   <Cinder_UncontrollableTentacleBlade.label>неконтролируемое щупальцевое лезвие</Cinder_UncontrollableTentacleBlade.label>
@@ -58,7 +58,7 @@
   <Cinder_ErosionRounds.traitAdjectives.2>искажённый</Cinder_ErosionRounds.traitAdjectives.2>
   <Cinder_MultiHeadedRounds.label>мультипули</Cinder_MultiHeadedRounds.label>
   <Cinder_MultiHeadedRounds.description>Это оружие стреляет мультипулями, наносящими дополнительные ранения.</Cinder_MultiHeadedRounds.description>
-  <Cinder_MultiHeadedRounds.traitAdjectives.0>многозарядный</Cinder_MultiHeadedRounds.traitAdjectives.0>
+  <Cinder_MultiHeadedRounds.traitAdjectives.0>мультипульный</Cinder_MultiHeadedRounds.traitAdjectives.0>
   <Cinder_MultiHeadedRounds.traitAdjectives.1>расщепляющий</Cinder_MultiHeadedRounds.traitAdjectives.1>
   <Cinder_MultiHeadedRounds.traitAdjectives.2>множественный</Cinder_MultiHeadedRounds.traitAdjectives.2>
   <Cinder_EMPRounds.label>ЭМИ-боеприпасы</Cinder_EMPRounds.label>
@@ -71,7 +71,7 @@
   <Cinder_HollowPointRounds.traitAdjectives.0>разрывающий</Cinder_HollowPointRounds.traitAdjectives.0>
   <Cinder_HollowPointRounds.traitAdjectives.1>экспансивный</Cinder_HollowPointRounds.traitAdjectives.1>
   <Cinder_HollowPointRounds.traitAdjectives.2>сокрушительный</Cinder_HollowPointRounds.traitAdjectives.2>
-  <Cinder_HollowPointRounds.traitAdjectives.3>плотоядный</Cinder_HollowPointRounds.traitAdjectives.3>
+  <Cinder_HollowPointRounds.traitAdjectives.3>плотерзатель</Cinder_HollowPointRounds.traitAdjectives.3>
   <Cinder_HollowPointRounds.traitAdjectives.4>перемалывающий</Cinder_HollowPointRounds.traitAdjectives.4>
   <Cinder_Flechette.label>флешетты</Cinder_Flechette.label>
   <Cinder_Flechette.description>Это оружие использует флешетты с повышенной пробивной способностью.</Cinder_Flechette.description>
@@ -169,5 +169,5 @@
   <Cinder_Lightweight.label>облегчённая конструкция</Cinder_Lightweight.label>
   <Cinder_Lightweight.description>Это оружие значительно легче обычного, поэтому прицеливание занимает меньше времени.</Cinder_Lightweight.description>
   <Cinder_Lightweight.traitAdjectives.0>лёгкий</Cinder_Lightweight.traitAdjectives.0>
-  <Cinder_Lightweight.traitAdjectives.1>быстровыхватываемый</Cinder_Lightweight.traitAdjectives.1>
+  <Cinder_Lightweight.traitAdjectives.1>молниеносный</Cinder_Lightweight.traitAdjectives.1>
 </LanguageData>
