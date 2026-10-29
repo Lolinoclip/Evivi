@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cinder_NamerUniqueWeapon.rulePack.rulesStrings>
-    <li>r_weapon_name(p=2)->«[weapon_noun]» — [weapon_type]</li>
+    <li>r_weapon_name(p=2)->[weapon_type] «[weapon_noun]» — «[weapon_adjective]»</li>
     <li>r_weapon_name(p=0.5)->«[badass_concept]» — [weapon_type]</li>
     <li>r_weapon_name(p=0.5)->«[weapon_adjective]» — [weapon_type]</li>
     <li>r_weapon_name(p=0.5)->[weapon_type] под именем «[badass_concept]»</li>
-    <li>r_weapon_name(p=0.3)->«[weapon_noun]» — оружие владельца [ANYPAWN_nameIndef]</li>
-    <li>r_weapon_name(p=0.3)->«[weapon_adjective]» — оружие владельца [ANYPAWN_nameIndef]</li>
-    <li>r_weapon_name(p=0.3)->«[badass_concept]» — оружие владельца [ANYPAWN_nameIndef]</li>
-    <li>weapon_noun(p=2)->[weapon_type]</li>
+    <li>r_weapon_name(p=0.3)->«[weapon_noun]» — владелец: [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->«[weapon_noun]», прозвище «[weapon_adjective]» — владелец: [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->«[badass_concept]» — владелец: [ANYPAWN_nameIndef]</li>
+    <li>weapon_noun(p=2)->[badass_noun]</li>
     <li>weapon_noun->[badass_noun]</li>
     <li>weapon_noun->[badass_concept]</li>
     <li>weapon_adjective(p=2)->[trait_adjective]</li>
