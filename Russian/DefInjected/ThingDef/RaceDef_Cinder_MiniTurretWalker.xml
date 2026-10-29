@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_Mech_MiniTurretWalker.label>тактический турельный шагоход</Cinder_Mech_MiniTurretWalker.label>
+  <Cinder_Mech_MiniTurretWalker.label>тактический шагоход</Cinder_Mech_MiniTurretWalker.label>
   <Cinder_Mech_MiniTurretWalker.description>Небольшая шагающая турель, способная взять на себя часть задач пехоты и отвлечь огонь противника.</Cinder_Mech_MiniTurretWalker.description>
   <Cinder_Mech_MiniTurretWalker.tools.Left_tentacle.label>левое щупальце</Cinder_Mech_MiniTurretWalker.tools.Left_tentacle.label>
   <Cinder_Mech_MiniTurretWalker.tools.Left_tentacle.labelNoLocation>щупальце</Cinder_Mech_MiniTurretWalker.tools.Left_tentacle.labelNoLocation>
