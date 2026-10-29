@@ -25,7 +25,7 @@
   <Cinder_MP12A.tools.barrel.label>ствол</Cinder_MP12A.tools.barrel.label>
   <Cinder_MP12A.verbs.Verb_Shoot.label>ПП «Игла»</Cinder_MP12A.verbs.Verb_Shoot.label>
   <Cinder_PCX33A.label>винтовка «Уроборос»</Cinder_PCX33A.label>
-  <Cinder_PCX33A.description>Древняя мощная винтовка, чей урон обманчив на первый взгляд. Особая пуля разрушается при попадании в цель, нанося тяжёлые повреждения. Неизвестно, что исказило это оружие, но иногда на нём вырастают странные щупальца.</Cinder_PCX33A.description>
+  <Cinder_PCX33A.description>Древняя мощная винтовка, чьё действие не так просто, как кажется. Особая пуля разрушается при попадании в цель, нанося тяжёлые повреждения. Неизвестно, что исказило это оружие, но иногда на нём вырастают странные щупальца.</Cinder_PCX33A.description>
   <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>Уроборос</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>
   <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>гремучник</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>
   <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>змея</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>
@@ -44,7 +44,7 @@
   <Cinder_Flint50A.tools.stock.label>приклад</Cinder_Flint50A.tools.stock.label>
   <Cinder_Flint50A.tools.barrel.label>ствол</Cinder_Flint50A.tools.barrel.label>
   <Cinder_Flint50A.verbs.Verb_Shoot.label>крупнокалиберная винтовка «Кремень»</Cinder_Flint50A.verbs.Verb_Shoot.label>
-  <Cinder_Dragonslayer.label>лук «Драконоборец»</Cinder_Dragonslayer.label>
+  <Cinder_Dragonslayer.label>«Драконоборец»</Cinder_Dragonslayer.label>
   <Cinder_Dragonslayer.description>Древняя противотанковая ракетная установка увеличенной дальности. Разрушает тяжёлую броню, запуская щупальцевые кумулятивные боеприпасы. Может также превращаться в миниган для борьбы с группами целей.</Cinder_Dragonslayer.description>
   <Cinder_Dragonslayer.comps.CompSecondaryVerb.description>Сменить форму оружия</Cinder_Dragonslayer.comps.CompSecondaryVerb.description>
   <Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>Ракета</Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>
@@ -55,7 +55,7 @@
   <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>большой лук</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>
   <Cinder_Dragonslayer.tools.stock.label>приклад</Cinder_Dragonslayer.tools.stock.label>
   <Cinder_Dragonslayer.tools.barrel.label>ствол</Cinder_Dragonslayer.tools.barrel.label>
-  <Cinder_Dragonslayer.verbs.Verb_Shoot.label>лук «Драконоборец»</Cinder_Dragonslayer.verbs.Verb_Shoot.label>
+  <Cinder_Dragonslayer.verbs.Verb_Shoot.label>«Драконоборец»</Cinder_Dragonslayer.verbs.Verb_Shoot.label>
   <Cinder_ErosionGourd.label>тыква искажения</Cinder_ErosionGourd.label>
   <Cinder_ErosionGourd.description>Странная тыква, способная выпускать щупальца, пронзающие врагов на расстоянии. Иногда на ней вырастают странные щупальца.</Cinder_ErosionGourd.description>
   <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>тыква</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>
@@ -66,8 +66,8 @@
   <Cinder_ErosionGourd.tools.Tentacle_stab.label>укол щупальцем</Cinder_ErosionGourd.tools.Tentacle_stab.label>
   <Cinder_ErosionGourd.verbs.Verb_Shoot.label>тыква искажения</Cinder_ErosionGourd.verbs.Verb_Shoot.label>
   <Cinder_TentacleGourdProj.label>щупальце</Cinder_TentacleGourdProj.label>
-  <Cinder_PlasticGrenades.label>пластиковая взрывчатка</Cinder_PlasticGrenades.label>
+  <Cinder_PlasticGrenades.label>полимерная взрывчатка</Cinder_PlasticGrenades.label>
   <Cinder_PlasticGrenades.description>Мощная взрывчатка на основе полимера, эффективная против сооружений и оборонительных построек.</Cinder_PlasticGrenades.description>
-  <Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>бросить пластиковую взрывчатку</Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>
-  <Cinder_PlasticExplosives.label>пластиковая взрывчатка</Cinder_PlasticExplosives.label>
+  <Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>бросить полимерную взрывчатку</Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>
+  <Cinder_PlasticExplosives.label>полимерная взрывчатка</Cinder_PlasticExplosives.label>
 </LanguageData>

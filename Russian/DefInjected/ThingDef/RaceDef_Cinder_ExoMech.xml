@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cinder_Mech_ErodedEXO.label>искажённый экзоскелет</Cinder_Mech_ErodedEXO.label>
-  <Cinder_Mech_ErodedEXO.description>Серийный бронированный штурмовой мех высотой три метра, занимающий промежуточное место между пехотой и танками. Несёт разнообразное вооружение и противотанковые ракеты, составляя часть бронированного наступающего потока.</Cinder_Mech_ErodedEXO.description>
+  <Cinder_Mech_ErodedEXO.description>Серийный бронированный штурмовой мех высотой три метра, занимающий промежуточное место между пехотой и танками. Оснащён разнообразным вооружением и противотанковыми ракетами и действует в составе наступающей бронетехники.</Cinder_Mech_ErodedEXO.description>
   <Cinder_Mech_ErodedEXO.tools.Left_tentacle.label>левое щупальце</Cinder_Mech_ErodedEXO.tools.Left_tentacle.label>
   <Cinder_Mech_ErodedEXO.tools.Left_tentacle.labelNoLocation>щупальце</Cinder_Mech_ErodedEXO.tools.Left_tentacle.labelNoLocation>
   <Cinder_Mech_ErodedEXO.tools.right_tentacle.label>правое щупальце</Cinder_Mech_ErodedEXO.tools.right_tentacle.label>

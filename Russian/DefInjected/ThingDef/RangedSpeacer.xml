@@ -23,7 +23,7 @@
   <!-- EN: fume greatsword -->
   <Cinder_FumeGreatswordM.label>дымный двуручный меч</Cinder_FumeGreatswordM.label>
   <!-- EN: The Fume Greatsword with the tentacle blade activated. The gun body is now wrapped in hardened activated tentacles, functioning as a sharp greatsword. -->
-  <Cinder_FumeGreatswordM.description>Дымный двуручный меч с активированным щупальцевым лезвием. Корпус оружия оплетён затвердевшими активированными щупальцами и служит острым двуручным мечом.</Cinder_FumeGreatswordM.description>
+  <Cinder_FumeGreatswordM.description>Дымный двуручный меч с активированным щупальцевым лезвием. Корпус оружия оплетён активированными и затвердевшими щупальцами, образующими острый двуручный меч.</Cinder_FumeGreatswordM.description>
   <!-- EN: greatsword -->
   <Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>двуручный меч</Cinder_FumeGreatswordM.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: fume -->
