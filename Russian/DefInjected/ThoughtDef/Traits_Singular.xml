@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Cinder_CokeRelationOffset.stages.Amorphouscoke.label>аморфный кокс</Cinder_CokeRelationOffset.stages.Amorphouscoke.label>
-  <Cinder_CokeRelationOffset.stages.Amorphouscoke.labelSocial>Рядом с ней кажется, будто моё тело поджаривают!</Cinder_CokeRelationOffset.stages.Amorphouscoke.labelSocial>
+  <Cinder_CokeRelationOffset.stages.Amorphouscoke.label>аморфное тление</Cinder_CokeRelationOffset.stages.Amorphouscoke.label>
+  <Cinder_CokeRelationOffset.stages.Amorphouscoke.labelSocial>Рядом с {PAWN_gender ? ним : ней} меня будто прожаривают насквозь!</Cinder_CokeRelationOffset.stages.Amorphouscoke.labelSocial>
 </LanguageData>

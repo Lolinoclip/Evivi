@@ -37,7 +37,7 @@
   </Cinder_TwistedPharmacology.generalRules.rulesStrings>
   <Cinder_HeavyArmor.label>применение тяжёлой брони</Cinder_HeavyArmor.label>
   <Cinder_HeavyArmor.description>Дополнительно укрепить аморфный полимер для использования в тяжёлой защитной экипировке и других видах брони.</Cinder_HeavyArmor.description>
-  <Cinder_MultipleWarheads.label>Мультипуля</Cinder_MultipleWarheads.label>
+  <Cinder_MultipleWarheads.label>Усовершенствованное вооружение</Cinder_MultipleWarheads.label>
   <Cinder_MultipleWarheads.description>Усовершенствование огнестрельного оружия и боеприпасов, повышающее урон при попадании пуль в противника.</Cinder_MultipleWarheads.description>
   <Cinder_PowerTools.label>полимерные инструменты</Cinder_PowerTools.label>
   <Cinder_PowerTools.description>Механизированные инструменты с приводом от мышц из аморфного полимера можно использовать как эффективное оружие ближнего боя. В повседневной жизни они также служат удобными производственными инструментами.</Cinder_PowerTools.description>
