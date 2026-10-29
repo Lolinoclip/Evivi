@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: anti air turret -->
-  <Cinder_Mounted_AA.label>anti air turret</Cinder_Mounted_AA.label>
-  <!-- EN: TODO -->
+  <Cinder_Mounted_AA.label>зенитная турель</Cinder_Mounted_AA.label>
   <Cinder_Mounted_AA.description>TODO</Cinder_Mounted_AA.description>
-  <!-- EN: anti air turret -->
-  <Cinder_Mounted_AA.verbs.Verb_Shoot.label>anti air turret</Cinder_Mounted_AA.verbs.Verb_Shoot.label>
-  <!-- EN: tentacle turret -->
-  <Cinder_Mounted_Tentacle.label>tentacle turret</Cinder_Mounted_Tentacle.label>
-  <!-- EN: TODO -->
+  <Cinder_Mounted_AA.verbs.Verb_Shoot.label>зенитная турель</Cinder_Mounted_AA.verbs.Verb_Shoot.label>
+  <Cinder_Mounted_Tentacle.label>щупальцевая турель</Cinder_Mounted_Tentacle.label>
   <Cinder_Mounted_Tentacle.description>TODO</Cinder_Mounted_Tentacle.description>
-  <!-- EN: tentacle turret -->
-  <Cinder_Mounted_Tentacle.verbs.Verb_Shoot.label>tentacle turret</Cinder_Mounted_Tentacle.verbs.Verb_Shoot.label>
-  <!-- EN: rocket pod -->
-  <Cinder_Mounted_Rocket.label>rocket pod</Cinder_Mounted_Rocket.label>
-  <!-- EN: TODO -->
+  <Cinder_Mounted_Tentacle.verbs.Verb_Shoot.label>щупальцевая турель</Cinder_Mounted_Tentacle.verbs.Verb_Shoot.label>
+  <Cinder_Mounted_Rocket.label>ракетный блок</Cinder_Mounted_Rocket.label>
   <Cinder_Mounted_Rocket.description>TODO</Cinder_Mounted_Rocket.description>
-  <!-- EN: rocket pod -->
-  <Cinder_Mounted_Rocket.verbs.Verb_Shoot.label>rocket pod</Cinder_Mounted_Rocket.verbs.Verb_Shoot.label>
-  <!-- EN: exoskeleton minigun -->
-  <Cinder_Mounted_EXOminigun.label>exoskeleton minigun</Cinder_Mounted_EXOminigun.label>
-  <!-- EN: TODO -->
+  <Cinder_Mounted_Rocket.verbs.Verb_Shoot.label>ракетный блок</Cinder_Mounted_Rocket.verbs.Verb_Shoot.label>
+  <Cinder_Mounted_EXOminigun.label>миниган экзоскелета</Cinder_Mounted_EXOminigun.label>
   <Cinder_Mounted_EXOminigun.description>TODO</Cinder_Mounted_EXOminigun.description>
-  <!-- EN: exoskeleton minigun -->
-  <Cinder_Mounted_EXOminigun.verbs.Verb_Shoot.label>exoskeleton minigun</Cinder_Mounted_EXOminigun.verbs.Verb_Shoot.label>
-  <!-- EN: exoskeleton turret -->
-  <Cinder_Mounted_EXOturret.label>exoskeleton turret</Cinder_Mounted_EXOturret.label>
-  <!-- EN: TODO -->
+  <Cinder_Mounted_EXOminigun.verbs.Verb_Shoot.label>миниган экзоскелета</Cinder_Mounted_EXOminigun.verbs.Verb_Shoot.label>
+  <Cinder_Mounted_EXOturret.label>турель экзоскелета</Cinder_Mounted_EXOturret.label>
   <Cinder_Mounted_EXOturret.description>TODO</Cinder_Mounted_EXOturret.description>
-  <!-- EN: exoskeleton turret -->
-  <Cinder_Mounted_EXOturret.verbs.Verb_Shoot.label>exoskeleton turret</Cinder_Mounted_EXOturret.verbs.Verb_Shoot.label>
-  <!-- EN: eroded KPV HMG -->
-  <Cinder_Mounted_KPVTurret.label>eroded KPV HMG</Cinder_Mounted_KPVTurret.label>
-  <!-- EN: A reliable standard-issue machine gun, capable of effectively penetrating the armor of most small to medium-sized targets and inflicting suppression during long-range engagements. -->
-  <Cinder_Mounted_KPVTurret.description>A reliable standard-issue machine gun, capable of effectively penetrating the armor of most small to medium-sized targets and inflicting suppression during long-range engagements.</Cinder_Mounted_KPVTurret.description>
-  <!-- EN: eroded KPV HMG -->
-  <Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label>eroded KPV HMG</Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label>
-  <!-- EN: Tentacle -->
-  <Cinder_TentacleGourdProjB.label>Tentacle</Cinder_TentacleGourdProjB.label>
+  <Cinder_Mounted_EXOturret.verbs.Verb_Shoot.label>турель экзоскелета</Cinder_Mounted_EXOturret.verbs.Verb_Shoot.label>
+  <Cinder_Mounted_KPVTurret.label>искажённый крупнокалиберный пулемёт КПВ</Cinder_Mounted_KPVTurret.label>
+  <Cinder_Mounted_KPVTurret.description>Надёжный штатный пулемёт, способный эффективно пробивать броню большинства малых и средних целей и подавлять противника в бою на больших дистанциях.</Cinder_Mounted_KPVTurret.description>
+  <Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label>искажённый крупнокалиберный пулемёт КПВ</Cinder_Mounted_KPVTurret.verbs.Verb_Shoot.label>
+  <Cinder_TentacleGourdProjB.label>щупальце</Cinder_TentacleGourdProjB.label>
 </LanguageData>

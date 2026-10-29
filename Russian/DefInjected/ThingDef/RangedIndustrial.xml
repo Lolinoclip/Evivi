@@ -1,86 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Multiple bullet -->
-  <Cinder_Bullet_308APE.label>Multiple bullet</Cinder_Bullet_308APE.label>
-  <!-- EN: Energy gathering bomb -->
-  <Cinder_Bullet_RPG.label>Energy gathering bomb</Cinder_Bullet_RPG.label>
-  <!-- EN: .50 bullet -->
-  <Cinder_Bullet_50APE.label>.50 bullet</Cinder_Bullet_50APE.label>
-  <!-- EN: needle bullet -->
-  <Cinder_Bullet_PDW.label>needle bullet</Cinder_Bullet_PDW.label>
-  <!-- EN: Flechette blast -->
-  <Cinder_Bullet_Flechette.label>Flechette blast</Cinder_Bullet_Flechette.label>
-  <!-- EN: Magistrate shotgun -->
-  <Cinder_Magistrate.label>Magistrate shotgun</Cinder_Magistrate.label>
-  <Cinder_Magistrate.description>An ancient design of shotgun that use special dart bullets. Deadly, but short range.Sometimes tentacles grow on the muzzle of a gun.</Cinder_Magistrate.description>
-  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.0>revolver shotgun</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.1>five-shooter</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.2>Magistrate</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.3>justice judge</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_Magistrate.tools.stock.label>stock</Cinder_Magistrate.tools.stock.label>
-  <Cinder_Magistrate.tools.barrel.label>barrel</Cinder_Magistrate.tools.barrel.label>
-  <Cinder_Magistrate.verbs.Verb_Shoot.label>Magistrate shotgun</Cinder_Magistrate.verbs.Verb_Shoot.label>
-  <!-- EN: Needle PDW -->
-  <Cinder_MP12A.label>Needle PDW</Cinder_MP12A.label>
-  <Cinder_MP12A.description>An ancient rapid fire armor piercing submachine gun/short rifle that uses armor piercing ammunition and was used as a weapon for vehicle crew members or operators to confront armed soldiers, occasionally this gun grows some strange tentacles.</Cinder_MP12A.description>
-  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.0>pdw</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.1>rapier</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.2>dagger</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.3>sbr</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.4>smg</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.4>
-  <Cinder_MP12A.tools.stock.label>stock</Cinder_MP12A.tools.stock.label>
-  <Cinder_MP12A.tools.barrel.label>barrel</Cinder_MP12A.tools.barrel.label>
-  <Cinder_MP12A.verbs.Verb_Shoot.label>Needle PDW</Cinder_MP12A.verbs.Verb_Shoot.label>
-  <!-- EN: Ouroboros rifle -->
-  <Cinder_PCX33A.label>Ouroboros rifle</Cinder_PCX33A.label>
-  <Cinder_PCX33A.description>An ancient Hi-Power rifle,The actual damage it causes is not as simple as it seems.Its special warhead will shatter upon hitting the target, causing serious damage,Not clearing what twisted it, occasionally this gun grows some strange tentacles.</Cinder_PCX33A.description>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>Ouroboros</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>rattle</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>snake</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.3>short rifle</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.4>fusil</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.4>
-  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.5>line gun</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.5>
-  <Cinder_PCX33A.tools.stock.label>stock</Cinder_PCX33A.tools.stock.label>
-  <Cinder_PCX33A.tools.barrel.label>barrel</Cinder_PCX33A.tools.barrel.label>
-  <Cinder_PCX33A.verbs.Verb_Shoot.label>Ouroboros rifle</Cinder_PCX33A.verbs.Verb_Shoot.label>
-  <!-- EN: Flint anti material rifle -->
-  <Cinder_Flint50A.label>Flint anti material rifle</Cinder_Flint50A.label>
-  <Cinder_Flint50A.description>An ancient anti material assault rifle that uses large caliber bullets and can effectively destroy lightly armored targets or military equipment, with a recoil that is difficult to withstand, occasionally this gun grows some strange tentacles.</Cinder_Flint50A.description>
-  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.0>Flint</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.1>Jingall</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.2>Wallgun</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.3>startler</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_Flint50A.tools.stock.label>stock</Cinder_Flint50A.tools.stock.label>
-  <Cinder_Flint50A.tools.barrel.label>barrel</Cinder_Flint50A.tools.barrel.label>
-  <Cinder_Flint50A.verbs.Verb_Shoot.label>Flint anti material rifle</Cinder_Flint50A.verbs.Verb_Shoot.label>
-  <!-- EN: Dragon slayer Bow -->
-  <Cinder_Dragonslayer.label>Dragon slayer Bow</Cinder_Dragonslayer.label>
-  <Cinder_Dragonslayer.description>An ancient extended range anti armor rocket launcher that destroys heavy armor by launching tentacle shaped charge bombs inside. It can also transform into a minigun to deal with cluster targets.</Cinder_Dragonslayer.description>
-  <Cinder_Dragonslayer.comps.CompSecondaryVerb.description>Switch weapon form</Cinder_Dragonslayer.comps.CompSecondaryVerb.description>
-  <Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>Rocket</Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>
-  <Cinder_Dragonslayer.comps.CompSecondaryVerb.secondaryWeaponLabel>Minigun</Cinder_Dragonslayer.comps.CompSecondaryVerb.secondaryWeaponLabel>
-  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.0>Dragon slayer</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.1>longbow</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.2>RPG</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>Great Bow</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_Dragonslayer.tools.stock.label>stock</Cinder_Dragonslayer.tools.stock.label>
-  <Cinder_Dragonslayer.tools.barrel.label>barrel</Cinder_Dragonslayer.tools.barrel.label>
-  <Cinder_Dragonslayer.verbs.Verb_Shoot.label>Dragon slayer Bow</Cinder_Dragonslayer.verbs.Verb_Shoot.label>
-  <!-- EN: erosion gourd -->
-  <Cinder_ErosionGourd.label>erosion gourd</Cinder_ErosionGourd.label>
-  <Cinder_ErosionGourd.description>A strange gourd,Can release tentacles to stab enemies in the distance,occasionally this thing grows some strange tentacles.</Cinder_ErosionGourd.description>
-  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>gourd</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>
-  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.1>medicine tank</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.1>
-  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.2>ritual implements</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.2>
-  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.3>calabash</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.3>
-  <Cinder_ErosionGourd.tools.Tentacle_blade.label>Tentacle blade</Cinder_ErosionGourd.tools.Tentacle_blade.label>
-  <Cinder_ErosionGourd.tools.Tentacle_stab.label>Tentacle stab</Cinder_ErosionGourd.tools.Tentacle_stab.label>
-  <Cinder_ErosionGourd.verbs.Verb_Shoot.label>erosion gourd</Cinder_ErosionGourd.verbs.Verb_Shoot.label>
-  <!-- EN: Tentacle -->
-  <Cinder_TentacleGourdProj.label>Tentacle</Cinder_TentacleGourdProj.label>
-  <!-- EN: plastic explosive -->
-  <Cinder_PlasticGrenades.label>plastic explosive</Cinder_PlasticGrenades.label>
-  <Cinder_PlasticGrenades.description>A high-energy explosive made of polymer that can effectively destroy facilities and defensive buildings.</Cinder_PlasticGrenades.description>
-  <Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>throw plastic explosive</Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>
-  <Cinder_PlasticExplosives.label>plastic explosive</Cinder_PlasticExplosives.label>
+  <Cinder_Bullet_308APE.label>мультипуля</Cinder_Bullet_308APE.label>
+  <Cinder_Bullet_RPG.label>кумулятивный снаряд</Cinder_Bullet_RPG.label>
+  <Cinder_Bullet_50APE.label>пуля калибра .50</Cinder_Bullet_50APE.label>
+  <Cinder_Bullet_PDW.label>игольчатая пуля</Cinder_Bullet_PDW.label>
+  <Cinder_Bullet_Flechette.label>залп флешетт</Cinder_Bullet_Flechette.label>
+  <Cinder_Magistrate.label>дробовик «Магистрат»</Cinder_Magistrate.label>
+  <Cinder_Magistrate.description>Дробовик древней конструкции, использующий специальные стреловидные боеприпасы. Смертоносен, но обладает небольшой дальностью стрельбы. Иногда на дуле вырастают щупальца.</Cinder_Magistrate.description>
+  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.0>револьверный дробовик</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.1>пятизарядник</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.2>Магистрат</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.3>праведный судья</Cinder_Magistrate.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_Magistrate.tools.stock.label>приклад</Cinder_Magistrate.tools.stock.label>
+  <Cinder_Magistrate.tools.barrel.label>ствол</Cinder_Magistrate.tools.barrel.label>
+  <Cinder_Magistrate.verbs.Verb_Shoot.label>дробовик «Магистрат»</Cinder_Magistrate.verbs.Verb_Shoot.label>
+  <Cinder_MP12A.label>ПП «Игла»</Cinder_MP12A.label>
+  <Cinder_MP12A.description>Древний скорострельный пистолет-пулемёт или укороченная винтовка с бронебойными боеприпасами. Использовался экипажами машин и операторами техники для противостояния вооружённым солдатам. Иногда на оружии вырастают странные щупальца.</Cinder_MP12A.description>
+  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.0>оружие личной обороны</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.1>рапира</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.2>кинжал</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.3>укороченная винтовка</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.4>пистолет-пулемёт</Cinder_MP12A.comps.CompUniqueWeapon.namerLabels.4>
+  <Cinder_MP12A.tools.stock.label>приклад</Cinder_MP12A.tools.stock.label>
+  <Cinder_MP12A.tools.barrel.label>ствол</Cinder_MP12A.tools.barrel.label>
+  <Cinder_MP12A.verbs.Verb_Shoot.label>ПП «Игла»</Cinder_MP12A.verbs.Verb_Shoot.label>
+  <Cinder_PCX33A.label>винтовка «Уроборос»</Cinder_PCX33A.label>
+  <Cinder_PCX33A.description>Древняя мощная винтовка, чей урон обманчив на первый взгляд. Особая пуля разрушается при попадании в цель, нанося тяжёлые повреждения. Неизвестно, что исказило это оружие, но иногда на нём вырастают странные щупальца.</Cinder_PCX33A.description>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>Уроборос</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>гремучник</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>змея</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.3>короткая винтовка</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.4>ружьё</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.4>
+  <Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.5>линейное ружьё</Cinder_PCX33A.comps.CompUniqueWeapon.namerLabels.5>
+  <Cinder_PCX33A.tools.stock.label>приклад</Cinder_PCX33A.tools.stock.label>
+  <Cinder_PCX33A.tools.barrel.label>ствол</Cinder_PCX33A.tools.barrel.label>
+  <Cinder_PCX33A.verbs.Verb_Shoot.label>винтовка «Уроборос»</Cinder_PCX33A.verbs.Verb_Shoot.label>
+  <Cinder_Flint50A.label>крупнокалиберная винтовка «Кремень»</Cinder_Flint50A.label>
+  <Cinder_Flint50A.description>Древняя штурмовая винтовка для поражения техники, использующая крупнокалиберные пули. Эффективна против легкобронированных целей и военного оборудования, но обладает крайне сильной отдачей. Иногда на оружии вырастают странные щупальца.</Cinder_Flint50A.description>
+  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.0>Кремень</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.1>джингал</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.2>крепостное ружьё</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.3>пугало</Cinder_Flint50A.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_Flint50A.tools.stock.label>приклад</Cinder_Flint50A.tools.stock.label>
+  <Cinder_Flint50A.tools.barrel.label>ствол</Cinder_Flint50A.tools.barrel.label>
+  <Cinder_Flint50A.verbs.Verb_Shoot.label>крупнокалиберная винтовка «Кремень»</Cinder_Flint50A.verbs.Verb_Shoot.label>
+  <Cinder_Dragonslayer.label>лук «Драконоборец»</Cinder_Dragonslayer.label>
+  <Cinder_Dragonslayer.description>Древняя противотанковая ракетная установка увеличенной дальности. Разрушает тяжёлую броню, запуская щупальцевые кумулятивные боеприпасы. Может также превращаться в миниган для борьбы с группами целей.</Cinder_Dragonslayer.description>
+  <Cinder_Dragonslayer.comps.CompSecondaryVerb.description>Сменить форму оружия</Cinder_Dragonslayer.comps.CompSecondaryVerb.description>
+  <Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>Ракета</Cinder_Dragonslayer.comps.CompSecondaryVerb.mainWeaponLabel>
+  <Cinder_Dragonslayer.comps.CompSecondaryVerb.secondaryWeaponLabel>Миниган</Cinder_Dragonslayer.comps.CompSecondaryVerb.secondaryWeaponLabel>
+  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.0>Драконоборец</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.1>длинный лук</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.2>РПГ</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>большой лук</Cinder_Dragonslayer.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_Dragonslayer.tools.stock.label>приклад</Cinder_Dragonslayer.tools.stock.label>
+  <Cinder_Dragonslayer.tools.barrel.label>ствол</Cinder_Dragonslayer.tools.barrel.label>
+  <Cinder_Dragonslayer.verbs.Verb_Shoot.label>лук «Драконоборец»</Cinder_Dragonslayer.verbs.Verb_Shoot.label>
+  <Cinder_ErosionGourd.label>тыква искажения</Cinder_ErosionGourd.label>
+  <Cinder_ErosionGourd.description>Странная тыква, способная выпускать щупальца, пронзающие врагов на расстоянии. Иногда на ней вырастают странные щупальца.</Cinder_ErosionGourd.description>
+  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>тыква</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.0>
+  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.1>сосуд для снадобий</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.1>
+  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.2>ритуальная утварь</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.2>
+  <Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.3>калебас</Cinder_ErosionGourd.comps.CompUniqueWeapon.namerLabels.3>
+  <Cinder_ErosionGourd.tools.Tentacle_blade.label>лезвие щупальца</Cinder_ErosionGourd.tools.Tentacle_blade.label>
+  <Cinder_ErosionGourd.tools.Tentacle_stab.label>укол щупальцем</Cinder_ErosionGourd.tools.Tentacle_stab.label>
+  <Cinder_ErosionGourd.verbs.Verb_Shoot.label>тыква искажения</Cinder_ErosionGourd.verbs.Verb_Shoot.label>
+  <Cinder_TentacleGourdProj.label>щупальце</Cinder_TentacleGourdProj.label>
+  <Cinder_PlasticGrenades.label>пластиковая взрывчатка</Cinder_PlasticGrenades.label>
+  <Cinder_PlasticGrenades.description>Мощная взрывчатка на основе полимера, эффективная против сооружений и оборонительных построек.</Cinder_PlasticGrenades.description>
+  <Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>бросить пластиковую взрывчатку</Cinder_PlasticGrenades.verbs.throw_plastic_explosive.label>
+  <Cinder_PlasticExplosives.label>пластиковая взрывчатка</Cinder_PlasticExplosives.label>
 </LanguageData>
