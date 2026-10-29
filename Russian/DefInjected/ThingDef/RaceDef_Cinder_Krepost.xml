@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cinder_Mech_Krepost.label>«Надгробие»</Cinder_Mech_Krepost.label>
-  <Cinder_Mech_Krepost.description>Искажённое, свирепое и жуткое орудие войны, обросшее аномальной плотью. Эти основные боевые мехи замкнутой области подверглись искажению. Теперь даже одна такая машина способна нанести тяжёлые потери вооружённому разведывательному отряду. Это искажённые крепости — медленные, смертоносные надгробия, неуверенно шагающие вперёд.</Cinder_Mech_Krepost.description>
+  <Cinder_Mech_Krepost.description>Искажённое, свирепое и жуткое орудие войны, в останках которого обитает нечто аномальное. Когда-то такая машина была союзником, но теперь даже одна из них способна нанести тяжёлые потери вооружённому разведывательному отряду. Это искажённые крепости — медленно и неуверенно шагающие смертоносные надгробия.</Cinder_Mech_Krepost.description>
   <Cinder_Mech_Krepost.tools.Front_tentacle.label>переднее щупальце</Cinder_Mech_Krepost.tools.Front_tentacle.label>
   <Cinder_Mech_Krepost.tools.Left_Leg.label>левая нога</Cinder_Mech_Krepost.tools.Left_Leg.label>
   <Cinder_Mech_Krepost.tools.Right_Leg.label>правая нога</Cinder_Mech_Krepost.tools.Right_Leg.label>
   <Cinder_Mech_Tombstone.label>имитация «Надгробия»</Cinder_Mech_Tombstone.label>
-  <Cinder_Mech_Tombstone.description>Искажённое, свирепое и жуткое орудие войны, обросшее аномальной плотью. Эти основные боевые мехи замкнутой области подверглись искажению. Теперь даже одна такая машина способна нанести тяжёлые потери вооружённому разведывательному отряду. Это искажённые крепости — медленные, смертоносные надгробия, неуверенно шагающие вперёд. Этот вариант «Надгробия» — несовершенная серийная копия, чьи реальные характеристики оставляют желать лучшего.</Cinder_Mech_Tombstone.description>
+  <Cinder_Mech_Tombstone.description>Искажённое, свирепое и жуткое орудие войны, в останках которого обитает нечто аномальное. Когда-то такая машина была союзником, но теперь даже одна из них способна нанести тяжёлые потери вооружённому разведывательному отряду. Это искажённые крепости — медленно и неуверенно шагающие смертоносные надгробия. Этот вариант «Надгробия» — несовершенная серийная копия, чьи реальные характеристики оставляют желать лучшего.</Cinder_Mech_Tombstone.description>
   <Cinder_Mech_Tombstone.tools.Front_tentacle.label>переднее щупальце</Cinder_Mech_Tombstone.tools.Front_tentacle.label>
   <Cinder_Mech_Tombstone.tools.Left_Leg.label>левая нога</Cinder_Mech_Tombstone.tools.Left_Leg.label>
   <Cinder_Mech_Tombstone.tools.Right_Leg.label>правая нога</Cinder_Mech_Tombstone.tools.Right_Leg.label>
