@@ -11,7 +11,7 @@
     <li>subject_story->изучение способов применения аморфного полимера</li>
     <li>subject_gerund->разделение аморфного полимера</li>
   </Cinder_Separation.generalRules.rulesStrings>
-  <Cinder_TentacleMechanism.label>применение щупальцевых механизмов</Cinder_TentacleMechanism.label>
+  <Cinder_TentacleMechanism.label>щупальцевые движители</Cinder_TentacleMechanism.label>
   <Cinder_TentacleMechanism.description>Попытаться искусственно выращивать щупальцевые движители из аморфного полимера и устанавливать их на механические конструкции.</Cinder_TentacleMechanism.description>
   <Cinder_TentacleMechanism.discoveredLetterTitle>Сведения: обожжённое странное мясо</Cinder_TentacleMechanism.discoveredLetterTitle>
   <Cinder_TentacleMechanism.discoveredLetterText>Это биологически активная часть аморфного полимера с запахом гари. Как ни странно, она не разлагается.</Cinder_TentacleMechanism.discoveredLetterText>
@@ -35,7 +35,7 @@
     <li>subject_story->поиск способов усиления регенеративных свойств аморфного полимера</li>
     <li>subject_gerund->изготовление препаратов искажения и регенерации с нестабильным действием</li>
   </Cinder_TwistedPharmacology.generalRules.rulesStrings>
-  <Cinder_HeavyArmor.label>применение тяжёлой брони</Cinder_HeavyArmor.label>
+  <Cinder_HeavyArmor.label>тяжёлая полимерная броня</Cinder_HeavyArmor.label>
   <Cinder_HeavyArmor.description>Дополнительно укрепить аморфный полимер для использования в тяжёлой защитной экипировке и других видах брони.</Cinder_HeavyArmor.description>
   <Cinder_MultipleWarheads.label>Усовершенствованное вооружение</Cinder_MultipleWarheads.label>
   <Cinder_MultipleWarheads.description>Усовершенствование огнестрельного оружия и боеприпасов, повышающее урон при попадании пуль в противника.</Cinder_MultipleWarheads.description>
@@ -56,6 +56,6 @@
   <Cinder_WarMachinery.description>Автономная боевая машина с мощным вооружением, способная наводить ракеты «Адское пламя» для уничтожения тяжелобронированных целей.</Cinder_WarMachinery.description>
   <Cinder_WarAttacker.label>штурмовая машина</Cinder_WarAttacker.label>
   <Cinder_WarAttacker.description>Воссоздать технологии древнего тяжёлого штурмового меха, чтобы построить пригодную к эксплуатации тяжеловооружённую шагающую машину.</Cinder_WarAttacker.description>
-  <Cinder_MainBattleWalker.label>основной боевой шагоход</Cinder_MainBattleWalker.label>
-  <Cinder_MainBattleWalker.description>Путём обратной разработки создать для колонии собственный шагоход, сопоставимый с основным боевым танком.</Cinder_MainBattleWalker.description>
+  <Cinder_MainBattleWalker.label>шагоход «Крепость»</Cinder_MainBattleWalker.label>
+  <Cinder_MainBattleWalker.description>Путём обратной разработки создать для колонии собственный шагоход «Крепость», сопоставимый с основным боевым танком.</Cinder_MainBattleWalker.description>
 </LanguageData>
