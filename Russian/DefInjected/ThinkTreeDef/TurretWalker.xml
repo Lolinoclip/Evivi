@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Patrolling. -->
-  <Cinder_WalkerTurret.thinkRoot.subNodes.9.subNodes.0.subNodes.1.subNodes.0.reportStringOverride>Patrolling.</Cinder_WalkerTurret.thinkRoot.subNodes.9.subNodes.0.subNodes.1.subNodes.0.reportStringOverride>
-  <Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>Crawling to safety.</Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>
-  <Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>Crawling to bed.</Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>
+  <Cinder_WalkerTurret.thinkRoot.subNodes.9.subNodes.0.subNodes.1.subNodes.0.reportStringOverride>Патрулирует.</Cinder_WalkerTurret.thinkRoot.subNodes.9.subNodes.0.subNodes.1.subNodes.0.reportStringOverride>
+  <Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>Ползёт в безопасное место.</Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.0.crawlingReportStringOverride>
+  <Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>Ползёт к кровати.</Cinder_WalkerTurret.thinkRoot.subNodes.1.subNodes.0.subNodes.0.subNodes.0.subNodes.1.subNodes.0.crawlingReportStringOverride>
 </LanguageData>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Working at a workstation -->
-  <Cinder_DoBillsMachiningTable.label>Working at a workstation</Cinder_DoBillsMachiningTable.label>
-  <!-- EN: work -->
-  <Cinder_DoBillsMachiningTable.verb>work</Cinder_DoBillsMachiningTable.verb>
-  <!-- EN: working at -->
-  <Cinder_DoBillsMachiningTable.gerund>working at</Cinder_DoBillsMachiningTable.gerund>
+  <Cinder_DoBillsMachiningTable.label>работа за универсальным станком</Cinder_DoBillsMachiningTable.label>
+  <Cinder_DoBillsMachiningTable.verb>работать</Cinder_DoBillsMachiningTable.verb>
+  <Cinder_DoBillsMachiningTable.gerund>работает за</Cinder_DoBillsMachiningTable.gerund>
 </LanguageData>
